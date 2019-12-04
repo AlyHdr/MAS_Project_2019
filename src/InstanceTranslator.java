@@ -15,10 +15,12 @@ public class InstanceTranslator {
         this.fileDomains = fileDomains;
     }
 
-    public InstanceTranslator(String fileVariables) {
-        this.fileVariables = fileVariables;
+//    public InstanceTranslator(String fileVariables) {
+//        this.fileVariables = fileVariables;
+//    }
+    public InstanceTranslator(String fileDomains) {
+        this.fileDomains= fileDomains;
     }
-
     public ArrayList<Variable> parseVaribales(){
         ArrayList variables = new ArrayList();
         try {
@@ -33,5 +35,28 @@ public class InstanceTranslator {
             e.printStackTrace();
         }
         return variables;
+    }
+    public ArrayList<Domain> parseDomains()
+    {
+        ArrayList domains = new ArrayList();
+        try {
+            BufferedReader reader = new BufferedReader(new FileReader(new File(fileDomains)));
+            String line = "";
+            while ( (line = reader.readLine()) != null )
+            {
+                String values[] = line.trim().split("\\s+");
+                String domainNumber=values[0];
+                int domainCardinalty=Integer.parseInt(values[1]);
+                ArrayList<Integer> valuesOfDomain=new ArrayList<>();
+                for (int i=0;i<domainCardinalty;i++)
+                {
+                    valuesOfDomain.add(Integer.parseInt(values[i+2]));
+                }
+                domains.add(new Domain("Domain "+domainNumber,valuesOfDomain));
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return domains;
     }
 }
