@@ -1,22 +1,23 @@
 public class Variable {
     private int domain;
-    private int variable;
+    private int variableNumber;
 
-    public Variable(int domain, int variable) {
+
+    public Variable(int variableNumber,int domain) {
         this.domain = domain;
-        this.variable = variable;
+        this.variableNumber = variableNumber;
     }
 
     public int getDomain() {
         return domain;
     }
 
-    public int getVariable() {
-        return variable;
+    public int getVariableNumber() {
+        return variableNumber;
     }
 
     @Override
     public String toString() {
-        return "var: "+variable+" dom: "+domain;
+        return "var: "+variableNumber+" dom: "+domain;
     }
 }
