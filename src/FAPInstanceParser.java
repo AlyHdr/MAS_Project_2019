@@ -4,26 +4,15 @@ import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-public class InstanceTranslator {
+public class FAPInstanceParser {
     private String fileVariables;
     private String fileConstraints;
     private String fileDomains;
 
-    public InstanceTranslator(String fileVariables, String fileConstraints, String fileDomains) {
+    public FAPInstanceParser(String fileVariables, String fileConstraints, String fileDomains) {
         this.fileVariables = fileVariables;
         this.fileConstraints = fileConstraints;
         this.fileDomains = fileDomains;
-    }
-
-//    public InstanceTranslator(String fileVariables) {
-//        this.fileVariables = fileVariables;
-//    }
-//    public InstanceTranslator(String fileDomains) {
-//        this.fileDomains= fileDomains;
-//    }
-
-    public InstanceTranslator(String fileConstraints) {
-        this.fileConstraints= fileConstraints;
     }
 
     public ArrayList<Variable> parseVaribales(){
@@ -54,13 +43,16 @@ public class InstanceTranslator {
             {
                 String values[] = line.trim().split("\\s+");
                 int domainNumber=Integer.parseInt(values[0]);
-                int domainCardinalty=Integer.parseInt(values[1]);
-                ArrayList<Integer> valuesOfDomain=new ArrayList<>();
-                for (int i=0;i<domainCardinalty;i++)
-                {
-                    valuesOfDomain.add(Integer.parseInt(values[i+2]));
+                if(domainNumber == 0)
+                    continue;
+                else {
+                    int domainCardinalty = Integer.parseInt(values[1]);
+                    ArrayList<Integer> valuesOfDomain = new ArrayList<>();
+                    for (int i = 0; i < domainCardinalty; i++) {
+                        valuesOfDomain.add(Integer.parseInt(values[i + 2]));
+                    }
+                    domains.add(new Domain(domainNumber, valuesOfDomain));
                 }
-                domains.add(new Domain(domainNumber,valuesOfDomain));
             }
         } catch (Exception e) {
             e.printStackTrace();
