@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance>
+  <presentation name="sampleProblem" maxConstraintArity="2" maximize="false" format="XCSP 2.1_FRODO" />
+  <agents nbAgents="4">
+    <agent name="agent1" />
+    <agent name="agent2" />
+    <agent name="agent3" />
+    <agent name="agent4" />
+  </agents>
+  <domains nbDomains="2">
+    <domain name="domain1" nbValues="3">5 8 12</domain>
+    <domain name="domain2" nbValues="2">7 13</domain>
+  </domains>
+  <variables nbVariables="4">
+    <variable name="V1" domain="domain1" agent="agent1" />
+    <variable name="V2" domain="domain1" agent="agent2" />
+    <variable name="V3" domain="domain1" agent="agent3" />
+    <variable name="V4" domain="domain1" agent="agent4" />
+  </variables>
+  <predicates nbPredicates="2">
+    <predicate name="pred_gt">
+      <parameters>int X1 int X2 int K</parameters>
+      <expression>
+        <functional>gt(abs(sub(X1, X2)),K)</functional>
+      </expression>
+    </predicate>
+    <predicate name="pred_eq">
+      <parameters>int X1 int X2 int K</parameters>
+      <expression>
+        <functional>eq(abs(sub(X1, X2)),K)</functional>
+      </expression>
+    </predicate>
+  </predicates>
+  <functions nbFunctions="2">
+    <function name="func_eq" return="int">  
+      <parameters> int X1 int X2 int K </parameters>  
+      <expression>  
+        <functional>
+           if(eq(abs(sub(X1, X2)),K),0,1)
+        </functional>  
+      </expression>  
+    </function>
+    <function name="func_gt" return="int">  
+      <parameters> int X1 int X2 int K </parameters>  
+      <expression>  
+        <functional>  
+           if(gt(abs(sub(X1, X2),K)),0,1)
+        </functional>  
+      </expression>  
+    </function>
+  </functions>
+  <constraints nbConstraints="4">
+    <constraint name="const_1_2" arity="3" scope="V1 V2" reference="func_gt">
+      <parameters>V1 V2 5 1</parameters>
+    </constraint>
+    <constraint name="const_1_4" arity="3" scope="V1 V4" reference="func_gt">
+      <parameters>V1 V4 2 1</parameters>
+    </constraint>
+    <constraint name="const_2_3" arity="3" scope="V2 V3" reference="func_eq">
+      <parameters>V2 V3 3 1</parameters>
+    </constraint>
+    <constraint name="const_3_4" arity="3" scope="V3 V4" reference="func_eq">
+      <parameters>V3 V4 3 1</parameters>
+    </constraint>
+  </constraints>
+</instance>
+

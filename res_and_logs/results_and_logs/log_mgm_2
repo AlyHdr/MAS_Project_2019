@@ -1,0 +1,4264 @@
+FRODO  Copyright (C) 2008-2019  Thomas Leaute, Brammert Ottens & Radoslaw Szymanek
+This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to redistribute it
+under certain conditions. Use the option -license to display the license.
+
+Parsing the input problem file: instances/scen02.xml
+Parsing the input agent configuration file: agents/MGM/MGMagentJaCoP.xml
+Setting up the agents...
+Constraint graph:
+graph {
+	node [shape = "circle"];
+	subgraph cluster_agent85 {
+		label = agent85;
+		V85 [style="filled"];
+	}
+	subgraph cluster_agent720 {
+		label = agent720;
+		V720 [style="filled"];
+	}
+	subgraph cluster_agent86 {
+		label = agent86;
+		V86 [style="filled"];
+	}
+	subgraph cluster_agent600 {
+		label = agent600;
+		V600 [style="filled"];
+	}
+	subgraph cluster_agent721 {
+		label = agent721;
+		V721 [style="filled"];
+	}
+	subgraph cluster_agent83 {
+		label = agent83;
+		V83 [style="filled"];
+	}
+	subgraph cluster_agent601 {
+		label = agent601;
+		V601 [style="filled"];
+	}
+	subgraph cluster_agent722 {
+		label = agent722;
+		V722 [style="filled"];
+	}
+	subgraph cluster_agent84 {
+		label = agent84;
+		V84 [style="filled"];
+	}
+	subgraph cluster_agent602 {
+		label = agent602;
+		V602 [style="filled"];
+	}
+	subgraph cluster_agent723 {
+		label = agent723;
+		V723 [style="filled"];
+	}
+	subgraph cluster_agent603 {
+		label = agent603;
+		V603 [style="filled"];
+	}
+	subgraph cluster_agent724 {
+		label = agent724;
+		V724 [style="filled"];
+	}
+	subgraph cluster_agent604 {
+		label = agent604;
+		V604 [style="filled"];
+	}
+	subgraph cluster_agent605 {
+		label = agent605;
+		V605 [style="filled"];
+	}
+	subgraph cluster_agent606 {
+		label = agent606;
+		V606 [style="filled"];
+	}
+	subgraph cluster_agent607 {
+		label = agent607;
+		V607 [style="filled"];
+	}
+	subgraph cluster_agent608 {
+		label = agent608;
+		V608 [style="filled"];
+	}
+	subgraph cluster_agent281 {
+		label = agent281;
+		V281 [style="filled"];
+	}
+	subgraph cluster_agent282 {
+		label = agent282;
+		V282 [style="filled"];
+	}
+	subgraph cluster_agent283 {
+		label = agent283;
+		V283 [style="filled"];
+	}
+	subgraph cluster_agent284 {
+		label = agent284;
+		V284 [style="filled"];
+	}
+	subgraph cluster_agent289 {
+		label = agent289;
+		V289 [style="filled"];
+	}
+	subgraph cluster_agent613 {
+		label = agent613;
+		V613 [style="filled"];
+	}
+	subgraph cluster_agent614 {
+		label = agent614;
+		V614 [style="filled"];
+	}
+	subgraph cluster_agent615 {
+		label = agent615;
+		V615 [style="filled"];
+	}
+	subgraph cluster_agent616 {
+		label = agent616;
+		V616 [style="filled"];
+	}
+	subgraph cluster_agent617 {
+		label = agent617;
+		V617 [style="filled"];
+	}
+	subgraph cluster_agent618 {
+		label = agent618;
+		V618 [style="filled"];
+	}
+	subgraph cluster_agent290 {
+		label = agent290;
+		V290 [style="filled"];
+	}
+	subgraph cluster_agent291 {
+		label = agent291;
+		V291 [style="filled"];
+	}
+	subgraph cluster_agent292 {
+		label = agent292;
+		V292 [style="filled"];
+	}
+	subgraph cluster_agent621 {
+		label = agent621;
+		V621 [style="filled"];
+	}
+	subgraph cluster_agent622 {
+		label = agent622;
+		V622 [style="filled"];
+	}
+	subgraph cluster_agent743 {
+		label = agent743;
+		V743 [style="filled"];
+	}
+	subgraph cluster_agent744 {
+		label = agent744;
+		V744 [style="filled"];
+	}
+	subgraph cluster_agent745 {
+		label = agent745;
+		V745 [style="filled"];
+	}
+	subgraph cluster_agent625 {
+		label = agent625;
+		V625 [style="filled"];
+	}
+	subgraph cluster_agent746 {
+		label = agent746;
+		V746 [style="filled"];
+	}
+	subgraph cluster_agent626 {
+		label = agent626;
+		V626 [style="filled"];
+	}
+	subgraph cluster_agent747 {
+		label = agent747;
+		V747 [style="filled"];
+	}
+	subgraph cluster_agent748 {
+		label = agent748;
+		V748 [style="filled"];
+	}
+	subgraph cluster_agent629 {
+		label = agent629;
+		V629 [style="filled"];
+	}
+	subgraph cluster_agent632 {
+		label = agent632;
+		V632 [style="filled"];
+	}
+	subgraph cluster_agent633 {
+		label = agent633;
+		V633 [style="filled"];
+	}
+	subgraph cluster_agent634 {
+		label = agent634;
+		V634 [style="filled"];
+	}
+	subgraph cluster_agent635 {
+		label = agent635;
+		V635 [style="filled"];
+	}
+	subgraph cluster_agent636 {
+		label = agent636;
+		V636 [style="filled"];
+	}
+	subgraph cluster_agent79 {
+		label = agent79;
+		V79 [style="filled"];
+	}
+	subgraph cluster_agent879 {
+		label = agent879;
+		V879 [style="filled"];
+	}
+	subgraph cluster_agent517 {
+		label = agent517;
+		V517 [style="filled"];
+	}
+	subgraph cluster_agent518 {
+		label = agent518;
+		V518 [style="filled"];
+	}
+	subgraph cluster_agent519 {
+		label = agent519;
+		V519 [style="filled"];
+	}
+	subgraph cluster_agent81 {
+		label = agent81;
+		V81 [style="filled"];
+	}
+	subgraph cluster_agent82 {
+		label = agent82;
+		V82 [style="filled"];
+	}
+	subgraph cluster_agent630 {
+		label = agent630;
+		V630 [style="filled"];
+	}
+	subgraph cluster_agent80 {
+		label = agent80;
+		V80 [style="filled"];
+	}
+	subgraph cluster_agent631 {
+		label = agent631;
+		V631 [style="filled"];
+	}
+	subgraph cluster_agent127 {
+		label = agent127;
+		V127 [style="filled"];
+	}
+	subgraph cluster_agent128 {
+		label = agent128;
+		V128 [style="filled"];
+	}
+	subgraph cluster_agent129 {
+		label = agent129;
+		V129 [style="filled"];
+	}
+	subgraph cluster_agent800 {
+		label = agent800;
+		V800 [style="filled"];
+	}
+	subgraph cluster_agent801 {
+		label = agent801;
+		V801 [style="filled"];
+	}
+	subgraph cluster_agent802 {
+		label = agent802;
+		V802 [style="filled"];
+	}
+	subgraph cluster_agent481 {
+		label = agent481;
+		V481 [style="filled"];
+	}
+	subgraph cluster_agent482 {
+		label = agent482;
+		V482 [style="filled"];
+	}
+	subgraph cluster_agent53 {
+		label = agent53;
+		V53 [style="filled"];
+	}
+	subgraph cluster_agent54 {
+		label = agent54;
+		V54 [style="filled"];
+	}
+	subgraph cluster_agent130 {
+		label = agent130;
+		V130 [style="filled"];
+	}
+	subgraph cluster_agent269 {
+		label = agent269;
+		V269 [style="filled"];
+	}
+	subgraph cluster_agent261 {
+		label = agent261;
+		V261 [style="filled"];
+	}
+	subgraph cluster_agent262 {
+		label = agent262;
+		V262 [style="filled"];
+	}
+	subgraph cluster_agent263 {
+		label = agent263;
+		V263 [style="filled"];
+	}
+	subgraph cluster_agent143 {
+		label = agent143;
+		V143 [style="filled"];
+	}
+	subgraph cluster_agent264 {
+		label = agent264;
+		V264 [style="filled"];
+	}
+	subgraph cluster_agent144 {
+		label = agent144;
+		V144 [style="filled"];
+	}
+	subgraph cluster_agent265 {
+		label = agent265;
+		V265 [style="filled"];
+	}
+	subgraph cluster_agent145 {
+		label = agent145;
+		V145 [style="filled"];
+	}
+	subgraph cluster_agent266 {
+		label = agent266;
+		V266 [style="filled"];
+	}
+	subgraph cluster_agent146 {
+		label = agent146;
+		V146 [style="filled"];
+	}
+	subgraph cluster_agent267 {
+		label = agent267;
+		V267 [style="filled"];
+	}
+	subgraph cluster_agent268 {
+		label = agent268;
+		V268 [style="filled"];
+	}
+	subgraph cluster_agent713 {
+		label = agent713;
+		V713 [style="filled"];
+	}
+	subgraph cluster_agent714 {
+		label = agent714;
+		V714 [style="filled"];
+	}
+	subgraph cluster_agent717 {
+		label = agent717;
+		V717 [style="filled"];
+	}
+	subgraph cluster_agent718 {
+		label = agent718;
+		V718 [style="filled"];
+	}
+	subgraph cluster_agent719 {
+		label = agent719;
+		V719 [style="filled"];
+	}
+	subgraph cluster_agent270 {
+		label = agent270;
+		V270 [style="filled"];
+	}
+	subgraph cluster_agent271 {
+		label = agent271;
+		V271 [style="filled"];
+	}
+	subgraph cluster_agent272 {
+		label = agent272;
+		V272 [style="filled"];
+	}
+	subgraph cluster_agent273 {
+		label = agent273;
+		V273 [style="filled"];
+	}
+	subgraph cluster_agent274 {
+		label = agent274;
+		V274 [style="filled"];
+	}
+	subgraph cluster_agent275 {
+		label = agent275;
+		V275 [style="filled"];
+	}
+	subgraph cluster_agent276 {
+		label = agent276;
+		V276 [style="filled"];
+	}
+	subgraph cluster_agent277 {
+		label = agent277;
+		V277 [style="filled"];
+	}
+	subgraph cluster_agent278 {
+		label = agent278;
+		V278 [style="filled"];
+	}
+	subgraph cluster_agent324 {
+		label = agent324;
+		V324 [style="filled"];
+	}
+	subgraph cluster_agent566 {
+		label = agent566;
+		V566 [style="filled"];
+	}
+	subgraph cluster_agent325 {
+		label = agent325;
+		V325 [style="filled"];
+	}
+	subgraph cluster_agent205 {
+		label = agent205;
+		V205 [style="filled"];
+	}
+	subgraph cluster_agent326 {
+		label = agent326;
+		V326 [style="filled"];
+	}
+	subgraph cluster_agent206 {
+		label = agent206;
+		V206 [style="filled"];
+	}
+	subgraph cluster_agent327 {
+		label = agent327;
+		V327 [style="filled"];
+	}
+	subgraph cluster_agent328 {
+		label = agent328;
+		V328 [style="filled"];
+	}
+	subgraph cluster_agent329 {
+		label = agent329;
+		V329 [style="filled"];
+	}
+	subgraph cluster_agent560 {
+		label = agent560;
+		V560 [style="filled"];
+	}
+	subgraph cluster_agent561 {
+		label = agent561;
+		V561 [style="filled"];
+	}
+	subgraph cluster_agent562 {
+		label = agent562;
+		V562 [style="filled"];
+	}
+	subgraph cluster_agent321 {
+		label = agent321;
+		V321 [style="filled"];
+	}
+	subgraph cluster_agent322 {
+		label = agent322;
+		V322 [style="filled"];
+	}
+	subgraph cluster_agent323 {
+		label = agent323;
+		V323 [style="filled"];
+	}
+	subgraph cluster_agent565 {
+		label = agent565;
+		V565 [style="filled"];
+	}
+	subgraph cluster_agent577 {
+		label = agent577;
+		V577 [style="filled"];
+	}
+	subgraph cluster_agent578 {
+		label = agent578;
+		V578 [style="filled"];
+	}
+	subgraph cluster_agent579 {
+		label = agent579;
+		V579 [style="filled"];
+	}
+	subgraph cluster_agent13 {
+		label = agent13;
+		V13 [style="filled"];
+	}
+	subgraph cluster_agent16 {
+		label = agent16;
+		V16 [style="filled"];
+	}
+	subgraph cluster_agent14 {
+		label = agent14;
+		V14 [style="filled"];
+	}
+	subgraph cluster_agent15 {
+		label = agent15;
+		V15 [style="filled"];
+	}
+	subgraph cluster_agent330 {
+		label = agent330;
+		V330 [style="filled"];
+	}
+	subgraph cluster_agent588 {
+		label = agent588;
+		V588 [style="filled"];
+	}
+	subgraph cluster_agent589 {
+		label = agent589;
+		V589 [style="filled"];
+	}
+	subgraph cluster_agent349 {
+		label = agent349;
+		V349 [style="filled"];
+	}
+	subgraph cluster_agent580 {
+		label = agent580;
+		V580 [style="filled"];
+	}
+	subgraph cluster_agent341 {
+		label = agent341;
+		V341 [style="filled"];
+	}
+	subgraph cluster_agent583 {
+		label = agent583;
+		V583 [style="filled"];
+	}
+	subgraph cluster_agent342 {
+		label = agent342;
+		V342 [style="filled"];
+	}
+	subgraph cluster_agent584 {
+		label = agent584;
+		V584 [style="filled"];
+	}
+	subgraph cluster_agent343 {
+		label = agent343;
+		V343 [style="filled"];
+	}
+	subgraph cluster_agent585 {
+		label = agent585;
+		V585 [style="filled"];
+	}
+	subgraph cluster_agent344 {
+		label = agent344;
+		V344 [style="filled"];
+	}
+	subgraph cluster_agent586 {
+		label = agent586;
+		V586 [style="filled"];
+	}
+	subgraph cluster_agent587 {
+		label = agent587;
+		V587 [style="filled"];
+	}
+	subgraph cluster_agent236 {
+		label = agent236;
+		V236 [style="filled"];
+	}
+	subgraph cluster_agent599 {
+		label = agent599;
+		V599 [style="filled"];
+	}
+	subgraph cluster_agent237 {
+		label = agent237;
+		V237 [style="filled"];
+	}
+	subgraph cluster_agent238 {
+		label = agent238;
+		V238 [style="filled"];
+	}
+	subgraph cluster_agent590 {
+		label = agent590;
+		V590 [style="filled"];
+	}
+	subgraph cluster_agent591 {
+		label = agent591;
+		V591 [style="filled"];
+	}
+	subgraph cluster_agent350 {
+		label = agent350;
+		V350 [style="filled"];
+	}
+	subgraph cluster_agent592 {
+		label = agent592;
+		V592 [style="filled"];
+	}
+	subgraph cluster_agent351 {
+		label = agent351;
+		V351 [style="filled"];
+	}
+	subgraph cluster_agent593 {
+		label = agent593;
+		V593 [style="filled"];
+	}
+	subgraph cluster_agent352 {
+		label = agent352;
+		V352 [style="filled"];
+	}
+	subgraph cluster_agent594 {
+		label = agent594;
+		V594 [style="filled"];
+	}
+	subgraph cluster_agent595 {
+		label = agent595;
+		V595 [style="filled"];
+	}
+	subgraph cluster_agent233 {
+		label = agent233;
+		V233 [style="filled"];
+	}
+	subgraph cluster_agent475 {
+		label = agent475;
+		V475 [style="filled"];
+	}
+	subgraph cluster_agent596 {
+		label = agent596;
+		V596 [style="filled"];
+	}
+	subgraph cluster_agent234 {
+		label = agent234;
+		V234 [style="filled"];
+	}
+	subgraph cluster_agent476 {
+		label = agent476;
+		V476 [style="filled"];
+	}
+	subgraph cluster_agent597 {
+		label = agent597;
+		V597 [style="filled"];
+	}
+	subgraph cluster_agent235 {
+		label = agent235;
+		V235 [style="filled"];
+	}
+	subgraph cluster_agent598 {
+		label = agent598;
+		V598 [style="filled"];
+	}
+	subgraph cluster_agent764 {
+		label = agent764;
+		V764 [style="filled"];
+	}
+	subgraph cluster_agent765 {
+		label = agent765;
+		V765 [style="filled"];
+	}
+	subgraph cluster_agent645 {
+		label = agent645;
+		V645 [style="filled"];
+	}
+	subgraph cluster_agent766 {
+		label = agent766;
+		V766 [style="filled"];
+	}
+	subgraph cluster_agent646 {
+		label = agent646;
+		V646 [style="filled"];
+	}
+	subgraph cluster_agent767 {
+		label = agent767;
+		V767 [style="filled"];
+	}
+	subgraph cluster_agent768 {
+		label = agent768;
+		V768 [style="filled"];
+	}
+	subgraph cluster_agent880 {
+		label = agent880;
+		V880 [style="filled"];
+	}
+	subgraph cluster_agent520 {
+		label = agent520;
+		V520 [style="filled"];
+	}
+	subgraph cluster_agent763 {
+		label = agent763;
+		V763 [style="filled"];
+	}
+	subgraph cluster_agent651 {
+		label = agent651;
+		V651 [style="filled"];
+	}
+	subgraph cluster_agent652 {
+		label = agent652;
+		V652 [style="filled"];
+	}
+	subgraph cluster_agent665 {
+		label = agent665;
+		V665 [style="filled"];
+	}
+	subgraph cluster_agent786 {
+		label = agent786;
+		V786 [style="filled"];
+	}
+	subgraph cluster_agent303 {
+		label = agent303;
+		V303 [style="filled"];
+	}
+	subgraph cluster_agent666 {
+		label = agent666;
+		V666 [style="filled"];
+	}
+	subgraph cluster_agent787 {
+		label = agent787;
+		V787 [style="filled"];
+	}
+	subgraph cluster_agent304 {
+		label = agent304;
+		V304 [style="filled"];
+	}
+	subgraph cluster_agent667 {
+		label = agent667;
+		V667 [style="filled"];
+	}
+	subgraph cluster_agent788 {
+		label = agent788;
+		V788 [style="filled"];
+	}
+	subgraph cluster_agent305 {
+		label = agent305;
+		V305 [style="filled"];
+	}
+	subgraph cluster_agent668 {
+		label = agent668;
+		V668 [style="filled"];
+	}
+	subgraph cluster_agent789 {
+		label = agent789;
+		V789 [style="filled"];
+	}
+	subgraph cluster_agent306 {
+		label = agent306;
+		V306 [style="filled"];
+	}
+	subgraph cluster_agent661 {
+		label = agent661;
+		V661 [style="filled"];
+	}
+	subgraph cluster_agent662 {
+		label = agent662;
+		V662 [style="filled"];
+	}
+	subgraph cluster_agent663 {
+		label = agent663;
+		V663 [style="filled"];
+	}
+	subgraph cluster_agent664 {
+		label = agent664;
+		V664 [style="filled"];
+	}
+	subgraph cluster_agent785 {
+		label = agent785;
+		V785 [style="filled"];
+	}
+	subgraph cluster_agent555 {
+		label = agent555;
+		V555 [style="filled"];
+	}
+	subgraph cluster_agent797 {
+		label = agent797;
+		V797 [style="filled"];
+	}
+	subgraph cluster_agent435 {
+		label = agent435;
+		V435 [style="filled"];
+	}
+	subgraph cluster_agent556 {
+		label = agent556;
+		V556 [style="filled"];
+	}
+	subgraph cluster_agent798 {
+		label = agent798;
+		V798 [style="filled"];
+	}
+	subgraph cluster_agent436 {
+		label = agent436;
+		V436 [style="filled"];
+	}
+	subgraph cluster_agent557 {
+		label = agent557;
+		V557 [style="filled"];
+	}
+	subgraph cluster_agent799 {
+		label = agent799;
+		V799 [style="filled"];
+	}
+	subgraph cluster_agent558 {
+		label = agent558;
+		V558 [style="filled"];
+	}
+	subgraph cluster_agent559 {
+		label = agent559;
+		V559 [style="filled"];
+	}
+	subgraph cluster_agent790 {
+		label = agent790;
+		V790 [style="filled"];
+	}
+	subgraph cluster_agent791 {
+		label = agent791;
+		V791 [style="filled"];
+	}
+	subgraph cluster_agent792 {
+		label = agent792;
+		V792 [style="filled"];
+	}
+	subgraph cluster_agent793 {
+		label = agent793;
+		V793 [style="filled"];
+	}
+	subgraph cluster_agent794 {
+		label = agent794;
+		V794 [style="filled"];
+	}
+	subgraph cluster_agent795 {
+		label = agent795;
+		V795 [style="filled"];
+	}
+	subgraph cluster_agent796 {
+		label = agent796;
+		V796 [style="filled"];
+	}
+
+
+	V802 -- V768;
+	V802 -- V801;
+	V802 -- V349;
+	V802 -- V767;
+	V802 -- V800;
+	V802 -- V799;
+	V802 -- V622;
+	V802 -- V591;
+	V802 -- V577;
+	V802 -- V621;
+	V802 -- V234;
+	V802 -- V233;
+	V802 -- V562;
+	V802 -- V561;
+	V802 -- V350;
+	V802 -- V592;
+	V801 -- V349;
+	V801 -- V800;
+	V801 -- V799;
+	V801 -- V578;
+	V801 -- V622;
+	V801 -- V591;
+	V801 -- V577;
+	V801 -- V621;
+	V801 -- V234;
+	V801 -- V233;
+	V801 -- V562;
+	V801 -- V561;
+	V801 -- V350;
+	V801 -- V592;
+	V129 -- V128;
+	V129 -- V127;
+	V800 -- V768;
+	V800 -- V767;
+	V800 -- V579;
+	V800 -- V799;
+	V800 -- V798;
+	V800 -- V797;
+	V128 -- V127;
+	V130 -- V129;
+	V130 -- V128;
+	V130 -- V127;
+	V238 -- V237;
+	V481 -- V436;
+	V481 -- V435;
+	V481 -- V476;
+	V481 -- V475;
+	V482 -- V481;
+	V482 -- V436;
+	V482 -- V435;
+	V482 -- V476;
+	V482 -- V475;
+	V272 -- V271;
+	V272 -- V269;
+	V271 -- V270;
+	V270 -- V269;
+	V278 -- V271;
+	V278 -- V277;
+	V278 -- V276;
+	V278 -- V275;
+	V278 -- V274;
+	V278 -- V273;
+	V278 -- V269;
+	V278 -- V146;
+	V278 -- V145;
+	V278 -- V144;
+	V278 -- V143;
+	V277 -- V272;
+	V277 -- V270;
+	V277 -- V276;
+	V277 -- V275;
+	V277 -- V274;
+	V277 -- V273;
+	V277 -- V146;
+	V277 -- V145;
+	V277 -- V144;
+	V277 -- V143;
+	V276 -- V272;
+	V276 -- V271;
+	V276 -- V270;
+	V276 -- V275;
+	V276 -- V273;
+	V276 -- V269;
+	V276 -- V146;
+	V276 -- V145;
+	V276 -- V144;
+	V276 -- V143;
+	V275 -- V272;
+	V275 -- V271;
+	V275 -- V270;
+	V275 -- V274;
+	V275 -- V269;
+	V275 -- V146;
+	V275 -- V145;
+	V275 -- V144;
+	V275 -- V143;
+	V274 -- V272;
+	V274 -- V271;
+	V274 -- V270;
+	V274 -- V273;
+	V274 -- V269;
+	V274 -- V146;
+	V274 -- V145;
+	V274 -- V144;
+	V274 -- V143;
+	V273 -- V272;
+	V273 -- V271;
+	V273 -- V270;
+	V273 -- V269;
+	V273 -- V146;
+	V273 -- V145;
+	V273 -- V144;
+	V273 -- V143;
+	V268 -- V267;
+	V268 -- V266;
+	V268 -- V265;
+	V146 -- V145;
+	V146 -- V143;
+	V267 -- V266;
+	V267 -- V265;
+	V145 -- V144;
+	V266 -- V265;
+	V144 -- V143;
+	V264 -- V263;
+	V262 -- V261;
+	V607 -- V556;
+	V607 -- V555;
+	V607 -- V278;
+	V607 -- V276;
+	V607 -- V584;
+	V607 -- V275;
+	V607 -- V583;
+	V607 -- V274;
+	V607 -- V273;
+	V606 -- V605;
+	V606 -- V562;
+	V606 -- V561;
+	V605 -- V562;
+	V605 -- V561;
+	V604 -- V559;
+	V604 -- V603;
+	V604 -- V268;
+	V604 -- V267;
+	V604 -- V266;
+	V604 -- V265;
+	V604 -- V560;
+	V604 -- V262;
+	V603 -- V559;
+	V603 -- V268;
+	V603 -- V267;
+	V603 -- V266;
+	V603 -- V265;
+	V603 -- V560;
+	V724 -- V723;
+	V724 -- V722;
+	V724 -- V721;
+	V724 -- V278;
+	V724 -- V277;
+	V724 -- V276;
+	V724 -- V275;
+	V724 -- V274;
+	V724 -- V273;
+	V724 -- V717;
+	V724 -- V714;
+	V724 -- V713;
+	V724 -- V719;
+	V724 -- V718;
+	V724 -- V283;
+	V724 -- V282;
+	V724 -- V281;
+	V724 -- V720;
+	V724 -- V344;
+	V724 -- V145;
+	V724 -- V343;
+	V724 -- V342;
+	V724 -- V143;
+	V724 -- V341;
+	V724 -- V284;
+	V602 -- V559;
+	V602 -- V601;
+	V602 -- V566;
+	V602 -- V565;
+	V602 -- V596;
+	V602 -- V595;
+	V602 -- V560;
+	V723 -- V722;
+	V723 -- V721;
+	V723 -- V278;
+	V723 -- V277;
+	V723 -- V276;
+	V723 -- V275;
+	V723 -- V274;
+	V723 -- V273;
+	V723 -- V717;
+	V723 -- V714;
+	V723 -- V713;
+	V723 -- V719;
+	V723 -- V718;
+	V723 -- V283;
+	V723 -- V282;
+	V723 -- V281;
+	V723 -- V720;
+	V723 -- V146;
+	V723 -- V344;
+	V723 -- V343;
+	V723 -- V144;
+	V723 -- V342;
+	V723 -- V341;
+	V723 -- V284;
+	V601 -- V559;
+	V601 -- V566;
+	V601 -- V565;
+	V601 -- V596;
+	V601 -- V595;
+	V601 -- V330;
+	V601 -- V560;
+	V722 -- V721;
+	V722 -- V278;
+	V722 -- V277;
+	V722 -- V276;
+	V722 -- V275;
+	V722 -- V274;
+	V722 -- V273;
+	V722 -- V717;
+	V722 -- V714;
+	V722 -- V713;
+	V722 -- V719;
+	V722 -- V718;
+	V722 -- V283;
+	V722 -- V282;
+	V722 -- V281;
+	V722 -- V720;
+	V722 -- V146;
+	V722 -- V344;
+	V722 -- V145;
+	V722 -- V343;
+	V722 -- V144;
+	V722 -- V342;
+	V722 -- V143;
+	V722 -- V341;
+	V722 -- V284;
+	V600 -- V558;
+	V600 -- V557;
+	V600 -- V14;
+	V600 -- V324;
+	V600 -- V599;
+	V600 -- V13;
+	V600 -- V323;
+	V600 -- V16;
+	V600 -- V322;
+	V600 -- V15;
+	V600 -- V321;
+	V721 -- V278;
+	V721 -- V277;
+	V721 -- V276;
+	V721 -- V275;
+	V721 -- V274;
+	V721 -- V273;
+	V721 -- V717;
+	V721 -- V714;
+	V721 -- V713;
+	V721 -- V719;
+	V721 -- V718;
+	V721 -- V283;
+	V721 -- V282;
+	V721 -- V281;
+	V721 -- V720;
+	V721 -- V146;
+	V721 -- V344;
+	V721 -- V145;
+	V721 -- V343;
+	V721 -- V144;
+	V721 -- V342;
+	V721 -- V143;
+	V721 -- V341;
+	V721 -- V284;
+	V608 -- V607;
+	V608 -- V556;
+	V608 -- V272;
+	V608 -- V271;
+	V608 -- V270;
+	V608 -- V269;
+	V608 -- V555;
+	V608 -- V276;
+	V608 -- V584;
+	V608 -- V583;
+	V608 -- V274;
+	V292 -- V272;
+	V292 -- V271;
+	V292 -- V270;
+	V292 -- V291;
+	V292 -- V290;
+	V292 -- V269;
+	V292 -- V289;
+	V291 -- V272;
+	V291 -- V271;
+	V291 -- V270;
+	V291 -- V290;
+	V291 -- V269;
+	V291 -- V289;
+	V290 -- V289;
+	V717 -- V607;
+	V717 -- V272;
+	V717 -- V271;
+	V717 -- V270;
+	V717 -- V555;
+	V717 -- V278;
+	V717 -- V277;
+	V717 -- V276;
+	V717 -- V274;
+	V717 -- V714;
+	V717 -- V713;
+	V717 -- V556;
+	V717 -- V269;
+	V717 -- V146;
+	V717 -- V145;
+	V717 -- V144;
+	V717 -- V584;
+	V717 -- V143;
+	V717 -- V583;
+	V714 -- V607;
+	V714 -- V271;
+	V714 -- V555;
+	V714 -- V277;
+	V714 -- V276;
+	V714 -- V275;
+	V714 -- V274;
+	V714 -- V273;
+	V714 -- V713;
+	V714 -- V556;
+	V714 -- V283;
+	V714 -- V282;
+	V714 -- V281;
+	V714 -- V269;
+	V714 -- V146;
+	V714 -- V344;
+	V714 -- V145;
+	V714 -- V343;
+	V714 -- V144;
+	V714 -- V342;
+	V714 -- V584;
+	V714 -- V143;
+	V714 -- V341;
+	V714 -- V583;
+	V714 -- V284;
+	V713 -- V272;
+	V713 -- V270;
+	V713 -- V555;
+	V713 -- V278;
+	V713 -- V276;
+	V713 -- V275;
+	V713 -- V274;
+	V713 -- V273;
+	V713 -- V556;
+	V713 -- V283;
+	V713 -- V282;
+	V713 -- V281;
+	V713 -- V146;
+	V713 -- V344;
+	V713 -- V145;
+	V713 -- V343;
+	V713 -- V144;
+	V713 -- V342;
+	V713 -- V584;
+	V713 -- V143;
+	V713 -- V341;
+	V713 -- V583;
+	V713 -- V284;
+	V719 -- V607;
+	V719 -- V272;
+	V719 -- V271;
+	V719 -- V270;
+	V719 -- V555;
+	V719 -- V278;
+	V719 -- V277;
+	V719 -- V276;
+	V719 -- V275;
+	V719 -- V274;
+	V719 -- V273;
+	V719 -- V717;
+	V719 -- V714;
+	V719 -- V713;
+	V719 -- V556;
+	V719 -- V718;
+	V719 -- V269;
+	V719 -- V146;
+	V719 -- V145;
+	V719 -- V144;
+	V719 -- V584;
+	V719 -- V143;
+	V719 -- V583;
+	V718 -- V607;
+	V718 -- V608;
+	V718 -- V272;
+	V718 -- V271;
+	V718 -- V270;
+	V718 -- V555;
+	V718 -- V278;
+	V718 -- V277;
+	V718 -- V275;
+	V718 -- V273;
+	V718 -- V717;
+	V718 -- V714;
+	V718 -- V713;
+	V718 -- V556;
+	V718 -- V269;
+	V718 -- V146;
+	V718 -- V145;
+	V718 -- V144;
+	V718 -- V584;
+	V718 -- V143;
+	V718 -- V583;
+	V283 -- V282;
+	V283 -- V146;
+	V283 -- V278;
+	V283 -- V145;
+	V283 -- V277;
+	V283 -- V144;
+	V283 -- V143;
+	V282 -- V281;
+	V282 -- V146;
+	V282 -- V278;
+	V282 -- V145;
+	V282 -- V277;
+	V282 -- V144;
+	V282 -- V143;
+	V281 -- V146;
+	V281 -- V278;
+	V281 -- V145;
+	V281 -- V277;
+	V281 -- V144;
+	V281 -- V143;
+	V720 -- V607;
+	V720 -- V608;
+	V720 -- V272;
+	V720 -- V271;
+	V720 -- V270;
+	V720 -- V555;
+	V720 -- V278;
+	V720 -- V277;
+	V720 -- V276;
+	V720 -- V275;
+	V720 -- V274;
+	V720 -- V273;
+	V720 -- V717;
+	V720 -- V714;
+	V720 -- V713;
+	V720 -- V556;
+	V720 -- V719;
+	V720 -- V718;
+	V720 -- V269;
+	V720 -- V146;
+	V720 -- V145;
+	V720 -- V144;
+	V720 -- V584;
+	V720 -- V143;
+	V720 -- V583;
+	V284 -- V283;
+	V284 -- V281;
+	V284 -- V146;
+	V284 -- V278;
+	V284 -- V145;
+	V284 -- V277;
+	V284 -- V144;
+	V284 -- V143;
+	V629 -- V272;
+	V629 -- V271;
+	V629 -- V270;
+	V629 -- V292;
+	V629 -- V291;
+	V629 -- V269;
+	V748 -- V747;
+	V748 -- V614;
+	V748 -- V613;
+	V748 -- V744;
+	V748 -- V743;
+	V748 -- V664;
+	V748 -- V663;
+	V626 -- V580;
+	V626 -- V625;
+	V626 -- V579;
+	V626 -- V622;
+	V626 -- V621;
+	V747 -- V614;
+	V747 -- V613;
+	V747 -- V744;
+	V747 -- V743;
+	V747 -- V664;
+	V747 -- V663;
+	V625 -- V580;
+	V625 -- V579;
+	V625 -- V622;
+	V625 -- V621;
+	V746 -- V745;
+	V746 -- V600;
+	V746 -- V566;
+	V746 -- V588;
+	V746 -- V599;
+	V746 -- V565;
+	V746 -- V587;
+	V746 -- V585;
+	V745 -- V600;
+	V745 -- V566;
+	V745 -- V588;
+	V745 -- V599;
+	V745 -- V565;
+	V745 -- V587;
+	V745 -- V586;
+	V745 -- V585;
+	V744 -- V328;
+	V744 -- V327;
+	V744 -- V326;
+	V744 -- V325;
+	V744 -- V743;
+	V744 -- V664;
+	V744 -- V264;
+	V744 -- V263;
+	V622 -- V349;
+	V622 -- V579;
+	V622 -- V578;
+	V622 -- V580;
+	V622 -- V591;
+	V622 -- V621;
+	V622 -- V234;
+	V622 -- V233;
+	V622 -- V562;
+	V622 -- V561;
+	V622 -- V592;
+	V743 -- V328;
+	V743 -- V327;
+	V743 -- V326;
+	V743 -- V325;
+	V743 -- V664;
+	V743 -- V663;
+	V743 -- V264;
+	V743 -- V263;
+	V632 -- V629;
+	V632 -- V631;
+	V632 -- V630;
+	V632 -- V594;
+	V632 -- V593;
+	V631 -- V629;
+	V631 -- V323;
+	V631 -- V630;
+	V631 -- V321;
+	V631 -- V594;
+	V631 -- V593;
+	V630 -- V272;
+	V630 -- V629;
+	V630 -- V271;
+	V630 -- V270;
+	V630 -- V292;
+	V630 -- V291;
+	V630 -- V269;
+	V618 -- V617;
+	V618 -- V616;
+	V618 -- V615;
+	V618 -- V305;
+	V618 -- V205;
+	V618 -- V127;
+	V618 -- V303;
+	V618 -- V589;
+	V618 -- V596;
+	V618 -- V595;
+	V618 -- V130;
+	V617 -- V590;
+	V617 -- V616;
+	V617 -- V615;
+	V617 -- V589;
+	V617 -- V596;
+	V617 -- V595;
+	V616 -- V615;
+	V616 -- V206;
+	V616 -- V128;
+	V616 -- V205;
+	V616 -- V127;
+	V616 -- V130;
+	V615 -- V129;
+	V615 -- V206;
+	V615 -- V128;
+	V615 -- V127;
+	V614 -- V558;
+	V614 -- V613;
+	V614 -- V557;
+	V614 -- V598;
+	V614 -- V597;
+	V614 -- V594;
+	V614 -- V593;
+	V613 -- V558;
+	V613 -- V557;
+	V613 -- V598;
+	V613 -- V597;
+	V613 -- V594;
+	V613 -- V593;
+	V14 -- V13;
+	V621 -- V579;
+	V621 -- V580;
+	V621 -- V591;
+	V621 -- V577;
+	V621 -- V234;
+	V621 -- V233;
+	V621 -- V562;
+	V621 -- V561;
+	V621 -- V350;
+	V621 -- V592;
+	V16 -- V13;
+	V16 -- V15;
+	V15 -- V14;
+	V768 -- V629;
+	V768 -- V747;
+	V768 -- V746;
+	V768 -- V767;
+	V768 -- V600;
+	V768 -- V666;
+	V768 -- V290;
+	V768 -- V599;
+	V768 -- V598;
+	V768 -- V631;
+	V768 -- V597;
+	V768 -- V630;
+	V768 -- V594;
+	V768 -- V614;
+	V768 -- V558;
+	V768 -- V613;
+	V768 -- V557;
+	V768 -- V14;
+	V768 -- V324;
+	V768 -- V665;
+	V768 -- V13;
+	V768 -- V323;
+	V768 -- V565;
+	V768 -- V16;
+	V768 -- V322;
+	V768 -- V586;
+	V768 -- V15;
+	V768 -- V321;
+	V646 -- V645;
+	V646 -- V268;
+	V646 -- V267;
+	V646 -- V266;
+	V646 -- V265;
+	V767 -- V747;
+	V767 -- V746;
+	V767 -- V745;
+	V767 -- V600;
+	V767 -- V666;
+	V767 -- V765;
+	V767 -- V591;
+	V767 -- V290;
+	V767 -- V599;
+	V767 -- V632;
+	V767 -- V631;
+	V767 -- V597;
+	V767 -- V594;
+	V767 -- V593;
+	V767 -- V614;
+	V767 -- V636;
+	V767 -- V558;
+	V767 -- V557;
+	V767 -- V634;
+	V767 -- V633;
+	V767 -- V14;
+	V767 -- V324;
+	V767 -- V665;
+	V767 -- V13;
+	V767 -- V323;
+	V767 -- V565;
+	V767 -- V587;
+	V767 -- V16;
+	V767 -- V322;
+	V767 -- V586;
+	V767 -- V15;
+	V767 -- V321;
+	V645 -- V566;
+	V645 -- V268;
+	V645 -- V267;
+	V645 -- V266;
+	V645 -- V265;
+	V766 -- V748;
+	V766 -- V747;
+	V766 -- V614;
+	V766 -- V613;
+	V766 -- V765;
+	V765 -- V748;
+	V765 -- V747;
+	V765 -- V614;
+	V765 -- V613;
+	V652 -- V651;
+	V518 -- V517;
+	V518 -- V306;
+	V518 -- V305;
+	V518 -- V349;
+	V518 -- V238;
+	V518 -- V304;
+	V518 -- V237;
+	V518 -- V303;
+	V518 -- V350;
+	V517 -- V306;
+	V517 -- V305;
+	V517 -- V349;
+	V517 -- V238;
+	V517 -- V304;
+	V517 -- V237;
+	V517 -- V303;
+	V517 -- V350;
+	V636 -- V559;
+	V636 -- V602;
+	V636 -- V635;
+	V636 -- V601;
+	V636 -- V634;
+	V636 -- V633;
+	V636 -- V566;
+	V636 -- V565;
+	V636 -- V560;
+	V635 -- V559;
+	V635 -- V602;
+	V635 -- V601;
+	V635 -- V634;
+	V635 -- V633;
+	V635 -- V566;
+	V635 -- V565;
+	V635 -- V330;
+	V635 -- V560;
+	V634 -- V591;
+	V634 -- V329;
+	V634 -- V633;
+	V634 -- V330;
+	V634 -- V352;
+	V634 -- V351;
+	V634 -- V592;
+	V633 -- V591;
+	V633 -- V329;
+	V633 -- V330;
+	V633 -- V352;
+	V633 -- V351;
+	V633 -- V592;
+	V764 -- V328;
+	V764 -- V327;
+	V764 -- V326;
+	V764 -- V744;
+	V764 -- V325;
+	V764 -- V743;
+	V764 -- V763;
+	V764 -- V264;
+	V764 -- V263;
+	V763 -- V328;
+	V763 -- V327;
+	V763 -- V326;
+	V763 -- V744;
+	V763 -- V325;
+	V763 -- V743;
+	V763 -- V264;
+	V763 -- V263;
+	V520 -- V519;
+	V880 -- V879;
+	V880 -- V80;
+	V306 -- V305;
+	V306 -- V238;
+	V306 -- V304;
+	V306 -- V237;
+	V306 -- V303;
+	V305 -- V238;
+	V305 -- V304;
+	V305 -- V237;
+	V305 -- V303;
+	V668 -- V667;
+	V789 -- V768;
+	V789 -- V788;
+	V789 -- V787;
+	V304 -- V238;
+	V304 -- V237;
+	V304 -- V303;
+	V667 -- V618;
+	V667 -- V616;
+	V667 -- V615;
+	V667 -- V206;
+	V667 -- V130;
+	V788 -- V607;
+	V788 -- V768;
+	V788 -- V723;
+	V788 -- V556;
+	V788 -- V721;
+	V788 -- V787;
+	V788 -- V608;
+	V788 -- V555;
+	V788 -- V145;
+	V788 -- V143;
+	V303 -- V238;
+	V303 -- V237;
+	V666 -- V614;
+	V666 -- V558;
+	V666 -- V613;
+	V666 -- V557;
+	V666 -- V600;
+	V666 -- V14;
+	V666 -- V324;
+	V666 -- V599;
+	V666 -- V665;
+	V666 -- V13;
+	V666 -- V323;
+	V666 -- V598;
+	V666 -- V16;
+	V666 -- V322;
+	V666 -- V597;
+	V666 -- V15;
+	V666 -- V321;
+	V666 -- V594;
+	V666 -- V593;
+	V787 -- V607;
+	V787 -- V556;
+	V787 -- V608;
+	V787 -- V718;
+	V787 -- V271;
+	V787 -- V269;
+	V787 -- V555;
+	V787 -- V720;
+	V787 -- V276;
+	V787 -- V274;
+	V555 -- V272;
+	V555 -- V271;
+	V555 -- V270;
+	V555 -- V269;
+	V555 -- V278;
+	V555 -- V277;
+	V555 -- V276;
+	V555 -- V275;
+	V555 -- V274;
+	V555 -- V273;
+	V797 -- V796;
+	V797 -- V795;
+	V796 -- V795;
+	V796 -- V794;
+	V796 -- V793;
+	V795 -- V767;
+	V795 -- V794;
+	V795 -- V793;
+	V794 -- V767;
+	V794 -- V793;
+	V794 -- V792;
+	V794 -- V791;
+	V793 -- V768;
+	V793 -- V767;
+	V793 -- V792;
+	V793 -- V791;
+	V792 -- V768;
+	V792 -- V767;
+	V792 -- V789;
+	V792 -- V791;
+	V792 -- V790;
+	V791 -- V767;
+	V791 -- V789;
+	V791 -- V790;
+	V790 -- V768;
+	V790 -- V767;
+	V790 -- V789;
+	V790 -- V788;
+	V790 -- V787;
+	V790 -- V289;
+	V54 -- V53;
+	V665 -- V614;
+	V665 -- V558;
+	V665 -- V613;
+	V665 -- V557;
+	V665 -- V600;
+	V665 -- V14;
+	V665 -- V324;
+	V665 -- V599;
+	V665 -- V13;
+	V665 -- V323;
+	V665 -- V598;
+	V665 -- V16;
+	V665 -- V322;
+	V665 -- V597;
+	V665 -- V15;
+	V665 -- V321;
+	V665 -- V594;
+	V665 -- V593;
+	V786 -- V614;
+	V786 -- V558;
+	V786 -- V613;
+	V786 -- V767;
+	V786 -- V557;
+	V786 -- V665;
+	V786 -- V598;
+	V786 -- V785;
+	V786 -- V597;
+	V786 -- V594;
+	V786 -- V593;
+	V664 -- V663;
+	V785 -- V614;
+	V785 -- V768;
+	V785 -- V613;
+	V785 -- V767;
+	V785 -- V557;
+	V785 -- V666;
+	V785 -- V598;
+	V785 -- V597;
+	V785 -- V594;
+	V785 -- V593;
+	V662 -- V646;
+	V662 -- V645;
+	V662 -- V661;
+	V661 -- V646;
+	V661 -- V645;
+	V328 -- V327;
+	V328 -- V326;
+	V328 -- V325;
+	V328 -- V264;
+	V328 -- V263;
+	V206 -- V129;
+	V206 -- V128;
+	V206 -- V205;
+	V206 -- V127;
+	V327 -- V326;
+	V327 -- V325;
+	V327 -- V264;
+	V327 -- V263;
+	V205 -- V128;
+	V205 -- V127;
+	V205 -- V130;
+	V326 -- V325;
+	V326 -- V264;
+	V326 -- V263;
+	V325 -- V264;
+	V325 -- V263;
+	V577 -- V349;
+	V577 -- V234;
+	V577 -- V233;
+	V577 -- V562;
+	V577 -- V561;
+	V330 -- V329;
+	V559 -- V268;
+	V559 -- V267;
+	V559 -- V266;
+	V559 -- V265;
+	V558 -- V557;
+	V558 -- V14;
+	V558 -- V324;
+	V558 -- V13;
+	V558 -- V323;
+	V558 -- V16;
+	V558 -- V322;
+	V558 -- V15;
+	V558 -- V321;
+	V436 -- V261;
+	V436 -- V435;
+	V436 -- V262;
+	V557 -- V14;
+	V557 -- V324;
+	V557 -- V13;
+	V557 -- V323;
+	V557 -- V16;
+	V557 -- V322;
+	V557 -- V15;
+	V557 -- V321;
+	V799 -- V768;
+	V799 -- V767;
+	V799 -- V798;
+	V799 -- V797;
+	V435 -- V261;
+	V435 -- V262;
+	V556 -- V272;
+	V556 -- V271;
+	V556 -- V270;
+	V556 -- V269;
+	V556 -- V555;
+	V556 -- V278;
+	V556 -- V277;
+	V556 -- V276;
+	V556 -- V275;
+	V556 -- V274;
+	V556 -- V273;
+	V798 -- V768;
+	V798 -- V797;
+	V798 -- V796;
+	V798 -- V795;
+	V324 -- V14;
+	V324 -- V13;
+	V324 -- V323;
+	V324 -- V16;
+	V324 -- V322;
+	V324 -- V15;
+	V324 -- V321;
+	V566 -- V559;
+	V566 -- V565;
+	V566 -- V330;
+	V566 -- V560;
+	V79 -- V53;
+	V323 -- V13;
+	V323 -- V15;
+	V323 -- V321;
+	V565 -- V559;
+	V565 -- V560;
+	V322 -- V13;
+	V322 -- V16;
+	V322 -- V15;
+	V322 -- V321;
+	V321 -- V14;
+	V321 -- V16;
+	V321 -- V15;
+	V562 -- V349;
+	V562 -- V234;
+	V562 -- V233;
+	V562 -- V561;
+	V562 -- V350;
+	V561 -- V349;
+	V561 -- V234;
+	V561 -- V233;
+	V561 -- V350;
+	V560 -- V559;
+	V560 -- V268;
+	V560 -- V267;
+	V560 -- V266;
+	V560 -- V265;
+	V349 -- V238;
+	V349 -- V237;
+	V349 -- V234;
+	V349 -- V233;
+	V81 -- V79;
+	V81 -- V289;
+	V81 -- V80;
+	V80 -- V53;
+	V80 -- V79;
+	V80 -- V651;
+	V80 -- V790;
+	V83 -- V748;
+	V83 -- V747;
+	V83 -- V614;
+	V83 -- V613;
+	V83 -- V766;
+	V83 -- V765;
+	V591 -- V329;
+	V591 -- V349;
+	V591 -- V578;
+	V591 -- V577;
+	V591 -- V234;
+	V591 -- V233;
+	V591 -- V562;
+	V591 -- V330;
+	V591 -- V352;
+	V591 -- V561;
+	V591 -- V351;
+	V591 -- V350;
+	V82 -- V290;
+	V82 -- V79;
+	V82 -- V81;
+	V82 -- V80;
+	V590 -- V589;
+	V85 -- V83;
+	V85 -- V748;
+	V85 -- V84;
+	V85 -- V747;
+	V85 -- V614;
+	V85 -- V613;
+	V85 -- V766;
+	V85 -- V765;
+	V84 -- V83;
+	V84 -- V748;
+	V84 -- V747;
+	V84 -- V614;
+	V84 -- V613;
+	V84 -- V765;
+	V84 -- V785;
+	V86 -- V83;
+	V86 -- V85;
+	V86 -- V748;
+	V86 -- V84;
+	V86 -- V747;
+	V86 -- V614;
+	V86 -- V613;
+	V86 -- V766;
+	V86 -- V765;
+	V86 -- V785;
+	V236 -- V235;
+	V236 -- V234;
+	V236 -- V233;
+	V599 -- V558;
+	V599 -- V557;
+	V599 -- V14;
+	V599 -- V324;
+	V599 -- V13;
+	V599 -- V323;
+	V599 -- V16;
+	V599 -- V322;
+	V599 -- V15;
+	V599 -- V321;
+	V235 -- V234;
+	V235 -- V233;
+	V598 -- V519;
+	V598 -- V558;
+	V598 -- V557;
+	V598 -- V520;
+	V598 -- V597;
+	V598 -- V594;
+	V598 -- V593;
+	V234 -- V233;
+	V476 -- V436;
+	V476 -- V435;
+	V476 -- V475;
+	V597 -- V519;
+	V597 -- V558;
+	V597 -- V557;
+	V597 -- V520;
+	V597 -- V594;
+	V597 -- V593;
+	V475 -- V436;
+	V475 -- V435;
+	V596 -- V590;
+	V596 -- V589;
+	V596 -- V595;
+	V595 -- V590;
+	V595 -- V589;
+	V352 -- V329;
+	V352 -- V236;
+	V352 -- V235;
+	V352 -- V330;
+	V352 -- V351;
+	V594 -- V558;
+	V594 -- V557;
+	V594 -- V323;
+	V594 -- V321;
+	V594 -- V593;
+	V351 -- V329;
+	V351 -- V236;
+	V351 -- V235;
+	V351 -- V330;
+	V593 -- V558;
+	V593 -- V557;
+	V350 -- V349;
+	V350 -- V238;
+	V350 -- V237;
+	V350 -- V234;
+	V350 -- V233;
+	V592 -- V329;
+	V592 -- V349;
+	V592 -- V578;
+	V592 -- V591;
+	V592 -- V577;
+	V592 -- V234;
+	V592 -- V233;
+	V592 -- V562;
+	V592 -- V330;
+	V592 -- V352;
+	V592 -- V561;
+	V592 -- V351;
+	V592 -- V350;
+	V578 -- V577;
+	V578 -- V234;
+	V578 -- V233;
+	V578 -- V562;
+	V578 -- V561;
+	V578 -- V350;
+	V580 -- V579;
+	V588 -- V566;
+	V588 -- V565;
+	V588 -- V587;
+	V588 -- V586;
+	V588 -- V585;
+	V587 -- V566;
+	V587 -- V565;
+	V587 -- V586;
+	V587 -- V585;
+	V344 -- V283;
+	V344 -- V282;
+	V344 -- V146;
+	V344 -- V278;
+	V344 -- V145;
+	V344 -- V277;
+	V344 -- V343;
+	V344 -- V144;
+	V344 -- V143;
+	V344 -- V341;
+	V344 -- V284;
+	V586 -- V566;
+	V586 -- V268;
+	V586 -- V565;
+	V586 -- V266;
+	V586 -- V585;
+	V343 -- V283;
+	V343 -- V281;
+	V343 -- V146;
+	V343 -- V278;
+	V343 -- V145;
+	V343 -- V277;
+	V343 -- V144;
+	V343 -- V342;
+	V343 -- V143;
+	V343 -- V284;
+	V585 -- V566;
+	V585 -- V565;
+	V342 -- V283;
+	V342 -- V282;
+	V342 -- V146;
+	V342 -- V278;
+	V342 -- V145;
+	V342 -- V277;
+	V342 -- V144;
+	V342 -- V143;
+	V342 -- V341;
+	V342 -- V284;
+	V584 -- V556;
+	V584 -- V272;
+	V584 -- V271;
+	V584 -- V270;
+	V584 -- V269;
+	V584 -- V555;
+	V584 -- V278;
+	V584 -- V277;
+	V584 -- V276;
+	V584 -- V275;
+	V584 -- V583;
+	V584 -- V274;
+	V584 -- V273;
+	V584 -- V284;
+	V341 -- V283;
+	V341 -- V281;
+	V341 -- V146;
+	V341 -- V278;
+	V341 -- V145;
+	V341 -- V277;
+	V341 -- V144;
+	V341 -- V143;
+	V341 -- V284;
+	V583 -- V556;
+	V583 -- V272;
+	V583 -- V271;
+	V583 -- V270;
+	V583 -- V269;
+	V583 -- V555;
+	V583 -- V278;
+	V583 -- V277;
+	V583 -- V276;
+	V583 -- V275;
+	V583 -- V274;
+	V583 -- V273;
+}
+
+Starting the algorithm...
+var `V475' = 778
+var `V482' = 310
+var `V476' = 540
+var `V481' = 72
+var `V668' = 652
+var `V129' = 156
+var `V206' = 352
+var `V128' = 72
+var `V879' = 778
+var `V652' = 554
+var `V54' = 268
+var `V615' = 764
+var `V205' = 114
+var `V616' = 526
+var `V667' = 414
+var `V127' = 310
+var `V130' = 394
+var `V661' = 652
+var `V662' = 414
+var `V590' = 540
+var `V617' = 456
+var `V589' = 778
+var `V261' = 680
+var `V436' = 366
+var `V435' = 128
+var `V262' = 442
+var `V618' = 694
+var `V305' = 764
+var `V306' = 526
+var `V304' = 380
+var `V303' = 142
+var `V796' = 380
+var `V797' = 324
+var `V596' = 30
+var `V595' = 268
+var `V82' = 456
+var `V53' = 30
+var `V79' = 16
+var `V651' = 792
+var `V880' = 540
+var `V81' = 694
+var `V80' = 254
+var `V289' = 750
+var `V328' = 414
+var `V327' = 652
+var `V326' = 512
+var `V325' = 750
+var `V764' = 778
+var `V763' = 540
+var `V264' = 394
+var `V263' = 156
+var `V604' = 456
+var `V603' = 694
+var `V646' = 338
+var `V267' = 58
+var `V265' = 778
+var `V268' = 296
+var `V266' = 540
+var `V518' = 778
+var `V517' = 540
+var `V238' = 484
+var `V237' = 722
+var `V626' = 30
+var `V625' = 268
+var `V579' = 114
+var `V580' = 352
+var `V236' = 282
+var `V235' = 44
+var `V606' = 366
+var `V605' = 128
+var `V519' = 778
+var `V520' = 540
+var `V744' = 456
+var `V743' = 694
+var `V664' = 414
+var `V663' = 652
+var `V559' = 142
+var `V602' = 750
+var `V635' = 470
+var `V601' = 512
+var `V645' = 100
+var `V588' = 380
+var `V585' = 750
+var `V560' = 380
+var `V566' = 324
+var `V329' = 142
+var `V801' = 44
+var `V349' = 282
+var `V578' = 722
+var `V622' = 764
+var `V577' = 484
+var `V621' = 526
+var `V234' = 456
+var `V233' = 694
+var `V562' = 736
+var `V330' = 380
+var `V352' = 310
+var `V561' = 498
+var `V351' = 72
+var `V350' = 310
+var `V592' = 750
+var `V748' = 296
+var `V766' = 428
+var `V83' = 764
+var `V85' = 498
+var `V84' = 792
+var `V86' = 268
+var `V607' = 778
+var `V271' = 554
+var `V556' = 470
+var `V787' = 680
+var `V608' = 540
+var `V272' = 72
+var `V270' = 792
+var `V292' = 456
+var `V291' = 694
+var `V555' = 268
+var `V584' = 708
+var `V583' = 680
+var `V269' = 554
+var `V724' = 694
+var `V723' = 456
+var `V722' = 764
+var `V278' = 310
+var `V277' = 414
+var `V276' = 100
+var `V275' = 526
+var `V274' = 142
+var `V273' = 380
+var `V717' = 792
+var `V714' = 254
+var `V713' = 442
+var `V719' = 526
+var `V718' = 58
+var `V283' = 540
+var `V282' = 268
+var `V720' = 352
+var `V281' = 30
+var `V146' = 694
+var `V344' = 428
+var `V145' = 456
+var `V343' = 666
+var `V144' = 694
+var `V342' = 44
+var `V143' = 456
+var `V341' = 282
+var `V284' = 778
+var `V721' = 72
+var `V629' = 484
+var `V789' = 128
+var `V788' = 442
+var `V598' = 380
+var `V630' = 722
+var `V613' = 30
+var `V798' = 86
+var `V747' = 352
+var `V802' = 86
+var `V746' = 442
+var `V768' = 498
+var `V745' = 680
+var `V800' = 484
+var `V600' = 296
+var `V666' = 156
+var `V765' = 666
+var `V591' = 512
+var `V290' = 512
+var `V599' = 58
+var `V632' = 142
+var `V631' = 380
+var `V597' = 142
+var `V795' = 142
+var `V793' = 778
+var `V794' = 540
+var `V594' = 778
+var `V792' = 268
+var `V593' = 778
+var `V791' = 30
+var `V790' = 366
+var `V614' = 72
+var `V636' = 708
+var `V558' = 540
+var `V557' = 380
+var `V634' = 44
+var `V799' = 722
+var `V633' = 282
+var `V14' = 526
+var `V324' = 666
+var `V665' = 282
+var `V786' = 456
+var `V13' = 764
+var `V323' = 428
+var `V565' = 86
+var `V587' = 142
+var `V785' = 694
+var `V16' = 652
+var `V322' = 554
+var `V586' = 512
+var `V15' = 414
+var `V321' = 792
+var `V767' = 736
+Total cost of reported solution: 22
+Algorithm finished in 48,612 ms (simulated time)
+Number of messages sent (by type): 
+	[ALL, MGM, improve]:	8,800
+	[ALL, MGM, improve]:	2,600
+	[ALL, MGM, improve]:	2,800
+	[ALL, MGM, improve]:	3,200
+	[ALL, MGM, improve]:	2,000
+	[ALL, MGM, improve]:	2,600
+	[ALL, MGM, improve]:	2,600
+	[ALL, MGM, improve]:	1,600
+	[ALL, MGM, improve]:	2,800
+	[ALL, MGM, improve]:	3,000
+	[ALL, MGM, improve]:	2,600
+	[ALL, MGM, improve]:	2,200
+	[ALL, MGM, improve]:	4,400
+	[ALL, MGM, improve]:	2,400
+	[ALL, MGM, improve]:	3,000
+	[ALL, MGM, improve]:	2,000
+	[ALL, MGM, improve]:	1,400
+	[ALL, MGM, improve]:	4,600
+	[ALL, MGM, improve]:	2,000
+	[ALL, MGM, improve]:	4,400
+	[ALL, MGM, improve]:	2,000
+	[ALL, MGM, improve]:	4,200
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	1,200
+	[ALL, MGM, improve]:	1,400
+	[ALL, MGM, improve]:	2,800
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	3,400
+	[ALL, MGM, improve]:	1,200
+	[ALL, MGM, improve]:	1,400
+	[ALL, MGM, improve]:	1,200
+	[ALL, MGM, improve]:	3,000
+	[ALL, MGM, improve]:	1,200
+	[ALL, MGM, improve]:	3,400
+	[ALL, MGM, improve]:	1,200
+	[ALL, MGM, improve]:	4,000
+	[ALL, MGM, improve]:	4,400
+	[ALL, MGM, improve]:	2,000
+	[ALL, MGM, improve]:	3,400
+	[ALL, MGM, improve]:	2,000
+	[ALL, MGM, improve]:	1,600
+	[ALL, MGM, improve]:	7,600
+	[ALL, MGM, improve]:	2,000
+	[ALL, MGM, improve]:	3,200
+	[ALL, MGM, improve]:	3,000
+	[ALL, MGM, improve]:	1,200
+	[ALL, MGM, improve]:	4,000
+	[ALL, MGM, improve]:	2,000
+	[ALL, MGM, improve]:	2,800
+	[ALL, MGM, improve]:	2,400
+	[ALL, MGM, improve]:	1,200
+	[ALL, MGM, improve]:	2,000
+	[ALL, MGM, improve]:	5,600
+	[ALL, MGM, improve]:	3,800
+	[ALL, MGM, improve]:	3,400
+	[ALL, MGM, improve]:	5,200
+	[ALL, MGM, improve]:	3,400
+	[ALL, MGM, improve]:	5,200
+	[ALL, MGM, improve]:	5,000
+	[ALL, MGM, improve]:	5,200
+	[ALL, MGM, improve]:	3,400
+	[ALL, MGM, improve]:	3,400
+	[ALL, MGM, improve]:	5,000
+	[ALL, MGM, improve]:	3,200
+	[ALL, MGM, improve]:	6,000
+	[ALL, MGM, improve]:	3,600
+	[ALL, MGM, improve]:	3,200
+	[ALL, MGM, improve]:	5,600
+	[ALL, MGM, improve]:	6,400
+	[ALL, MGM, improve]:	5,600
+	[ALL, MGM, improve]:	6,600
+	[ALL, MGM, improve]:	5,200
+	[ALL, MGM, improve]:	5,200
+	[ALL, MGM, improve]:	5,600
+	[ALL, MGM, improve]:	6,400
+	[ALL, MGM, improve]:	5,600
+	[ALL, MGM, improve]:	6,600
+	[ALL, MGM, improve]:	5,200
+	[ALL, MGM, improve]:	5,400
+	[ALL, MGM, improve]:	5,000
+	[ALL, MGM, improve]:	4,400
+	[ALL, MGM, improve]:	4,200
+	[ALL, MGM, improve]:	4,400
+	[ALL, MGM, improve]:	4,600
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	4,200
+	[ALL, MGM, improve]:	4,200
+	[ALL, MGM, improve]:	3,000
+	[ALL, MGM, improve]:	4,600
+	[ALL, MGM, improve]:	2,600
+	[ALL, MGM, improve]:	4,400
+	[ALL, MGM, improve]:	3,400
+	[ALL, MGM, improve]:	2,000
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	1,600
+	[ALL, MGM, improve]:	2,600
+	[ALL, MGM, improve]:	3,800
+	[ALL, MGM, improve]:	3,000
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	3,000
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	2,000
+	[ALL, MGM, improve]:	3,000
+	[ALL, MGM, improve]:	3,000
+	[ALL, MGM, improve]:	3,000
+	[ALL, MGM, improve]:	2,200
+	[ALL, MGM, improve]:	3,000
+	[ALL, MGM, improve]:	3,000
+	[ALL, MGM, improve]:	2,000
+	[ALL, MGM, improve]:	3,000
+	[ALL, MGM, improve]:	3,000
+	[ALL, MGM, improve]:	1,400
+	[ALL, MGM, improve]:	3,000
+	[ALL, MGM, improve]:	2,600
+	[ALL, MGM, improve]:	1,400
+	[ALL, MGM, improve]:	1,400
+	[ALL, MGM, improve]:	1,600
+	[ALL, MGM, improve]:	2,600
+	[ALL, MGM, improve]:	2,000
+	[ALL, MGM, improve]:	2,000
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	800
+	[ALL, MGM, improve]:	1,000
+	[ALL, MGM, improve]:	2,600
+	[ALL, MGM, improve]:	2,400
+	[ALL, MGM, improve]:	600
+	[ALL, MGM, improve]:	600
+	[ALL, MGM, improve]:	600
+	[ALL, MGM, improve]:	600
+	[ALL, MGM, improve]:	1,000
+	[ALL, MGM, improve]:	1,000
+	[ALL, MGM, improve]:	1,000
+	[ALL, MGM, improve]:	1,200
+	[ALL, MGM, improve]:	1,000
+	[ALL, MGM, improve]:	1,000
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	2,000
+	[ALL, MGM, improve]:	2,000
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	1,400
+	[ALL, MGM, improve]:	1,400
+	[ALL, MGM, improve]:	1,600
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	1,000
+	[ALL, MGM, improve]:	1,400
+	[ALL, MGM, improve]:	400
+	[ALL, MGM, improve]:	800
+	[ALL, MGM, improve]:	400
+	[ALL, MGM, improve]:	800
+	[ALL, MGM, improve]:	600
+	[ALL, MGM, improve]:	800
+	[ALL, MGM, improve]:	1,400
+	[ALL, MGM, improve]:	1,400
+	[ALL, MGM, improve]:	1,000
+	[ALL, MGM, improve]:	1,000
+	[ALL, MGM, improve]:	1,600
+	[ALL, MGM, improve]:	1,400
+	[ALL, MGM, improve]:	1,400
+	[ALL, MGM, improve]:	1,600
+	[ALL, MGM, improve]:	2,400
+	[ALL, MGM, improve]:	800
+	[ALL, MGM, improve]:	1,400
+	[ALL, MGM, improve]:	1,400
+	[ALL, MGM, improve]:	600
+	[ALL, MGM, improve]:	1,000
+	[ALL, MGM, improve]:	800
+	[ALL, MGM, improve]:	1,400
+	[ALL, MGM, improve]:	600
+	[ALL, MGM, improve]:	600
+	[ALL, MGM, improve]:	1,400
+	[ALL, MGM, improve]:	1,600
+	[ALL, MGM, improve]:	1,800
+	[ALL, MGM, improve]:	1,600
+	[ALL, MGM, improve]:	1,200
+	[ALL, MGM, improve]:	1,200
+	[ALL, MGM, improve]:	200
+	[ALL, MGM, improve]:	200
+	[ALL, MGM, improve]:	200
+	[ALL, MGM, improve]:	1,400
+	[ALL, MGM, improve]:	1,400
+	[ALL, MGM, improve]:	1,000
+	[ALL, MGM, improve]:	200
+	[ALL, MGM, improve]:	1,000
+	[ALL, MGM, improve]:	1,000
+	[ALL, MGM, improve]:	1,000
+	[ALL, MGM, improve]:	1,000
+	[ALL, MGM, ok]:	8,800
+	[ALL, MGM, ok]:	2,600
+	[ALL, MGM, ok]:	2,800
+	[ALL, MGM, ok]:	3,200
+	[ALL, MGM, ok]:	2,000
+	[ALL, MGM, ok]:	2,600
+	[ALL, MGM, ok]:	2,600
+	[ALL, MGM, ok]:	1,600
+	[ALL, MGM, ok]:	2,800
+	[ALL, MGM, ok]:	3,000
+	[ALL, MGM, ok]:	2,600
+	[ALL, MGM, ok]:	2,200
+	[ALL, MGM, ok]:	4,400
+	[ALL, MGM, ok]:	2,400
+	[ALL, MGM, ok]:	3,000
+	[ALL, MGM, ok]:	2,000
+	[ALL, MGM, ok]:	1,400
+	[ALL, MGM, ok]:	4,600
+	[ALL, MGM, ok]:	2,000
+	[ALL, MGM, ok]:	4,400
+	[ALL, MGM, ok]:	2,000
+	[ALL, MGM, ok]:	4,200
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	1,200
+	[ALL, MGM, ok]:	1,400
+	[ALL, MGM, ok]:	2,800
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	3,400
+	[ALL, MGM, ok]:	1,200
+	[ALL, MGM, ok]:	1,400
+	[ALL, MGM, ok]:	1,200
+	[ALL, MGM, ok]:	3,000
+	[ALL, MGM, ok]:	1,200
+	[ALL, MGM, ok]:	3,400
+	[ALL, MGM, ok]:	1,200
+	[ALL, MGM, ok]:	4,000
+	[ALL, MGM, ok]:	4,400
+	[ALL, MGM, ok]:	2,000
+	[ALL, MGM, ok]:	3,400
+	[ALL, MGM, ok]:	2,000
+	[ALL, MGM, ok]:	1,600
+	[ALL, MGM, ok]:	7,600
+	[ALL, MGM, ok]:	2,000
+	[ALL, MGM, ok]:	3,200
+	[ALL, MGM, ok]:	3,000
+	[ALL, MGM, ok]:	1,200
+	[ALL, MGM, ok]:	4,000
+	[ALL, MGM, ok]:	2,000
+	[ALL, MGM, ok]:	2,800
+	[ALL, MGM, ok]:	2,400
+	[ALL, MGM, ok]:	1,200
+	[ALL, MGM, ok]:	2,000
+	[ALL, MGM, ok]:	5,600
+	[ALL, MGM, ok]:	3,800
+	[ALL, MGM, ok]:	3,400
+	[ALL, MGM, ok]:	5,200
+	[ALL, MGM, ok]:	3,400
+	[ALL, MGM, ok]:	5,200
+	[ALL, MGM, ok]:	5,000
+	[ALL, MGM, ok]:	5,200
+	[ALL, MGM, ok]:	3,400
+	[ALL, MGM, ok]:	3,400
+	[ALL, MGM, ok]:	5,000
+	[ALL, MGM, ok]:	3,200
+	[ALL, MGM, ok]:	6,000
+	[ALL, MGM, ok]:	3,600
+	[ALL, MGM, ok]:	3,200
+	[ALL, MGM, ok]:	5,600
+	[ALL, MGM, ok]:	6,400
+	[ALL, MGM, ok]:	5,600
+	[ALL, MGM, ok]:	6,600
+	[ALL, MGM, ok]:	5,200
+	[ALL, MGM, ok]:	5,200
+	[ALL, MGM, ok]:	5,600
+	[ALL, MGM, ok]:	6,400
+	[ALL, MGM, ok]:	5,600
+	[ALL, MGM, ok]:	6,600
+	[ALL, MGM, ok]:	5,200
+	[ALL, MGM, ok]:	5,400
+	[ALL, MGM, ok]:	5,000
+	[ALL, MGM, ok]:	4,400
+	[ALL, MGM, ok]:	4,200
+	[ALL, MGM, ok]:	4,400
+	[ALL, MGM, ok]:	4,600
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	4,200
+	[ALL, MGM, ok]:	4,200
+	[ALL, MGM, ok]:	3,000
+	[ALL, MGM, ok]:	4,600
+	[ALL, MGM, ok]:	2,600
+	[ALL, MGM, ok]:	4,400
+	[ALL, MGM, ok]:	3,400
+	[ALL, MGM, ok]:	2,000
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	1,600
+	[ALL, MGM, ok]:	2,600
+	[ALL, MGM, ok]:	3,800
+	[ALL, MGM, ok]:	3,000
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	3,000
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	2,000
+	[ALL, MGM, ok]:	3,000
+	[ALL, MGM, ok]:	3,000
+	[ALL, MGM, ok]:	3,000
+	[ALL, MGM, ok]:	2,200
+	[ALL, MGM, ok]:	3,000
+	[ALL, MGM, ok]:	3,000
+	[ALL, MGM, ok]:	2,000
+	[ALL, MGM, ok]:	3,000
+	[ALL, MGM, ok]:	3,000
+	[ALL, MGM, ok]:	1,400
+	[ALL, MGM, ok]:	3,000
+	[ALL, MGM, ok]:	2,600
+	[ALL, MGM, ok]:	1,400
+	[ALL, MGM, ok]:	1,400
+	[ALL, MGM, ok]:	1,600
+	[ALL, MGM, ok]:	2,600
+	[ALL, MGM, ok]:	2,000
+	[ALL, MGM, ok]:	2,000
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	800
+	[ALL, MGM, ok]:	1,000
+	[ALL, MGM, ok]:	2,600
+	[ALL, MGM, ok]:	2,400
+	[ALL, MGM, ok]:	600
+	[ALL, MGM, ok]:	600
+	[ALL, MGM, ok]:	600
+	[ALL, MGM, ok]:	600
+	[ALL, MGM, ok]:	1,000
+	[ALL, MGM, ok]:	1,000
+	[ALL, MGM, ok]:	1,000
+	[ALL, MGM, ok]:	1,200
+	[ALL, MGM, ok]:	1,000
+	[ALL, MGM, ok]:	1,000
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	2,000
+	[ALL, MGM, ok]:	2,000
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	1,400
+	[ALL, MGM, ok]:	1,400
+	[ALL, MGM, ok]:	1,600
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	1,000
+	[ALL, MGM, ok]:	1,400
+	[ALL, MGM, ok]:	400
+	[ALL, MGM, ok]:	800
+	[ALL, MGM, ok]:	400
+	[ALL, MGM, ok]:	800
+	[ALL, MGM, ok]:	600
+	[ALL, MGM, ok]:	800
+	[ALL, MGM, ok]:	1,400
+	[ALL, MGM, ok]:	1,400
+	[ALL, MGM, ok]:	1,000
+	[ALL, MGM, ok]:	1,000
+	[ALL, MGM, ok]:	1,600
+	[ALL, MGM, ok]:	1,400
+	[ALL, MGM, ok]:	1,400
+	[ALL, MGM, ok]:	1,600
+	[ALL, MGM, ok]:	2,400
+	[ALL, MGM, ok]:	800
+	[ALL, MGM, ok]:	1,400
+	[ALL, MGM, ok]:	1,400
+	[ALL, MGM, ok]:	600
+	[ALL, MGM, ok]:	1,000
+	[ALL, MGM, ok]:	800
+	[ALL, MGM, ok]:	1,400
+	[ALL, MGM, ok]:	600
+	[ALL, MGM, ok]:	600
+	[ALL, MGM, ok]:	1,400
+	[ALL, MGM, ok]:	1,600
+	[ALL, MGM, ok]:	1,800
+	[ALL, MGM, ok]:	1,600
+	[ALL, MGM, ok]:	1,200
+	[ALL, MGM, ok]:	1,200
+	[ALL, MGM, ok]:	200
+	[ALL, MGM, ok]:	200
+	[ALL, MGM, ok]:	200
+	[ALL, MGM, ok]:	1,400
+	[ALL, MGM, ok]:	1,400
+	[ALL, MGM, ok]:	1,000
+	[ALL, MGM, ok]:	200
+	[ALL, MGM, ok]:	1,000
+	[ALL, MGM, ok]:	1,000
+	[ALL, MGM, ok]:	1,000
+	[ALL, MGM, ok]:	1,000
+	- Total:	988,000
+Number of messages sent (by agent): 
+	agent127:	3,200
+	agent128:	2,800
+	agent129:	2,000
+	agent13:	5,200
+	agent130:	2,800
+	agent14:	4,800
+	agent143:	10,400
+	agent144:	10,000
+	agent145:	10,400
+	agent146:	10,000
+	agent15:	5,600
+	agent16:	5,200
+	agent205:	2,400
+	agent206:	2,800
+	agent233:	6,000
+	agent234:	6,000
+	agent235:	2,000
+	agent236:	2,000
+	agent237:	3,600
+	agent238:	3,600
+	agent261:	1,200
+	agent262:	1,600
+	agent263:	3,600
+	agent264:	3,600
+	agent265:	3,600
+	agent266:	4,000
+	agent267:	3,600
+	agent268:	4,000
+	agent269:	8,800
+	agent270:	8,400
+	agent271:	8,800
+	agent272:	8,400
+	agent273:	10,400
+	agent274:	11,200
+	agent275:	10,400
+	agent276:	11,200
+	agent277:	12,800
+	agent278:	13,200
+	agent281:	6,400
+	agent282:	6,400
+	agent283:	7,200
+	agent284:	7,600
+	agent289:	2,000
+	agent290:	2,400
+	agent291:	3,600
+	agent292:	3,600
+	agent303:	3,200
+	agent304:	2,800
+	agent305:	3,200
+	agent306:	2,800
+	agent321:	6,400
+	agent322:	5,200
+	agent323:	5,600
+	agent324:	6,000
+	agent325:	3,600
+	agent326:	3,600
+	agent327:	3,600
+	agent328:	3,600
+	agent329:	2,800
+	agent330:	4,000
+	agent341:	6,800
+	agent342:	6,800
+	agent343:	6,800
+	agent344:	6,800
+	agent349:	6,000
+	agent350:	6,000
+	agent351:	3,600
+	agent352:	3,600
+	agent435:	2,800
+	agent436:	2,800
+	agent475:	2,000
+	agent476:	2,000
+	agent481:	2,000
+	agent482:	2,000
+	agent517:	3,600
+	agent518:	3,600
+	agent519:	1,200
+	agent520:	1,200
+	agent53:	1,200
+	agent54:	400
+	agent555:	9,200
+	agent556:	9,200
+	agent557:	9,200
+	agent558:	8,800
+	agent559:	5,200
+	agent560:	5,200
+	agent561:	6,000
+	agent562:	6,000
+	agent565:	6,000
+	agent566:	6,000
+	agent577:	4,400
+	agent578:	4,000
+	agent579:	2,400
+	agent580:	2,000
+	agent583:	8,400
+	agent584:	8,800
+	agent585:	2,800
+	agent586:	4,000
+	agent587:	3,200
+	agent588:	2,800
+	agent589:	2,000
+	agent590:	1,600
+	agent591:	8,000
+	agent592:	7,600
+	agent593:	5,600
+	agent594:	6,800
+	agent595:	2,800
+	agent596:	2,800
+	agent597:	6,000
+	agent598:	5,600
+	agent599:	6,800
+	agent600:	6,800
+	agent601:	4,000
+	agent602:	3,600
+	agent603:	2,800
+	agent604:	3,200
+	agent605:	1,200
+	agent606:	1,200
+	agent607:	6,800
+	agent608:	6,000
+	agent613:	8,000
+	agent614:	8,400
+	agent615:	3,200
+	agent616:	3,600
+	agent617:	2,800
+	agent618:	4,800
+	agent621:	6,000
+	agent622:	6,000
+	agent625:	2,000
+	agent626:	2,000
+	agent629:	4,000
+	agent630:	4,000
+	agent631:	3,600
+	agent632:	2,400
+	agent633:	4,000
+	agent634:	4,000
+	agent635:	4,000
+	agent636:	4,000
+	agent645:	3,200
+	agent646:	2,800
+	agent651:	800
+	agent652:	400
+	agent661:	1,200
+	agent662:	1,200
+	agent663:	1,600
+	agent664:	2,000
+	agent665:	8,800
+	agent666:	8,800
+	agent667:	2,400
+	agent668:	400
+	agent713:	12,800
+	agent714:	13,200
+	agent717:	10,400
+	agent718:	11,200
+	agent719:	11,200
+	agent720:	12,000
+	agent721:	11,200
+	agent722:	10,800
+	agent723:	10,400
+	agent724:	10,000
+	agent743:	5,200
+	agent744:	4,800
+	agent745:	4,000
+	agent746:	4,000
+	agent747:	6,000
+	agent748:	5,200
+	agent763:	3,600
+	agent764:	3,600
+	agent765:	4,000
+	agent766:	3,200
+	agent767:	17,600
+	agent768:	15,200
+	agent785:	5,200
+	agent786:	4,400
+	agent787:	5,200
+	agent788:	4,800
+	agent789:	2,400
+	agent79:	1,600
+	agent790:	3,600
+	agent791:	2,400
+	agent792:	2,800
+	agent793:	2,800
+	agent794:	2,400
+	agent795:	2,400
+	agent796:	2,000
+	agent797:	2,000
+	agent798:	2,400
+	agent799:	2,800
+	agent80:	2,800
+	agent800:	3,200
+	agent801:	6,000
+	agent802:	6,400
+	agent81:	1,600
+	agent82:	1,600
+	agent83:	3,600
+	agent84:	3,600
+	agent85:	3,600
+	agent86:	4,000
+	agent879:	400
+	agent880:	800
+Number of messages received (by agent): 
+	agent127:	3,200
+	agent128:	2,800
+	agent129:	2,000
+	agent13:	5,200
+	agent130:	2,800
+	agent14:	4,800
+	agent143:	10,400
+	agent144:	10,000
+	agent145:	10,400
+	agent146:	10,000
+	agent15:	5,600
+	agent16:	5,200
+	agent205:	2,400
+	agent206:	2,800
+	agent233:	6,000
+	agent234:	6,000
+	agent235:	2,000
+	agent236:	2,000
+	agent237:	3,600
+	agent238:	3,600
+	agent261:	1,200
+	agent262:	1,600
+	agent263:	3,600
+	agent264:	3,600
+	agent265:	3,600
+	agent266:	4,000
+	agent267:	3,600
+	agent268:	4,000
+	agent269:	8,800
+	agent270:	8,400
+	agent271:	8,800
+	agent272:	8,400
+	agent273:	10,400
+	agent274:	11,200
+	agent275:	10,400
+	agent276:	11,200
+	agent277:	12,800
+	agent278:	13,200
+	agent281:	6,400
+	agent282:	6,400
+	agent283:	7,200
+	agent284:	7,600
+	agent289:	2,000
+	agent290:	2,400
+	agent291:	3,600
+	agent292:	3,600
+	agent303:	3,200
+	agent304:	2,800
+	agent305:	3,200
+	agent306:	2,800
+	agent321:	6,400
+	agent322:	5,200
+	agent323:	5,600
+	agent324:	6,000
+	agent325:	3,600
+	agent326:	3,600
+	agent327:	3,600
+	agent328:	3,600
+	agent329:	2,800
+	agent330:	4,000
+	agent341:	6,800
+	agent342:	6,800
+	agent343:	6,800
+	agent344:	6,800
+	agent349:	6,000
+	agent350:	6,000
+	agent351:	3,600
+	agent352:	3,600
+	agent435:	2,800
+	agent436:	2,800
+	agent475:	2,000
+	agent476:	2,000
+	agent481:	2,000
+	agent482:	2,000
+	agent517:	3,600
+	agent518:	3,600
+	agent519:	1,200
+	agent520:	1,200
+	agent53:	1,200
+	agent54:	400
+	agent555:	9,200
+	agent556:	9,200
+	agent557:	9,200
+	agent558:	8,800
+	agent559:	5,200
+	agent560:	5,200
+	agent561:	6,000
+	agent562:	6,000
+	agent565:	6,000
+	agent566:	6,000
+	agent577:	4,400
+	agent578:	4,000
+	agent579:	2,400
+	agent580:	2,000
+	agent583:	8,400
+	agent584:	8,800
+	agent585:	2,800
+	agent586:	4,000
+	agent587:	3,200
+	agent588:	2,800
+	agent589:	2,000
+	agent590:	1,600
+	agent591:	8,000
+	agent592:	7,600
+	agent593:	5,600
+	agent594:	6,800
+	agent595:	2,800
+	agent596:	2,800
+	agent597:	6,000
+	agent598:	5,600
+	agent599:	6,800
+	agent600:	6,800
+	agent601:	4,000
+	agent602:	3,600
+	agent603:	2,800
+	agent604:	3,200
+	agent605:	1,200
+	agent606:	1,200
+	agent607:	6,800
+	agent608:	6,000
+	agent613:	8,000
+	agent614:	8,400
+	agent615:	3,200
+	agent616:	3,600
+	agent617:	2,800
+	agent618:	4,800
+	agent621:	6,000
+	agent622:	6,000
+	agent625:	2,000
+	agent626:	2,000
+	agent629:	4,000
+	agent630:	4,000
+	agent631:	3,600
+	agent632:	2,400
+	agent633:	4,000
+	agent634:	4,000
+	agent635:	4,000
+	agent636:	4,000
+	agent645:	3,200
+	agent646:	2,800
+	agent651:	800
+	agent652:	400
+	agent661:	1,200
+	agent662:	1,200
+	agent663:	1,600
+	agent664:	2,000
+	agent665:	8,800
+	agent666:	8,800
+	agent667:	2,400
+	agent668:	400
+	agent713:	12,800
+	agent714:	13,200
+	agent717:	10,400
+	agent718:	11,200
+	agent719:	11,200
+	agent720:	12,000
+	agent721:	11,200
+	agent722:	10,800
+	agent723:	10,400
+	agent724:	10,000
+	agent743:	5,200
+	agent744:	4,800
+	agent745:	4,000
+	agent746:	4,000
+	agent747:	6,000
+	agent748:	5,200
+	agent763:	3,600
+	agent764:	3,600
+	agent765:	4,000
+	agent766:	3,200
+	agent767:	17,600
+	agent768:	15,200
+	agent785:	5,200
+	agent786:	4,400
+	agent787:	5,200
+	agent788:	4,800
+	agent789:	2,400
+	agent79:	1,600
+	agent790:	3,600
+	agent791:	2,400
+	agent792:	2,800
+	agent793:	2,800
+	agent794:	2,400
+	agent795:	2,400
+	agent796:	2,000
+	agent797:	2,000
+	agent798:	2,400
+	agent799:	2,800
+	agent80:	2,800
+	agent800:	3,200
+	agent801:	6,000
+	agent802:	6,400
+	agent81:	1,600
+	agent82:	1,600
+	agent83:	3,600
+	agent84:	3,600
+	agent85:	3,600
+	agent86:	4,000
+	agent879:	400
+	agent880:	800
+Amount of information sent (by type, in bytes): 
+	[ALL, MGM, improve]:	365,464
+	[ALL, MGM, improve]:	107,978
+	[ALL, MGM, improve]:	116,284
+	[ALL, MGM, improve]:	132,896
+	[ALL, MGM, improve]:	83,060
+	[ALL, MGM, improve]:	107,978
+	[ALL, MGM, improve]:	107,978
+	[ALL, MGM, improve]:	66,448
+	[ALL, MGM, improve]:	116,284
+	[ALL, MGM, improve]:	124,590
+	[ALL, MGM, improve]:	107,978
+	[ALL, MGM, improve]:	91,366
+	[ALL, MGM, improve]:	182,732
+	[ALL, MGM, improve]:	99,672
+	[ALL, MGM, improve]:	124,590
+	[ALL, MGM, improve]:	83,060
+	[ALL, MGM, improve]:	58,142
+	[ALL, MGM, improve]:	191,038
+	[ALL, MGM, improve]:	83,060
+	[ALL, MGM, improve]:	182,732
+	[ALL, MGM, improve]:	83,060
+	[ALL, MGM, improve]:	174,426
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	49,836
+	[ALL, MGM, improve]:	58,142
+	[ALL, MGM, improve]:	116,284
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	141,202
+	[ALL, MGM, improve]:	49,836
+	[ALL, MGM, improve]:	58,142
+	[ALL, MGM, improve]:	49,836
+	[ALL, MGM, improve]:	124,590
+	[ALL, MGM, improve]:	49,836
+	[ALL, MGM, improve]:	141,202
+	[ALL, MGM, improve]:	49,836
+	[ALL, MGM, improve]:	166,120
+	[ALL, MGM, improve]:	182,732
+	[ALL, MGM, improve]:	83,060
+	[ALL, MGM, improve]:	141,202
+	[ALL, MGM, improve]:	83,060
+	[ALL, MGM, improve]:	66,448
+	[ALL, MGM, improve]:	315,628
+	[ALL, MGM, improve]:	83,060
+	[ALL, MGM, improve]:	132,896
+	[ALL, MGM, improve]:	124,590
+	[ALL, MGM, improve]:	49,836
+	[ALL, MGM, improve]:	166,120
+	[ALL, MGM, improve]:	83,060
+	[ALL, MGM, improve]:	116,284
+	[ALL, MGM, improve]:	99,672
+	[ALL, MGM, improve]:	49,836
+	[ALL, MGM, improve]:	83,060
+	[ALL, MGM, improve]:	232,568
+	[ALL, MGM, improve]:	157,814
+	[ALL, MGM, improve]:	141,202
+	[ALL, MGM, improve]:	215,956
+	[ALL, MGM, improve]:	141,202
+	[ALL, MGM, improve]:	215,956
+	[ALL, MGM, improve]:	207,650
+	[ALL, MGM, improve]:	215,956
+	[ALL, MGM, improve]:	141,202
+	[ALL, MGM, improve]:	141,202
+	[ALL, MGM, improve]:	207,650
+	[ALL, MGM, improve]:	132,896
+	[ALL, MGM, improve]:	249,180
+	[ALL, MGM, improve]:	149,508
+	[ALL, MGM, improve]:	132,896
+	[ALL, MGM, improve]:	232,568
+	[ALL, MGM, improve]:	265,792
+	[ALL, MGM, improve]:	232,568
+	[ALL, MGM, improve]:	274,098
+	[ALL, MGM, improve]:	215,956
+	[ALL, MGM, improve]:	215,956
+	[ALL, MGM, improve]:	232,568
+	[ALL, MGM, improve]:	265,792
+	[ALL, MGM, improve]:	232,568
+	[ALL, MGM, improve]:	274,098
+	[ALL, MGM, improve]:	215,956
+	[ALL, MGM, improve]:	224,262
+	[ALL, MGM, improve]:	207,650
+	[ALL, MGM, improve]:	182,732
+	[ALL, MGM, improve]:	174,426
+	[ALL, MGM, improve]:	182,732
+	[ALL, MGM, improve]:	191,038
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	174,426
+	[ALL, MGM, improve]:	174,426
+	[ALL, MGM, improve]:	124,590
+	[ALL, MGM, improve]:	191,038
+	[ALL, MGM, improve]:	107,978
+	[ALL, MGM, improve]:	182,732
+	[ALL, MGM, improve]:	141,202
+	[ALL, MGM, improve]:	83,060
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	66,448
+	[ALL, MGM, improve]:	107,978
+	[ALL, MGM, improve]:	157,814
+	[ALL, MGM, improve]:	124,590
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	124,590
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	83,060
+	[ALL, MGM, improve]:	124,590
+	[ALL, MGM, improve]:	124,590
+	[ALL, MGM, improve]:	124,590
+	[ALL, MGM, improve]:	91,366
+	[ALL, MGM, improve]:	124,590
+	[ALL, MGM, improve]:	124,590
+	[ALL, MGM, improve]:	83,060
+	[ALL, MGM, improve]:	124,590
+	[ALL, MGM, improve]:	124,590
+	[ALL, MGM, improve]:	58,142
+	[ALL, MGM, improve]:	124,590
+	[ALL, MGM, improve]:	107,978
+	[ALL, MGM, improve]:	58,142
+	[ALL, MGM, improve]:	58,142
+	[ALL, MGM, improve]:	66,448
+	[ALL, MGM, improve]:	107,978
+	[ALL, MGM, improve]:	83,060
+	[ALL, MGM, improve]:	83,060
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	33,224
+	[ALL, MGM, improve]:	41,530
+	[ALL, MGM, improve]:	107,978
+	[ALL, MGM, improve]:	99,672
+	[ALL, MGM, improve]:	24,918
+	[ALL, MGM, improve]:	24,918
+	[ALL, MGM, improve]:	24,918
+	[ALL, MGM, improve]:	24,918
+	[ALL, MGM, improve]:	41,530
+	[ALL, MGM, improve]:	41,530
+	[ALL, MGM, improve]:	41,530
+	[ALL, MGM, improve]:	49,836
+	[ALL, MGM, improve]:	41,530
+	[ALL, MGM, improve]:	41,530
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	83,060
+	[ALL, MGM, improve]:	83,060
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	58,142
+	[ALL, MGM, improve]:	58,142
+	[ALL, MGM, improve]:	66,448
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	41,530
+	[ALL, MGM, improve]:	58,142
+	[ALL, MGM, improve]:	16,612
+	[ALL, MGM, improve]:	33,224
+	[ALL, MGM, improve]:	16,612
+	[ALL, MGM, improve]:	33,224
+	[ALL, MGM, improve]:	24,918
+	[ALL, MGM, improve]:	33,224
+	[ALL, MGM, improve]:	58,142
+	[ALL, MGM, improve]:	58,142
+	[ALL, MGM, improve]:	41,530
+	[ALL, MGM, improve]:	41,530
+	[ALL, MGM, improve]:	66,448
+	[ALL, MGM, improve]:	58,142
+	[ALL, MGM, improve]:	58,142
+	[ALL, MGM, improve]:	66,448
+	[ALL, MGM, improve]:	99,672
+	[ALL, MGM, improve]:	33,224
+	[ALL, MGM, improve]:	58,142
+	[ALL, MGM, improve]:	58,142
+	[ALL, MGM, improve]:	24,918
+	[ALL, MGM, improve]:	41,530
+	[ALL, MGM, improve]:	33,224
+	[ALL, MGM, improve]:	58,142
+	[ALL, MGM, improve]:	24,918
+	[ALL, MGM, improve]:	24,918
+	[ALL, MGM, improve]:	58,142
+	[ALL, MGM, improve]:	66,448
+	[ALL, MGM, improve]:	74,754
+	[ALL, MGM, improve]:	66,448
+	[ALL, MGM, improve]:	49,836
+	[ALL, MGM, improve]:	49,836
+	[ALL, MGM, improve]:	8,306
+	[ALL, MGM, improve]:	8,306
+	[ALL, MGM, improve]:	8,306
+	[ALL, MGM, improve]:	58,142
+	[ALL, MGM, improve]:	58,142
+	[ALL, MGM, improve]:	41,530
+	[ALL, MGM, improve]:	8,306
+	[ALL, MGM, improve]:	41,530
+	[ALL, MGM, improve]:	41,530
+	[ALL, MGM, improve]:	41,530
+	[ALL, MGM, improve]:	41,530
+	[ALL, MGM, ok]:	185,060
+	[ALL, MGM, ok]:	54,676
+	[ALL, MGM, ok]:	58,980
+	[ALL, MGM, ok]:	67,293
+	[ALL, MGM, ok]:	42,140
+	[ALL, MGM, ok]:	54,779
+	[ALL, MGM, ok]:	54,767
+	[ALL, MGM, ok]:	33,712
+	[ALL, MGM, ok]:	58,994
+	[ALL, MGM, ok]:	63,090
+	[ALL, MGM, ok]:	54,663
+	[ALL, MGM, ok]:	46,354
+	[ALL, MGM, ok]:	92,704
+	[ALL, MGM, ok]:	50,554
+	[ALL, MGM, ok]:	63,086
+	[ALL, MGM, ok]:	42,140
+	[ALL, MGM, ok]:	29,442
+	[ALL, MGM, ok]:	96,734
+	[ALL, MGM, ok]:	42,060
+	[ALL, MGM, ok]:	92,704
+	[ALL, MGM, ok]:	42,140
+	[ALL, MGM, ok]:	88,322
+	[ALL, MGM, ok]:	37,853
+	[ALL, MGM, ok]:	25,236
+	[ALL, MGM, ok]:	29,498
+	[ALL, MGM, ok]:	58,884
+	[ALL, MGM, ok]:	37,926
+	[ALL, MGM, ok]:	71,638
+	[ALL, MGM, ok]:	25,236
+	[ALL, MGM, ok]:	29,498
+	[ALL, MGM, ok]:	25,284
+	[ALL, MGM, ok]:	63,210
+	[ALL, MGM, ok]:	25,236
+	[ALL, MGM, ok]:	71,498
+	[ALL, MGM, ok]:	25,235
+	[ALL, MGM, ok]:	84,280
+	[ALL, MGM, ok]:	92,704
+	[ALL, MGM, ok]:	42,056
+	[ALL, MGM, ok]:	71,634
+	[ALL, MGM, ok]:	42,140
+	[ALL, MGM, ok]:	33,712
+	[ALL, MGM, ok]:	159,824
+	[ALL, MGM, ok]:	42,220
+	[ALL, MGM, ok]:	67,424
+	[ALL, MGM, ok]:	63,086
+	[ALL, MGM, ok]:	25,284
+	[ALL, MGM, ok]:	84,116
+	[ALL, MGM, ok]:	42,140
+	[ALL, MGM, ok]:	58,884
+	[ALL, MGM, ok]:	50,568
+	[ALL, MGM, ok]:	25,284
+	[ALL, MGM, ok]:	42,060
+	[ALL, MGM, ok]:	117,992
+	[ALL, MGM, ok]:	80,066
+	[ALL, MGM, ok]:	71,638
+	[ALL, MGM, ok]:	109,356
+	[ALL, MGM, ok]:	71,502
+	[ALL, MGM, ok]:	109,356
+	[ALL, MGM, ok]:	105,350
+	[ALL, MGM, ok]:	109,564
+	[ALL, MGM, ok]:	71,774
+	[ALL, MGM, ok]:	71,502
+	[ALL, MGM, ok]:	105,550
+	[ALL, MGM, ok]:	67,296
+	[ALL, MGM, ok]:	126,180
+	[ALL, MGM, ok]:	75,852
+	[ALL, MGM, ok]:	67,424
+	[ALL, MGM, ok]:	117,992
+	[ALL, MGM, ok]:	134,592
+	[ALL, MGM, ok]:	117,768
+	[ALL, MGM, ok]:	139,062
+	[ALL, MGM, ok]:	109,564
+	[ALL, MGM, ok]:	109,356
+	[ALL, MGM, ok]:	117,992
+	[ALL, MGM, ok]:	134,848
+	[ALL, MGM, ok]:	117,768
+	[ALL, MGM, ok]:	138,798
+	[ALL, MGM, ok]:	109,356
+	[ALL, MGM, ok]:	113,778
+	[ALL, MGM, ok]:	105,550
+	[ALL, MGM, ok]:	92,708
+	[ALL, MGM, ok]:	88,326
+	[ALL, MGM, ok]:	92,708
+	[ALL, MGM, ok]:	96,738
+	[ALL, MGM, ok]:	37,854
+	[ALL, MGM, ok]:	37,926
+	[ALL, MGM, ok]:	88,326
+	[ALL, MGM, ok]:	88,494
+	[ALL, MGM, ok]:	63,210
+	[ALL, MGM, ok]:	96,922
+	[ALL, MGM, ok]:	54,678
+	[ALL, MGM, ok]:	92,532
+	[ALL, MGM, ok]:	71,502
+	[ALL, MGM, ok]:	42,047
+	[ALL, MGM, ok]:	37,914
+	[ALL, MGM, ok]:	37,842
+	[ALL, MGM, ok]:	37,842
+	[ALL, MGM, ok]:	33,709
+	[ALL, MGM, ok]:	54,674
+	[ALL, MGM, ok]:	79,914
+	[ALL, MGM, ok]:	63,090
+	[ALL, MGM, ok]:	37,854
+	[ALL, MGM, ok]:	63,210
+	[ALL, MGM, ok]:	37,926
+	[ALL, MGM, ok]:	42,140
+	[ALL, MGM, ok]:	63,210
+	[ALL, MGM, ok]:	63,210
+	[ALL, MGM, ok]:	63,090
+	[ALL, MGM, ok]:	46,266
+	[ALL, MGM, ok]:	63,090
+	[ALL, MGM, ok]:	63,210
+	[ALL, MGM, ok]:	42,140
+	[ALL, MGM, ok]:	63,090
+	[ALL, MGM, ok]:	63,210
+	[ALL, MGM, ok]:	29,442
+	[ALL, MGM, ok]:	63,330
+	[ALL, MGM, ok]:	54,678
+	[ALL, MGM, ok]:	29,442
+	[ALL, MGM, ok]:	29,442
+	[ALL, MGM, ok]:	33,648
+	[ALL, MGM, ok]:	54,782
+	[ALL, MGM, ok]:	42,140
+	[ALL, MGM, ok]:	42,060
+	[ALL, MGM, ok]:	37,926
+	[ALL, MGM, ok]:	16,856
+	[ALL, MGM, ok]:	21,030
+	[ALL, MGM, ok]:	54,678
+	[ALL, MGM, ok]:	50,568
+	[ALL, MGM, ok]:	12,642
+	[ALL, MGM, ok]:	12,618
+	[ALL, MGM, ok]:	12,618
+	[ALL, MGM, ok]:	12,642
+	[ALL, MGM, ok]:	21,030
+	[ALL, MGM, ok]:	21,070
+	[ALL, MGM, ok]:	21,070
+	[ALL, MGM, ok]:	25,236
+	[ALL, MGM, ok]:	21,070
+	[ALL, MGM, ok]:	21,030
+	[ALL, MGM, ok]:	37,926
+	[ALL, MGM, ok]:	37,926
+	[ALL, MGM, ok]:	37,854
+	[ALL, MGM, ok]:	37,926
+	[ALL, MGM, ok]:	42,060
+	[ALL, MGM, ok]:	42,140
+	[ALL, MGM, ok]:	37,926
+	[ALL, MGM, ok]:	37,926
+	[ALL, MGM, ok]:	29,498
+	[ALL, MGM, ok]:	29,498
+	[ALL, MGM, ok]:	33,648
+	[ALL, MGM, ok]:	37,854
+	[ALL, MGM, ok]:	37,926
+	[ALL, MGM, ok]:	37,926
+	[ALL, MGM, ok]:	37,926
+	[ALL, MGM, ok]:	37,926
+	[ALL, MGM, ok]:	37,854
+	[ALL, MGM, ok]:	37,854
+	[ALL, MGM, ok]:	37,926
+	[ALL, MGM, ok]:	21,069
+	[ALL, MGM, ok]:	29,487
+	[ALL, MGM, ok]:	8,427
+	[ALL, MGM, ok]:	16,817
+	[ALL, MGM, ok]:	8,411
+	[ALL, MGM, ok]:	16,816
+	[ALL, MGM, ok]:	12,636
+	[ALL, MGM, ok]:	16,849
+	[ALL, MGM, ok]:	29,498
+	[ALL, MGM, ok]:	29,442
+	[ALL, MGM, ok]:	21,030
+	[ALL, MGM, ok]:	21,070
+	[ALL, MGM, ok]:	33,712
+	[ALL, MGM, ok]:	29,442
+	[ALL, MGM, ok]:	29,498
+	[ALL, MGM, ok]:	33,648
+	[ALL, MGM, ok]:	50,568
+	[ALL, MGM, ok]:	16,856
+	[ALL, MGM, ok]:	29,442
+	[ALL, MGM, ok]:	29,498
+	[ALL, MGM, ok]:	12,618
+	[ALL, MGM, ok]:	21,070
+	[ALL, MGM, ok]:	16,824
+	[ALL, MGM, ok]:	29,442
+	[ALL, MGM, ok]:	12,642
+	[ALL, MGM, ok]:	12,618
+	[ALL, MGM, ok]:	29,498
+	[ALL, MGM, ok]:	33,648
+	[ALL, MGM, ok]:	37,926
+	[ALL, MGM, ok]:	33,648
+	[ALL, MGM, ok]:	25,236
+	[ALL, MGM, ok]:	25,236
+	[ALL, MGM, ok]:	4,204
+	[ALL, MGM, ok]:	4,214
+	[ALL, MGM, ok]:	4,206
+	[ALL, MGM, ok]:	29,498
+	[ALL, MGM, ok]:	29,498
+	[ALL, MGM, ok]:	21,030
+	[ALL, MGM, ok]:	4,214
+	[ALL, MGM, ok]:	21,030
+	[ALL, MGM, ok]:	21,070
+	[ALL, MGM, ok]:	21,070
+	[ALL, MGM, ok]:	21,030
+	- Total:	30,915,544
+Amount of information sent (by agent, in bytes): 
+	agent127:	100,096
+	agent128:	87,640
+	agent129:	62,560
+	agent13:	162,641
+	agent130:	87,640
+	agent14:	150,226
+	agent143:	325,312
+	agent144:	313,000
+	agent145:	325,520
+	agent146:	313,200
+	agent15:	175,264
+	agent16:	162,745
+	agent205:	75,072
+	agent206:	87,640
+	agent233:	187,680
+	agent234:	187,800
+	agent235:	62,560
+	agent236:	62,600
+	agent237:	112,680
+	agent238:	112,680
+	agent261:	37,536
+	agent262:	50,080
+	agent263:	112,608
+	agent264:	112,680
+	agent265:	112,680
+	agent266:	125,120
+	agent267:	112,680
+	agent268:	125,200
+	agent269:	275,440
+	agent270:	262,752
+	agent271:	275,264
+	agent272:	262,920
+	agent273:	325,312
+	agent274:	350,560
+	agent275:	325,520
+	agent276:	350,336
+	agent277:	400,640
+	agent278:	412,896
+	agent281:	200,192
+	agent282:	200,320
+	agent283:	225,360
+	agent284:	237,880
+	agent289:	62,599
+	agent290:	75,071
+	agent291:	112,680
+	agent292:	112,608
+	agent303:	100,096
+	agent304:	87,640
+	agent305:	100,160
+	agent306:	87,584
+	agent321:	200,189
+	agent322:	162,757
+	agent323:	175,278
+	agent324:	187,676
+	agent325:	112,680
+	agent326:	112,608
+	agent327:	112,608
+	agent328:	112,680
+	agent329:	87,584
+	agent330:	125,200
+	agent341:	212,840
+	agent342:	212,704
+	agent343:	212,976
+	agent344:	212,704
+	agent349:	187,680
+	agent350:	187,680
+	agent351:	112,608
+	agent352:	112,680
+	agent435:	87,584
+	agent436:	87,640
+	agent475:	62,560
+	agent476:	62,600
+	agent481:	62,560
+	agent482:	62,600
+	agent517:	112,608
+	agent518:	112,680
+	agent519:	37,536
+	agent520:	37,560
+	agent53:	37,554
+	agent54:	12,510
+	agent555:	287,776
+	agent556:	287,960
+	agent557:	287,772
+	agent558:	275,436
+	agent559:	162,760
+	agent560:	162,656
+	agent561:	187,800
+	agent562:	187,800
+	agent565:	187,680
+	agent566:	187,920
+	agent577:	137,632
+	agent578:	125,200
+	agent579:	75,072
+	agent580:	62,600
+	agent583:	262,752
+	agent584:	275,440
+	agent585:	87,584
+	agent586:	125,200
+	agent587:	100,160
+	agent588:	87,584
+	agent589:	62,600
+	agent590:	50,048
+	agent591:	250,400
+	agent592:	237,728
+	agent593:	175,168
+	agent594:	212,840
+	agent595:	87,584
+	agent596:	87,640
+	agent597:	187,800
+	agent598:	175,168
+	agent599:	212,700
+	agent600:	212,836
+	agent601:	125,200
+	agent602:	112,680
+	agent603:	87,640
+	agent604:	100,096
+	agent605:	37,536
+	agent606:	37,560
+	agent607:	212,704
+	agent608:	187,800
+	agent613:	250,236
+	agent614:	262,748
+	agent615:	100,096
+	agent616:	112,680
+	agent617:	87,584
+	agent618:	150,240
+	agent621:	187,680
+	agent622:	187,800
+	agent625:	62,600
+	agent626:	62,560
+	agent629:	125,120
+	agent630:	125,200
+	agent631:	112,680
+	agent632:	75,072
+	agent633:	125,200
+	agent634:	125,120
+	agent635:	125,120
+	agent636:	125,200
+	agent645:	100,096
+	agent646:	87,640
+	agent651:	25,023
+	agent652:	12,520
+	agent661:	37,536
+	agent662:	37,560
+	agent663:	50,080
+	agent664:	62,560
+	agent665:	275,436
+	agent666:	275,436
+	agent667:	75,072
+	agent668:	12,520
+	agent713:	400,384
+	agent714:	413,160
+	agent717:	325,312
+	agent718:	350,560
+	agent719:	350,336
+	agent720:	375,360
+	agent721:	350,560
+	agent722:	338,040
+	agent723:	325,312
+	agent724:	313,200
+	agent743:	162,656
+	agent744:	150,240
+	agent745:	125,200
+	agent746:	125,280
+	agent747:	187,676
+	agent748:	162,652
+	agent763:	112,680
+	agent764:	112,680
+	agent765:	125,116
+	agent766:	100,157
+	agent767:	550,524
+	agent768:	475,452
+	agent785:	162,654
+	agent786:	137,720
+	agent787:	162,656
+	agent788:	150,240
+	agent789:	75,120
+	agent79:	50,040
+	agent790:	112,607
+	agent791:	75,072
+	agent792:	87,640
+	agent793:	87,640
+	agent794:	75,120
+	agent795:	75,072
+	agent796:	62,600
+	agent797:	62,560
+	agent798:	75,120
+	agent799:	87,584
+	agent80:	87,629
+	agent800:	100,160
+	agent801:	187,800
+	agent802:	200,320
+	agent81:	50,041
+	agent82:	50,073
+	agent83:	112,596
+	agent84:	112,668
+	agent85:	112,596
+	agent86:	125,107
+	agent879:	12,512
+	agent880:	25,039
+Amount of information received (by agent, in bytes): 
+	agent127:	100,136
+	agent128:	87,608
+	agent129:	62,584
+	agent13:	162,705
+	agent130:	87,608
+	agent14:	150,170
+	agent143:	325,464
+	agent144:	312,912
+	agent145:	325,464
+	agent146:	312,912
+	agent15:	175,216
+	agent16:	162,689
+	agent205:	75,112
+	agent206:	87,600
+	agent233:	187,752
+	agent234:	187,744
+	agent235:	62,584
+	agent236:	62,576
+	agent237:	112,640
+	agent238:	112,640
+	agent261:	37,552
+	agent262:	50,056
+	agent263:	112,656
+	agent264:	112,648
+	agent265:	112,648
+	agent266:	125,176
+	agent267:	112,648
+	agent268:	125,168
+	agent269:	275,344
+	agent270:	262,832
+	agent271:	275,344
+	agent272:	262,832
+	agent273:	325,440
+	agent274:	350,464
+	agent275:	325,440
+	agent276:	350,464
+	agent277:	400,552
+	agent278:	413,064
+	agent281:	200,312
+	agent282:	200,280
+	agent283:	225,336
+	agent284:	237,848
+	agent289:	62,567
+	agent290:	75,095
+	agent291:	112,640
+	agent292:	112,648
+	agent303:	100,144
+	agent304:	87,616
+	agent305:	100,136
+	agent306:	87,624
+	agent321:	200,277
+	agent322:	162,701
+	agent323:	175,222
+	agent324:	187,748
+	agent325:	112,648
+	agent326:	112,656
+	agent327:	112,656
+	agent328:	112,648
+	agent329:	87,616
+	agent330:	125,168
+	agent341:	212,800
+	agent342:	212,832
+	agent343:	212,800
+	agent344:	212,832
+	agent349:	187,760
+	agent350:	187,760
+	agent351:	112,648
+	agent352:	112,640
+	agent435:	87,616
+	agent436:	87,608
+	agent475:	62,584
+	agent476:	62,576
+	agent481:	62,584
+	agent482:	62,576
+	agent517:	112,648
+	agent518:	112,640
+	agent519:	37,552
+	agent520:	37,544
+	agent53:	37,538
+	agent54:	12,518
+	agent555:	287,864
+	agent556:	287,856
+	agent557:	287,868
+	agent558:	275,348
+	agent559:	162,728
+	agent560:	162,736
+	agent561:	187,744
+	agent562:	187,744
+	agent565:	187,768
+	agent566:	187,760
+	agent577:	137,688
+	agent578:	125,168
+	agent579:	75,104
+	agent580:	62,576
+	agent583:	262,832
+	agent584:	275,344
+	agent585:	87,640
+	agent586:	125,160
+	agent587:	100,144
+	agent588:	87,640
+	agent589:	62,576
+	agent590:	50,064
+	agent591:	250,320
+	agent592:	237,816
+	agent593:	175,224
+	agent594:	212,760
+	agent595:	87,624
+	agent596:	87,616
+	agent597:	187,728
+	agent598:	175,224
+	agent599:	212,796
+	agent600:	212,788
+	agent601:	125,176
+	agent602:	112,656
+	agent603:	87,616
+	agent604:	100,144
+	agent605:	37,560
+	agent606:	37,552
+	agent607:	212,768
+	agent608:	187,736
+	agent613:	250,300
+	agent614:	262,812
+	agent615:	100,128
+	agent616:	112,640
+	agent617:	87,616
+	agent618:	150,184
+	agent621:	187,752
+	agent622:	187,752
+	agent625:	62,576
+	agent626:	62,584
+	agent629:	125,160
+	agent630:	125,152
+	agent631:	112,632
+	agent632:	75,096
+	agent633:	125,152
+	agent634:	125,160
+	agent635:	125,184
+	agent636:	125,168
+	agent645:	100,152
+	agent646:	87,616
+	agent651:	25,039
+	agent652:	12,512
+	agent661:	37,552
+	agent662:	37,544
+	agent663:	50,048
+	agent664:	62,576
+	agent665:	275,348
+	agent666:	275,340
+	agent667:	75,112
+	agent668:	12,512
+	agent713:	400,552
+	agent714:	413,064
+	agent717:	325,440
+	agent718:	350,464
+	agent719:	350,472
+	agent720:	375,504
+	agent721:	350,488
+	agent722:	337,968
+	agent723:	325,464
+	agent724:	312,912
+	agent743:	162,712
+	agent744:	150,184
+	agent745:	125,176
+	agent746:	125,160
+	agent747:	187,708
+	agent748:	162,684
+	agent763:	112,648
+	agent764:	112,648
+	agent765:	125,132
+	agent766:	100,093
+	agent767:	550,732
+	agent768:	475,636
+	agent785:	162,694
+	agent786:	137,664
+	agent787:	162,712
+	agent788:	150,184
+	agent789:	75,088
+	agent79:	50,064
+	agent790:	112,647
+	agent791:	75,104
+	agent792:	87,608
+	agent793:	87,608
+	agent794:	75,096
+	agent795:	75,104
+	agent796:	62,584
+	agent797:	62,584
+	agent798:	75,088
+	agent799:	87,616
+	agent80:	87,597
+	agent800:	100,120
+	agent801:	187,744
+	agent802:	200,248
+	agent81:	50,065
+	agent82:	50,049
+	agent83:	112,612
+	agent84:	112,596
+	agent85:	112,612
+	agent86:	125,123
+	agent879:	12,520
+	agent880:	25,031
+Size of the largest message sent (by type, in bytes): 
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, improve]:	147
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	225
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	225
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	225
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	225
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	225
+	[ALL, MGM, ok]:	225
+	[ALL, MGM, ok]:	225
+	[ALL, MGM, ok]:	225
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	225
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	225
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	224
+	[ALL, MGM, ok]:	224
+	[ALL, MGM, ok]:	225
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	224
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	[ALL, MGM, ok]:	226
+	- Overall maximum:	226
+Writing the solution to the file: result_mgm_2

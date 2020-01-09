@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance>
+  <presentation name="sampleProblem" maxConstraintArity="2" maximize="false" format="XCSP 2.1_FRODO" />
+  <agents nbAgents="4">
+    <agent name="agent1" />
+    <agent name="agent2" />
+    <agent name="agent3" />
+    <agent name="agent4" />
+  </agents>
+  <domains nbDomains="2">
+    <domain name="domain1" nbValues="3">5 8 12</domain>
+    <domain name="domain2" nbValues="2">7 13</domain>
+  </domains>
+  <variables nbVariables="4">
+    <variable name="V1" domain="domain1" agent="agent1" />
+    <variable name="V2" domain="domain1" agent="agent2" />
+    <variable name="V3" domain="domain1" agent="agent3" />
+    <variable name="V4" domain="domain1" agent="agent4" />
+  </variables>
+  <predicates nbPredicates="4">
+    <predicate name="pred_1_2">
+      <parameters>int X1 int X2</parameters>
+      <expression>
+        <functional>gt(abs(sub(X1, X2)),5)</functional>
+      </expression>
+    </predicate>
+    <predicate name="pred_1_4">
+      <parameters>int X1 int X2</parameters>
+      <expression>
+        <functional>gt(abs(sub(X1, X2)),2)</functional>
+      </expression>
+    </predicate>
+    <predicate name="pred_2_3">
+      <parameters>int X1 int X2</parameters>
+      <expression>
+        <functional>eq(abs(sub(X1, X2)),3)</functional>
+      </expression>
+    </predicate>
+    <predicate name="pred_3_4">
+      <parameters>int X1 int X2</parameters>
+      <expression>
+        <functional>eq(abs(sub(X1, X2)),3)</functional>
+      </expression>
+    </predicate>
+  </predicates>
+  <constraints nbConstraints="4">
+    <constraint name="const_1_2" arity="2" scope="V1 V2" reference="pred_1_2">
+      <parameters>V1 V2 1</parameters>
+    </constraint>
+    <constraint name="const_1_4" arity="2" scope="V1 V4" reference="pred_1_4">
+      <parameters>V1 V4 1</parameters>
+    </constraint>
+    <constraint name="const_2_3" arity="2" scope="V2 V3" reference="pred_2_3">
+      <parameters>V2 V3 1</parameters>
+    </constraint>
+    <constraint name="const_3_4" arity="2" scope="V3 V4" reference="pred_3_4">
+      <parameters>V3 V4 1</parameters>
+    </constraint>
+  </constraints>
+</instance>
+

@@ -1,0 +1,3664 @@
+FRODO  Copyright (C) 2008-2019  Thomas Leaute, Brammert Ottens & Radoslaw Szymanek
+This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to redistribute it
+under certain conditions. Use the option -license to display the license.
+
+Parsing the input problem file: instances/scen02.xml
+Parsing the input agent configuration file: agents/DSA/DSAagentJaCoP.xml
+Setting up the agents...
+Constraint graph:
+graph {
+	node [shape = "circle"];
+	subgraph cluster_agent85 {
+		label = agent85;
+		V85 [style="filled"];
+	}
+	subgraph cluster_agent720 {
+		label = agent720;
+		V720 [style="filled"];
+	}
+	subgraph cluster_agent86 {
+		label = agent86;
+		V86 [style="filled"];
+	}
+	subgraph cluster_agent600 {
+		label = agent600;
+		V600 [style="filled"];
+	}
+	subgraph cluster_agent721 {
+		label = agent721;
+		V721 [style="filled"];
+	}
+	subgraph cluster_agent83 {
+		label = agent83;
+		V83 [style="filled"];
+	}
+	subgraph cluster_agent601 {
+		label = agent601;
+		V601 [style="filled"];
+	}
+	subgraph cluster_agent722 {
+		label = agent722;
+		V722 [style="filled"];
+	}
+	subgraph cluster_agent84 {
+		label = agent84;
+		V84 [style="filled"];
+	}
+	subgraph cluster_agent602 {
+		label = agent602;
+		V602 [style="filled"];
+	}
+	subgraph cluster_agent723 {
+		label = agent723;
+		V723 [style="filled"];
+	}
+	subgraph cluster_agent603 {
+		label = agent603;
+		V603 [style="filled"];
+	}
+	subgraph cluster_agent724 {
+		label = agent724;
+		V724 [style="filled"];
+	}
+	subgraph cluster_agent604 {
+		label = agent604;
+		V604 [style="filled"];
+	}
+	subgraph cluster_agent605 {
+		label = agent605;
+		V605 [style="filled"];
+	}
+	subgraph cluster_agent606 {
+		label = agent606;
+		V606 [style="filled"];
+	}
+	subgraph cluster_agent607 {
+		label = agent607;
+		V607 [style="filled"];
+	}
+	subgraph cluster_agent608 {
+		label = agent608;
+		V608 [style="filled"];
+	}
+	subgraph cluster_agent281 {
+		label = agent281;
+		V281 [style="filled"];
+	}
+	subgraph cluster_agent282 {
+		label = agent282;
+		V282 [style="filled"];
+	}
+	subgraph cluster_agent283 {
+		label = agent283;
+		V283 [style="filled"];
+	}
+	subgraph cluster_agent284 {
+		label = agent284;
+		V284 [style="filled"];
+	}
+	subgraph cluster_agent289 {
+		label = agent289;
+		V289 [style="filled"];
+	}
+	subgraph cluster_agent613 {
+		label = agent613;
+		V613 [style="filled"];
+	}
+	subgraph cluster_agent614 {
+		label = agent614;
+		V614 [style="filled"];
+	}
+	subgraph cluster_agent615 {
+		label = agent615;
+		V615 [style="filled"];
+	}
+	subgraph cluster_agent616 {
+		label = agent616;
+		V616 [style="filled"];
+	}
+	subgraph cluster_agent617 {
+		label = agent617;
+		V617 [style="filled"];
+	}
+	subgraph cluster_agent618 {
+		label = agent618;
+		V618 [style="filled"];
+	}
+	subgraph cluster_agent290 {
+		label = agent290;
+		V290 [style="filled"];
+	}
+	subgraph cluster_agent291 {
+		label = agent291;
+		V291 [style="filled"];
+	}
+	subgraph cluster_agent292 {
+		label = agent292;
+		V292 [style="filled"];
+	}
+	subgraph cluster_agent621 {
+		label = agent621;
+		V621 [style="filled"];
+	}
+	subgraph cluster_agent622 {
+		label = agent622;
+		V622 [style="filled"];
+	}
+	subgraph cluster_agent743 {
+		label = agent743;
+		V743 [style="filled"];
+	}
+	subgraph cluster_agent744 {
+		label = agent744;
+		V744 [style="filled"];
+	}
+	subgraph cluster_agent745 {
+		label = agent745;
+		V745 [style="filled"];
+	}
+	subgraph cluster_agent625 {
+		label = agent625;
+		V625 [style="filled"];
+	}
+	subgraph cluster_agent746 {
+		label = agent746;
+		V746 [style="filled"];
+	}
+	subgraph cluster_agent626 {
+		label = agent626;
+		V626 [style="filled"];
+	}
+	subgraph cluster_agent747 {
+		label = agent747;
+		V747 [style="filled"];
+	}
+	subgraph cluster_agent748 {
+		label = agent748;
+		V748 [style="filled"];
+	}
+	subgraph cluster_agent629 {
+		label = agent629;
+		V629 [style="filled"];
+	}
+	subgraph cluster_agent632 {
+		label = agent632;
+		V632 [style="filled"];
+	}
+	subgraph cluster_agent633 {
+		label = agent633;
+		V633 [style="filled"];
+	}
+	subgraph cluster_agent634 {
+		label = agent634;
+		V634 [style="filled"];
+	}
+	subgraph cluster_agent635 {
+		label = agent635;
+		V635 [style="filled"];
+	}
+	subgraph cluster_agent636 {
+		label = agent636;
+		V636 [style="filled"];
+	}
+	subgraph cluster_agent79 {
+		label = agent79;
+		V79 [style="filled"];
+	}
+	subgraph cluster_agent879 {
+		label = agent879;
+		V879 [style="filled"];
+	}
+	subgraph cluster_agent517 {
+		label = agent517;
+		V517 [style="filled"];
+	}
+	subgraph cluster_agent518 {
+		label = agent518;
+		V518 [style="filled"];
+	}
+	subgraph cluster_agent519 {
+		label = agent519;
+		V519 [style="filled"];
+	}
+	subgraph cluster_agent81 {
+		label = agent81;
+		V81 [style="filled"];
+	}
+	subgraph cluster_agent82 {
+		label = agent82;
+		V82 [style="filled"];
+	}
+	subgraph cluster_agent630 {
+		label = agent630;
+		V630 [style="filled"];
+	}
+	subgraph cluster_agent80 {
+		label = agent80;
+		V80 [style="filled"];
+	}
+	subgraph cluster_agent631 {
+		label = agent631;
+		V631 [style="filled"];
+	}
+	subgraph cluster_agent127 {
+		label = agent127;
+		V127 [style="filled"];
+	}
+	subgraph cluster_agent128 {
+		label = agent128;
+		V128 [style="filled"];
+	}
+	subgraph cluster_agent129 {
+		label = agent129;
+		V129 [style="filled"];
+	}
+	subgraph cluster_agent800 {
+		label = agent800;
+		V800 [style="filled"];
+	}
+	subgraph cluster_agent801 {
+		label = agent801;
+		V801 [style="filled"];
+	}
+	subgraph cluster_agent802 {
+		label = agent802;
+		V802 [style="filled"];
+	}
+	subgraph cluster_agent481 {
+		label = agent481;
+		V481 [style="filled"];
+	}
+	subgraph cluster_agent482 {
+		label = agent482;
+		V482 [style="filled"];
+	}
+	subgraph cluster_agent53 {
+		label = agent53;
+		V53 [style="filled"];
+	}
+	subgraph cluster_agent54 {
+		label = agent54;
+		V54 [style="filled"];
+	}
+	subgraph cluster_agent130 {
+		label = agent130;
+		V130 [style="filled"];
+	}
+	subgraph cluster_agent269 {
+		label = agent269;
+		V269 [style="filled"];
+	}
+	subgraph cluster_agent261 {
+		label = agent261;
+		V261 [style="filled"];
+	}
+	subgraph cluster_agent262 {
+		label = agent262;
+		V262 [style="filled"];
+	}
+	subgraph cluster_agent263 {
+		label = agent263;
+		V263 [style="filled"];
+	}
+	subgraph cluster_agent143 {
+		label = agent143;
+		V143 [style="filled"];
+	}
+	subgraph cluster_agent264 {
+		label = agent264;
+		V264 [style="filled"];
+	}
+	subgraph cluster_agent144 {
+		label = agent144;
+		V144 [style="filled"];
+	}
+	subgraph cluster_agent265 {
+		label = agent265;
+		V265 [style="filled"];
+	}
+	subgraph cluster_agent145 {
+		label = agent145;
+		V145 [style="filled"];
+	}
+	subgraph cluster_agent266 {
+		label = agent266;
+		V266 [style="filled"];
+	}
+	subgraph cluster_agent146 {
+		label = agent146;
+		V146 [style="filled"];
+	}
+	subgraph cluster_agent267 {
+		label = agent267;
+		V267 [style="filled"];
+	}
+	subgraph cluster_agent268 {
+		label = agent268;
+		V268 [style="filled"];
+	}
+	subgraph cluster_agent713 {
+		label = agent713;
+		V713 [style="filled"];
+	}
+	subgraph cluster_agent714 {
+		label = agent714;
+		V714 [style="filled"];
+	}
+	subgraph cluster_agent717 {
+		label = agent717;
+		V717 [style="filled"];
+	}
+	subgraph cluster_agent718 {
+		label = agent718;
+		V718 [style="filled"];
+	}
+	subgraph cluster_agent719 {
+		label = agent719;
+		V719 [style="filled"];
+	}
+	subgraph cluster_agent270 {
+		label = agent270;
+		V270 [style="filled"];
+	}
+	subgraph cluster_agent271 {
+		label = agent271;
+		V271 [style="filled"];
+	}
+	subgraph cluster_agent272 {
+		label = agent272;
+		V272 [style="filled"];
+	}
+	subgraph cluster_agent273 {
+		label = agent273;
+		V273 [style="filled"];
+	}
+	subgraph cluster_agent274 {
+		label = agent274;
+		V274 [style="filled"];
+	}
+	subgraph cluster_agent275 {
+		label = agent275;
+		V275 [style="filled"];
+	}
+	subgraph cluster_agent276 {
+		label = agent276;
+		V276 [style="filled"];
+	}
+	subgraph cluster_agent277 {
+		label = agent277;
+		V277 [style="filled"];
+	}
+	subgraph cluster_agent278 {
+		label = agent278;
+		V278 [style="filled"];
+	}
+	subgraph cluster_agent324 {
+		label = agent324;
+		V324 [style="filled"];
+	}
+	subgraph cluster_agent566 {
+		label = agent566;
+		V566 [style="filled"];
+	}
+	subgraph cluster_agent325 {
+		label = agent325;
+		V325 [style="filled"];
+	}
+	subgraph cluster_agent205 {
+		label = agent205;
+		V205 [style="filled"];
+	}
+	subgraph cluster_agent326 {
+		label = agent326;
+		V326 [style="filled"];
+	}
+	subgraph cluster_agent206 {
+		label = agent206;
+		V206 [style="filled"];
+	}
+	subgraph cluster_agent327 {
+		label = agent327;
+		V327 [style="filled"];
+	}
+	subgraph cluster_agent328 {
+		label = agent328;
+		V328 [style="filled"];
+	}
+	subgraph cluster_agent329 {
+		label = agent329;
+		V329 [style="filled"];
+	}
+	subgraph cluster_agent560 {
+		label = agent560;
+		V560 [style="filled"];
+	}
+	subgraph cluster_agent561 {
+		label = agent561;
+		V561 [style="filled"];
+	}
+	subgraph cluster_agent562 {
+		label = agent562;
+		V562 [style="filled"];
+	}
+	subgraph cluster_agent321 {
+		label = agent321;
+		V321 [style="filled"];
+	}
+	subgraph cluster_agent322 {
+		label = agent322;
+		V322 [style="filled"];
+	}
+	subgraph cluster_agent323 {
+		label = agent323;
+		V323 [style="filled"];
+	}
+	subgraph cluster_agent565 {
+		label = agent565;
+		V565 [style="filled"];
+	}
+	subgraph cluster_agent577 {
+		label = agent577;
+		V577 [style="filled"];
+	}
+	subgraph cluster_agent578 {
+		label = agent578;
+		V578 [style="filled"];
+	}
+	subgraph cluster_agent579 {
+		label = agent579;
+		V579 [style="filled"];
+	}
+	subgraph cluster_agent13 {
+		label = agent13;
+		V13 [style="filled"];
+	}
+	subgraph cluster_agent16 {
+		label = agent16;
+		V16 [style="filled"];
+	}
+	subgraph cluster_agent14 {
+		label = agent14;
+		V14 [style="filled"];
+	}
+	subgraph cluster_agent15 {
+		label = agent15;
+		V15 [style="filled"];
+	}
+	subgraph cluster_agent330 {
+		label = agent330;
+		V330 [style="filled"];
+	}
+	subgraph cluster_agent588 {
+		label = agent588;
+		V588 [style="filled"];
+	}
+	subgraph cluster_agent589 {
+		label = agent589;
+		V589 [style="filled"];
+	}
+	subgraph cluster_agent349 {
+		label = agent349;
+		V349 [style="filled"];
+	}
+	subgraph cluster_agent580 {
+		label = agent580;
+		V580 [style="filled"];
+	}
+	subgraph cluster_agent341 {
+		label = agent341;
+		V341 [style="filled"];
+	}
+	subgraph cluster_agent583 {
+		label = agent583;
+		V583 [style="filled"];
+	}
+	subgraph cluster_agent342 {
+		label = agent342;
+		V342 [style="filled"];
+	}
+	subgraph cluster_agent584 {
+		label = agent584;
+		V584 [style="filled"];
+	}
+	subgraph cluster_agent343 {
+		label = agent343;
+		V343 [style="filled"];
+	}
+	subgraph cluster_agent585 {
+		label = agent585;
+		V585 [style="filled"];
+	}
+	subgraph cluster_agent344 {
+		label = agent344;
+		V344 [style="filled"];
+	}
+	subgraph cluster_agent586 {
+		label = agent586;
+		V586 [style="filled"];
+	}
+	subgraph cluster_agent587 {
+		label = agent587;
+		V587 [style="filled"];
+	}
+	subgraph cluster_agent236 {
+		label = agent236;
+		V236 [style="filled"];
+	}
+	subgraph cluster_agent599 {
+		label = agent599;
+		V599 [style="filled"];
+	}
+	subgraph cluster_agent237 {
+		label = agent237;
+		V237 [style="filled"];
+	}
+	subgraph cluster_agent238 {
+		label = agent238;
+		V238 [style="filled"];
+	}
+	subgraph cluster_agent590 {
+		label = agent590;
+		V590 [style="filled"];
+	}
+	subgraph cluster_agent591 {
+		label = agent591;
+		V591 [style="filled"];
+	}
+	subgraph cluster_agent350 {
+		label = agent350;
+		V350 [style="filled"];
+	}
+	subgraph cluster_agent592 {
+		label = agent592;
+		V592 [style="filled"];
+	}
+	subgraph cluster_agent351 {
+		label = agent351;
+		V351 [style="filled"];
+	}
+	subgraph cluster_agent593 {
+		label = agent593;
+		V593 [style="filled"];
+	}
+	subgraph cluster_agent352 {
+		label = agent352;
+		V352 [style="filled"];
+	}
+	subgraph cluster_agent594 {
+		label = agent594;
+		V594 [style="filled"];
+	}
+	subgraph cluster_agent595 {
+		label = agent595;
+		V595 [style="filled"];
+	}
+	subgraph cluster_agent233 {
+		label = agent233;
+		V233 [style="filled"];
+	}
+	subgraph cluster_agent475 {
+		label = agent475;
+		V475 [style="filled"];
+	}
+	subgraph cluster_agent596 {
+		label = agent596;
+		V596 [style="filled"];
+	}
+	subgraph cluster_agent234 {
+		label = agent234;
+		V234 [style="filled"];
+	}
+	subgraph cluster_agent476 {
+		label = agent476;
+		V476 [style="filled"];
+	}
+	subgraph cluster_agent597 {
+		label = agent597;
+		V597 [style="filled"];
+	}
+	subgraph cluster_agent235 {
+		label = agent235;
+		V235 [style="filled"];
+	}
+	subgraph cluster_agent598 {
+		label = agent598;
+		V598 [style="filled"];
+	}
+	subgraph cluster_agent764 {
+		label = agent764;
+		V764 [style="filled"];
+	}
+	subgraph cluster_agent765 {
+		label = agent765;
+		V765 [style="filled"];
+	}
+	subgraph cluster_agent645 {
+		label = agent645;
+		V645 [style="filled"];
+	}
+	subgraph cluster_agent766 {
+		label = agent766;
+		V766 [style="filled"];
+	}
+	subgraph cluster_agent646 {
+		label = agent646;
+		V646 [style="filled"];
+	}
+	subgraph cluster_agent767 {
+		label = agent767;
+		V767 [style="filled"];
+	}
+	subgraph cluster_agent768 {
+		label = agent768;
+		V768 [style="filled"];
+	}
+	subgraph cluster_agent880 {
+		label = agent880;
+		V880 [style="filled"];
+	}
+	subgraph cluster_agent520 {
+		label = agent520;
+		V520 [style="filled"];
+	}
+	subgraph cluster_agent763 {
+		label = agent763;
+		V763 [style="filled"];
+	}
+	subgraph cluster_agent651 {
+		label = agent651;
+		V651 [style="filled"];
+	}
+	subgraph cluster_agent652 {
+		label = agent652;
+		V652 [style="filled"];
+	}
+	subgraph cluster_agent665 {
+		label = agent665;
+		V665 [style="filled"];
+	}
+	subgraph cluster_agent786 {
+		label = agent786;
+		V786 [style="filled"];
+	}
+	subgraph cluster_agent303 {
+		label = agent303;
+		V303 [style="filled"];
+	}
+	subgraph cluster_agent666 {
+		label = agent666;
+		V666 [style="filled"];
+	}
+	subgraph cluster_agent787 {
+		label = agent787;
+		V787 [style="filled"];
+	}
+	subgraph cluster_agent304 {
+		label = agent304;
+		V304 [style="filled"];
+	}
+	subgraph cluster_agent667 {
+		label = agent667;
+		V667 [style="filled"];
+	}
+	subgraph cluster_agent788 {
+		label = agent788;
+		V788 [style="filled"];
+	}
+	subgraph cluster_agent305 {
+		label = agent305;
+		V305 [style="filled"];
+	}
+	subgraph cluster_agent668 {
+		label = agent668;
+		V668 [style="filled"];
+	}
+	subgraph cluster_agent789 {
+		label = agent789;
+		V789 [style="filled"];
+	}
+	subgraph cluster_agent306 {
+		label = agent306;
+		V306 [style="filled"];
+	}
+	subgraph cluster_agent661 {
+		label = agent661;
+		V661 [style="filled"];
+	}
+	subgraph cluster_agent662 {
+		label = agent662;
+		V662 [style="filled"];
+	}
+	subgraph cluster_agent663 {
+		label = agent663;
+		V663 [style="filled"];
+	}
+	subgraph cluster_agent664 {
+		label = agent664;
+		V664 [style="filled"];
+	}
+	subgraph cluster_agent785 {
+		label = agent785;
+		V785 [style="filled"];
+	}
+	subgraph cluster_agent555 {
+		label = agent555;
+		V555 [style="filled"];
+	}
+	subgraph cluster_agent797 {
+		label = agent797;
+		V797 [style="filled"];
+	}
+	subgraph cluster_agent435 {
+		label = agent435;
+		V435 [style="filled"];
+	}
+	subgraph cluster_agent556 {
+		label = agent556;
+		V556 [style="filled"];
+	}
+	subgraph cluster_agent798 {
+		label = agent798;
+		V798 [style="filled"];
+	}
+	subgraph cluster_agent436 {
+		label = agent436;
+		V436 [style="filled"];
+	}
+	subgraph cluster_agent557 {
+		label = agent557;
+		V557 [style="filled"];
+	}
+	subgraph cluster_agent799 {
+		label = agent799;
+		V799 [style="filled"];
+	}
+	subgraph cluster_agent558 {
+		label = agent558;
+		V558 [style="filled"];
+	}
+	subgraph cluster_agent559 {
+		label = agent559;
+		V559 [style="filled"];
+	}
+	subgraph cluster_agent790 {
+		label = agent790;
+		V790 [style="filled"];
+	}
+	subgraph cluster_agent791 {
+		label = agent791;
+		V791 [style="filled"];
+	}
+	subgraph cluster_agent792 {
+		label = agent792;
+		V792 [style="filled"];
+	}
+	subgraph cluster_agent793 {
+		label = agent793;
+		V793 [style="filled"];
+	}
+	subgraph cluster_agent794 {
+		label = agent794;
+		V794 [style="filled"];
+	}
+	subgraph cluster_agent795 {
+		label = agent795;
+		V795 [style="filled"];
+	}
+	subgraph cluster_agent796 {
+		label = agent796;
+		V796 [style="filled"];
+	}
+
+
+	V802 -- V768;
+	V802 -- V801;
+	V802 -- V349;
+	V802 -- V767;
+	V802 -- V800;
+	V802 -- V799;
+	V802 -- V622;
+	V802 -- V591;
+	V802 -- V577;
+	V802 -- V621;
+	V802 -- V234;
+	V802 -- V233;
+	V802 -- V562;
+	V802 -- V561;
+	V802 -- V350;
+	V802 -- V592;
+	V801 -- V349;
+	V801 -- V800;
+	V801 -- V799;
+	V801 -- V578;
+	V801 -- V622;
+	V801 -- V591;
+	V801 -- V577;
+	V801 -- V621;
+	V801 -- V234;
+	V801 -- V233;
+	V801 -- V562;
+	V801 -- V561;
+	V801 -- V350;
+	V801 -- V592;
+	V129 -- V128;
+	V129 -- V127;
+	V800 -- V768;
+	V800 -- V767;
+	V800 -- V579;
+	V800 -- V799;
+	V800 -- V798;
+	V800 -- V797;
+	V128 -- V127;
+	V130 -- V129;
+	V130 -- V128;
+	V130 -- V127;
+	V238 -- V237;
+	V481 -- V436;
+	V481 -- V435;
+	V481 -- V476;
+	V481 -- V475;
+	V482 -- V481;
+	V482 -- V436;
+	V482 -- V435;
+	V482 -- V476;
+	V482 -- V475;
+	V272 -- V271;
+	V272 -- V269;
+	V271 -- V270;
+	V270 -- V269;
+	V278 -- V271;
+	V278 -- V277;
+	V278 -- V276;
+	V278 -- V275;
+	V278 -- V274;
+	V278 -- V273;
+	V278 -- V269;
+	V278 -- V146;
+	V278 -- V145;
+	V278 -- V144;
+	V278 -- V143;
+	V277 -- V272;
+	V277 -- V270;
+	V277 -- V276;
+	V277 -- V275;
+	V277 -- V274;
+	V277 -- V273;
+	V277 -- V146;
+	V277 -- V145;
+	V277 -- V144;
+	V277 -- V143;
+	V276 -- V272;
+	V276 -- V271;
+	V276 -- V270;
+	V276 -- V275;
+	V276 -- V273;
+	V276 -- V269;
+	V276 -- V146;
+	V276 -- V145;
+	V276 -- V144;
+	V276 -- V143;
+	V275 -- V272;
+	V275 -- V271;
+	V275 -- V270;
+	V275 -- V274;
+	V275 -- V269;
+	V275 -- V146;
+	V275 -- V145;
+	V275 -- V144;
+	V275 -- V143;
+	V274 -- V272;
+	V274 -- V271;
+	V274 -- V270;
+	V274 -- V273;
+	V274 -- V269;
+	V274 -- V146;
+	V274 -- V145;
+	V274 -- V144;
+	V274 -- V143;
+	V273 -- V272;
+	V273 -- V271;
+	V273 -- V270;
+	V273 -- V269;
+	V273 -- V146;
+	V273 -- V145;
+	V273 -- V144;
+	V273 -- V143;
+	V268 -- V267;
+	V268 -- V266;
+	V268 -- V265;
+	V146 -- V145;
+	V146 -- V143;
+	V267 -- V266;
+	V267 -- V265;
+	V145 -- V144;
+	V266 -- V265;
+	V144 -- V143;
+	V264 -- V263;
+	V262 -- V261;
+	V607 -- V556;
+	V607 -- V555;
+	V607 -- V278;
+	V607 -- V276;
+	V607 -- V584;
+	V607 -- V275;
+	V607 -- V583;
+	V607 -- V274;
+	V607 -- V273;
+	V606 -- V605;
+	V606 -- V562;
+	V606 -- V561;
+	V605 -- V562;
+	V605 -- V561;
+	V604 -- V559;
+	V604 -- V603;
+	V604 -- V268;
+	V604 -- V267;
+	V604 -- V266;
+	V604 -- V265;
+	V604 -- V560;
+	V604 -- V262;
+	V603 -- V559;
+	V603 -- V268;
+	V603 -- V267;
+	V603 -- V266;
+	V603 -- V265;
+	V603 -- V560;
+	V724 -- V723;
+	V724 -- V722;
+	V724 -- V721;
+	V724 -- V278;
+	V724 -- V277;
+	V724 -- V276;
+	V724 -- V275;
+	V724 -- V274;
+	V724 -- V273;
+	V724 -- V717;
+	V724 -- V714;
+	V724 -- V713;
+	V724 -- V719;
+	V724 -- V718;
+	V724 -- V283;
+	V724 -- V282;
+	V724 -- V281;
+	V724 -- V720;
+	V724 -- V344;
+	V724 -- V145;
+	V724 -- V343;
+	V724 -- V342;
+	V724 -- V143;
+	V724 -- V341;
+	V724 -- V284;
+	V602 -- V559;
+	V602 -- V601;
+	V602 -- V566;
+	V602 -- V565;
+	V602 -- V596;
+	V602 -- V595;
+	V602 -- V560;
+	V723 -- V722;
+	V723 -- V721;
+	V723 -- V278;
+	V723 -- V277;
+	V723 -- V276;
+	V723 -- V275;
+	V723 -- V274;
+	V723 -- V273;
+	V723 -- V717;
+	V723 -- V714;
+	V723 -- V713;
+	V723 -- V719;
+	V723 -- V718;
+	V723 -- V283;
+	V723 -- V282;
+	V723 -- V281;
+	V723 -- V720;
+	V723 -- V146;
+	V723 -- V344;
+	V723 -- V343;
+	V723 -- V144;
+	V723 -- V342;
+	V723 -- V341;
+	V723 -- V284;
+	V601 -- V559;
+	V601 -- V566;
+	V601 -- V565;
+	V601 -- V596;
+	V601 -- V595;
+	V601 -- V330;
+	V601 -- V560;
+	V722 -- V721;
+	V722 -- V278;
+	V722 -- V277;
+	V722 -- V276;
+	V722 -- V275;
+	V722 -- V274;
+	V722 -- V273;
+	V722 -- V717;
+	V722 -- V714;
+	V722 -- V713;
+	V722 -- V719;
+	V722 -- V718;
+	V722 -- V283;
+	V722 -- V282;
+	V722 -- V281;
+	V722 -- V720;
+	V722 -- V146;
+	V722 -- V344;
+	V722 -- V145;
+	V722 -- V343;
+	V722 -- V144;
+	V722 -- V342;
+	V722 -- V143;
+	V722 -- V341;
+	V722 -- V284;
+	V600 -- V558;
+	V600 -- V557;
+	V600 -- V14;
+	V600 -- V324;
+	V600 -- V599;
+	V600 -- V13;
+	V600 -- V323;
+	V600 -- V16;
+	V600 -- V322;
+	V600 -- V15;
+	V600 -- V321;
+	V721 -- V278;
+	V721 -- V277;
+	V721 -- V276;
+	V721 -- V275;
+	V721 -- V274;
+	V721 -- V273;
+	V721 -- V717;
+	V721 -- V714;
+	V721 -- V713;
+	V721 -- V719;
+	V721 -- V718;
+	V721 -- V283;
+	V721 -- V282;
+	V721 -- V281;
+	V721 -- V720;
+	V721 -- V146;
+	V721 -- V344;
+	V721 -- V145;
+	V721 -- V343;
+	V721 -- V144;
+	V721 -- V342;
+	V721 -- V143;
+	V721 -- V341;
+	V721 -- V284;
+	V608 -- V607;
+	V608 -- V556;
+	V608 -- V272;
+	V608 -- V271;
+	V608 -- V270;
+	V608 -- V269;
+	V608 -- V555;
+	V608 -- V276;
+	V608 -- V584;
+	V608 -- V583;
+	V608 -- V274;
+	V292 -- V272;
+	V292 -- V271;
+	V292 -- V270;
+	V292 -- V291;
+	V292 -- V290;
+	V292 -- V269;
+	V292 -- V289;
+	V291 -- V272;
+	V291 -- V271;
+	V291 -- V270;
+	V291 -- V290;
+	V291 -- V269;
+	V291 -- V289;
+	V290 -- V289;
+	V717 -- V607;
+	V717 -- V272;
+	V717 -- V271;
+	V717 -- V270;
+	V717 -- V555;
+	V717 -- V278;
+	V717 -- V277;
+	V717 -- V276;
+	V717 -- V274;
+	V717 -- V714;
+	V717 -- V713;
+	V717 -- V556;
+	V717 -- V269;
+	V717 -- V146;
+	V717 -- V145;
+	V717 -- V144;
+	V717 -- V584;
+	V717 -- V143;
+	V717 -- V583;
+	V714 -- V607;
+	V714 -- V271;
+	V714 -- V555;
+	V714 -- V277;
+	V714 -- V276;
+	V714 -- V275;
+	V714 -- V274;
+	V714 -- V273;
+	V714 -- V713;
+	V714 -- V556;
+	V714 -- V283;
+	V714 -- V282;
+	V714 -- V281;
+	V714 -- V269;
+	V714 -- V146;
+	V714 -- V344;
+	V714 -- V145;
+	V714 -- V343;
+	V714 -- V144;
+	V714 -- V342;
+	V714 -- V584;
+	V714 -- V143;
+	V714 -- V341;
+	V714 -- V583;
+	V714 -- V284;
+	V713 -- V272;
+	V713 -- V270;
+	V713 -- V555;
+	V713 -- V278;
+	V713 -- V276;
+	V713 -- V275;
+	V713 -- V274;
+	V713 -- V273;
+	V713 -- V556;
+	V713 -- V283;
+	V713 -- V282;
+	V713 -- V281;
+	V713 -- V146;
+	V713 -- V344;
+	V713 -- V145;
+	V713 -- V343;
+	V713 -- V144;
+	V713 -- V342;
+	V713 -- V584;
+	V713 -- V143;
+	V713 -- V341;
+	V713 -- V583;
+	V713 -- V284;
+	V719 -- V607;
+	V719 -- V272;
+	V719 -- V271;
+	V719 -- V270;
+	V719 -- V555;
+	V719 -- V278;
+	V719 -- V277;
+	V719 -- V276;
+	V719 -- V275;
+	V719 -- V274;
+	V719 -- V273;
+	V719 -- V717;
+	V719 -- V714;
+	V719 -- V713;
+	V719 -- V556;
+	V719 -- V718;
+	V719 -- V269;
+	V719 -- V146;
+	V719 -- V145;
+	V719 -- V144;
+	V719 -- V584;
+	V719 -- V143;
+	V719 -- V583;
+	V718 -- V607;
+	V718 -- V608;
+	V718 -- V272;
+	V718 -- V271;
+	V718 -- V270;
+	V718 -- V555;
+	V718 -- V278;
+	V718 -- V277;
+	V718 -- V275;
+	V718 -- V273;
+	V718 -- V717;
+	V718 -- V714;
+	V718 -- V713;
+	V718 -- V556;
+	V718 -- V269;
+	V718 -- V146;
+	V718 -- V145;
+	V718 -- V144;
+	V718 -- V584;
+	V718 -- V143;
+	V718 -- V583;
+	V283 -- V282;
+	V283 -- V146;
+	V283 -- V278;
+	V283 -- V145;
+	V283 -- V277;
+	V283 -- V144;
+	V283 -- V143;
+	V282 -- V281;
+	V282 -- V146;
+	V282 -- V278;
+	V282 -- V145;
+	V282 -- V277;
+	V282 -- V144;
+	V282 -- V143;
+	V281 -- V146;
+	V281 -- V278;
+	V281 -- V145;
+	V281 -- V277;
+	V281 -- V144;
+	V281 -- V143;
+	V720 -- V607;
+	V720 -- V608;
+	V720 -- V272;
+	V720 -- V271;
+	V720 -- V270;
+	V720 -- V555;
+	V720 -- V278;
+	V720 -- V277;
+	V720 -- V276;
+	V720 -- V275;
+	V720 -- V274;
+	V720 -- V273;
+	V720 -- V717;
+	V720 -- V714;
+	V720 -- V713;
+	V720 -- V556;
+	V720 -- V719;
+	V720 -- V718;
+	V720 -- V269;
+	V720 -- V146;
+	V720 -- V145;
+	V720 -- V144;
+	V720 -- V584;
+	V720 -- V143;
+	V720 -- V583;
+	V284 -- V283;
+	V284 -- V281;
+	V284 -- V146;
+	V284 -- V278;
+	V284 -- V145;
+	V284 -- V277;
+	V284 -- V144;
+	V284 -- V143;
+	V629 -- V272;
+	V629 -- V271;
+	V629 -- V270;
+	V629 -- V292;
+	V629 -- V291;
+	V629 -- V269;
+	V748 -- V747;
+	V748 -- V614;
+	V748 -- V613;
+	V748 -- V744;
+	V748 -- V743;
+	V748 -- V664;
+	V748 -- V663;
+	V626 -- V580;
+	V626 -- V625;
+	V626 -- V579;
+	V626 -- V622;
+	V626 -- V621;
+	V747 -- V614;
+	V747 -- V613;
+	V747 -- V744;
+	V747 -- V743;
+	V747 -- V664;
+	V747 -- V663;
+	V625 -- V580;
+	V625 -- V579;
+	V625 -- V622;
+	V625 -- V621;
+	V746 -- V745;
+	V746 -- V600;
+	V746 -- V566;
+	V746 -- V588;
+	V746 -- V599;
+	V746 -- V565;
+	V746 -- V587;
+	V746 -- V585;
+	V745 -- V600;
+	V745 -- V566;
+	V745 -- V588;
+	V745 -- V599;
+	V745 -- V565;
+	V745 -- V587;
+	V745 -- V586;
+	V745 -- V585;
+	V744 -- V328;
+	V744 -- V327;
+	V744 -- V326;
+	V744 -- V325;
+	V744 -- V743;
+	V744 -- V664;
+	V744 -- V264;
+	V744 -- V263;
+	V622 -- V349;
+	V622 -- V579;
+	V622 -- V578;
+	V622 -- V580;
+	V622 -- V591;
+	V622 -- V621;
+	V622 -- V234;
+	V622 -- V233;
+	V622 -- V562;
+	V622 -- V561;
+	V622 -- V592;
+	V743 -- V328;
+	V743 -- V327;
+	V743 -- V326;
+	V743 -- V325;
+	V743 -- V664;
+	V743 -- V663;
+	V743 -- V264;
+	V743 -- V263;
+	V632 -- V629;
+	V632 -- V631;
+	V632 -- V630;
+	V632 -- V594;
+	V632 -- V593;
+	V631 -- V629;
+	V631 -- V323;
+	V631 -- V630;
+	V631 -- V321;
+	V631 -- V594;
+	V631 -- V593;
+	V630 -- V272;
+	V630 -- V629;
+	V630 -- V271;
+	V630 -- V270;
+	V630 -- V292;
+	V630 -- V291;
+	V630 -- V269;
+	V618 -- V617;
+	V618 -- V616;
+	V618 -- V615;
+	V618 -- V305;
+	V618 -- V205;
+	V618 -- V127;
+	V618 -- V303;
+	V618 -- V589;
+	V618 -- V596;
+	V618 -- V595;
+	V618 -- V130;
+	V617 -- V590;
+	V617 -- V616;
+	V617 -- V615;
+	V617 -- V589;
+	V617 -- V596;
+	V617 -- V595;
+	V616 -- V615;
+	V616 -- V206;
+	V616 -- V128;
+	V616 -- V205;
+	V616 -- V127;
+	V616 -- V130;
+	V615 -- V129;
+	V615 -- V206;
+	V615 -- V128;
+	V615 -- V127;
+	V614 -- V558;
+	V614 -- V613;
+	V614 -- V557;
+	V614 -- V598;
+	V614 -- V597;
+	V614 -- V594;
+	V614 -- V593;
+	V613 -- V558;
+	V613 -- V557;
+	V613 -- V598;
+	V613 -- V597;
+	V613 -- V594;
+	V613 -- V593;
+	V14 -- V13;
+	V621 -- V579;
+	V621 -- V580;
+	V621 -- V591;
+	V621 -- V577;
+	V621 -- V234;
+	V621 -- V233;
+	V621 -- V562;
+	V621 -- V561;
+	V621 -- V350;
+	V621 -- V592;
+	V16 -- V13;
+	V16 -- V15;
+	V15 -- V14;
+	V768 -- V629;
+	V768 -- V747;
+	V768 -- V746;
+	V768 -- V767;
+	V768 -- V600;
+	V768 -- V666;
+	V768 -- V290;
+	V768 -- V599;
+	V768 -- V598;
+	V768 -- V631;
+	V768 -- V597;
+	V768 -- V630;
+	V768 -- V594;
+	V768 -- V614;
+	V768 -- V558;
+	V768 -- V613;
+	V768 -- V557;
+	V768 -- V14;
+	V768 -- V324;
+	V768 -- V665;
+	V768 -- V13;
+	V768 -- V323;
+	V768 -- V565;
+	V768 -- V16;
+	V768 -- V322;
+	V768 -- V586;
+	V768 -- V15;
+	V768 -- V321;
+	V646 -- V645;
+	V646 -- V268;
+	V646 -- V267;
+	V646 -- V266;
+	V646 -- V265;
+	V767 -- V747;
+	V767 -- V746;
+	V767 -- V745;
+	V767 -- V600;
+	V767 -- V666;
+	V767 -- V765;
+	V767 -- V591;
+	V767 -- V290;
+	V767 -- V599;
+	V767 -- V632;
+	V767 -- V631;
+	V767 -- V597;
+	V767 -- V594;
+	V767 -- V593;
+	V767 -- V614;
+	V767 -- V636;
+	V767 -- V558;
+	V767 -- V557;
+	V767 -- V634;
+	V767 -- V633;
+	V767 -- V14;
+	V767 -- V324;
+	V767 -- V665;
+	V767 -- V13;
+	V767 -- V323;
+	V767 -- V565;
+	V767 -- V587;
+	V767 -- V16;
+	V767 -- V322;
+	V767 -- V586;
+	V767 -- V15;
+	V767 -- V321;
+	V645 -- V566;
+	V645 -- V268;
+	V645 -- V267;
+	V645 -- V266;
+	V645 -- V265;
+	V766 -- V748;
+	V766 -- V747;
+	V766 -- V614;
+	V766 -- V613;
+	V766 -- V765;
+	V765 -- V748;
+	V765 -- V747;
+	V765 -- V614;
+	V765 -- V613;
+	V652 -- V651;
+	V518 -- V517;
+	V518 -- V306;
+	V518 -- V305;
+	V518 -- V349;
+	V518 -- V238;
+	V518 -- V304;
+	V518 -- V237;
+	V518 -- V303;
+	V518 -- V350;
+	V517 -- V306;
+	V517 -- V305;
+	V517 -- V349;
+	V517 -- V238;
+	V517 -- V304;
+	V517 -- V237;
+	V517 -- V303;
+	V517 -- V350;
+	V636 -- V559;
+	V636 -- V602;
+	V636 -- V635;
+	V636 -- V601;
+	V636 -- V634;
+	V636 -- V633;
+	V636 -- V566;
+	V636 -- V565;
+	V636 -- V560;
+	V635 -- V559;
+	V635 -- V602;
+	V635 -- V601;
+	V635 -- V634;
+	V635 -- V633;
+	V635 -- V566;
+	V635 -- V565;
+	V635 -- V330;
+	V635 -- V560;
+	V634 -- V591;
+	V634 -- V329;
+	V634 -- V633;
+	V634 -- V330;
+	V634 -- V352;
+	V634 -- V351;
+	V634 -- V592;
+	V633 -- V591;
+	V633 -- V329;
+	V633 -- V330;
+	V633 -- V352;
+	V633 -- V351;
+	V633 -- V592;
+	V764 -- V328;
+	V764 -- V327;
+	V764 -- V326;
+	V764 -- V744;
+	V764 -- V325;
+	V764 -- V743;
+	V764 -- V763;
+	V764 -- V264;
+	V764 -- V263;
+	V763 -- V328;
+	V763 -- V327;
+	V763 -- V326;
+	V763 -- V744;
+	V763 -- V325;
+	V763 -- V743;
+	V763 -- V264;
+	V763 -- V263;
+	V520 -- V519;
+	V880 -- V879;
+	V880 -- V80;
+	V306 -- V305;
+	V306 -- V238;
+	V306 -- V304;
+	V306 -- V237;
+	V306 -- V303;
+	V305 -- V238;
+	V305 -- V304;
+	V305 -- V237;
+	V305 -- V303;
+	V668 -- V667;
+	V789 -- V768;
+	V789 -- V788;
+	V789 -- V787;
+	V304 -- V238;
+	V304 -- V237;
+	V304 -- V303;
+	V667 -- V618;
+	V667 -- V616;
+	V667 -- V615;
+	V667 -- V206;
+	V667 -- V130;
+	V788 -- V607;
+	V788 -- V768;
+	V788 -- V723;
+	V788 -- V556;
+	V788 -- V721;
+	V788 -- V787;
+	V788 -- V608;
+	V788 -- V555;
+	V788 -- V145;
+	V788 -- V143;
+	V303 -- V238;
+	V303 -- V237;
+	V666 -- V614;
+	V666 -- V558;
+	V666 -- V613;
+	V666 -- V557;
+	V666 -- V600;
+	V666 -- V14;
+	V666 -- V324;
+	V666 -- V599;
+	V666 -- V665;
+	V666 -- V13;
+	V666 -- V323;
+	V666 -- V598;
+	V666 -- V16;
+	V666 -- V322;
+	V666 -- V597;
+	V666 -- V15;
+	V666 -- V321;
+	V666 -- V594;
+	V666 -- V593;
+	V787 -- V607;
+	V787 -- V556;
+	V787 -- V608;
+	V787 -- V718;
+	V787 -- V271;
+	V787 -- V269;
+	V787 -- V555;
+	V787 -- V720;
+	V787 -- V276;
+	V787 -- V274;
+	V555 -- V272;
+	V555 -- V271;
+	V555 -- V270;
+	V555 -- V269;
+	V555 -- V278;
+	V555 -- V277;
+	V555 -- V276;
+	V555 -- V275;
+	V555 -- V274;
+	V555 -- V273;
+	V797 -- V796;
+	V797 -- V795;
+	V796 -- V795;
+	V796 -- V794;
+	V796 -- V793;
+	V795 -- V767;
+	V795 -- V794;
+	V795 -- V793;
+	V794 -- V767;
+	V794 -- V793;
+	V794 -- V792;
+	V794 -- V791;
+	V793 -- V768;
+	V793 -- V767;
+	V793 -- V792;
+	V793 -- V791;
+	V792 -- V768;
+	V792 -- V767;
+	V792 -- V789;
+	V792 -- V791;
+	V792 -- V790;
+	V791 -- V767;
+	V791 -- V789;
+	V791 -- V790;
+	V790 -- V768;
+	V790 -- V767;
+	V790 -- V789;
+	V790 -- V788;
+	V790 -- V787;
+	V790 -- V289;
+	V54 -- V53;
+	V665 -- V614;
+	V665 -- V558;
+	V665 -- V613;
+	V665 -- V557;
+	V665 -- V600;
+	V665 -- V14;
+	V665 -- V324;
+	V665 -- V599;
+	V665 -- V13;
+	V665 -- V323;
+	V665 -- V598;
+	V665 -- V16;
+	V665 -- V322;
+	V665 -- V597;
+	V665 -- V15;
+	V665 -- V321;
+	V665 -- V594;
+	V665 -- V593;
+	V786 -- V614;
+	V786 -- V558;
+	V786 -- V613;
+	V786 -- V767;
+	V786 -- V557;
+	V786 -- V665;
+	V786 -- V598;
+	V786 -- V785;
+	V786 -- V597;
+	V786 -- V594;
+	V786 -- V593;
+	V664 -- V663;
+	V785 -- V614;
+	V785 -- V768;
+	V785 -- V613;
+	V785 -- V767;
+	V785 -- V557;
+	V785 -- V666;
+	V785 -- V598;
+	V785 -- V597;
+	V785 -- V594;
+	V785 -- V593;
+	V662 -- V646;
+	V662 -- V645;
+	V662 -- V661;
+	V661 -- V646;
+	V661 -- V645;
+	V328 -- V327;
+	V328 -- V326;
+	V328 -- V325;
+	V328 -- V264;
+	V328 -- V263;
+	V206 -- V129;
+	V206 -- V128;
+	V206 -- V205;
+	V206 -- V127;
+	V327 -- V326;
+	V327 -- V325;
+	V327 -- V264;
+	V327 -- V263;
+	V205 -- V128;
+	V205 -- V127;
+	V205 -- V130;
+	V326 -- V325;
+	V326 -- V264;
+	V326 -- V263;
+	V325 -- V264;
+	V325 -- V263;
+	V577 -- V349;
+	V577 -- V234;
+	V577 -- V233;
+	V577 -- V562;
+	V577 -- V561;
+	V330 -- V329;
+	V559 -- V268;
+	V559 -- V267;
+	V559 -- V266;
+	V559 -- V265;
+	V558 -- V557;
+	V558 -- V14;
+	V558 -- V324;
+	V558 -- V13;
+	V558 -- V323;
+	V558 -- V16;
+	V558 -- V322;
+	V558 -- V15;
+	V558 -- V321;
+	V436 -- V261;
+	V436 -- V435;
+	V436 -- V262;
+	V557 -- V14;
+	V557 -- V324;
+	V557 -- V13;
+	V557 -- V323;
+	V557 -- V16;
+	V557 -- V322;
+	V557 -- V15;
+	V557 -- V321;
+	V799 -- V768;
+	V799 -- V767;
+	V799 -- V798;
+	V799 -- V797;
+	V435 -- V261;
+	V435 -- V262;
+	V556 -- V272;
+	V556 -- V271;
+	V556 -- V270;
+	V556 -- V269;
+	V556 -- V555;
+	V556 -- V278;
+	V556 -- V277;
+	V556 -- V276;
+	V556 -- V275;
+	V556 -- V274;
+	V556 -- V273;
+	V798 -- V768;
+	V798 -- V797;
+	V798 -- V796;
+	V798 -- V795;
+	V324 -- V14;
+	V324 -- V13;
+	V324 -- V323;
+	V324 -- V16;
+	V324 -- V322;
+	V324 -- V15;
+	V324 -- V321;
+	V566 -- V559;
+	V566 -- V565;
+	V566 -- V330;
+	V566 -- V560;
+	V79 -- V53;
+	V323 -- V13;
+	V323 -- V15;
+	V323 -- V321;
+	V565 -- V559;
+	V565 -- V560;
+	V322 -- V13;
+	V322 -- V16;
+	V322 -- V15;
+	V322 -- V321;
+	V321 -- V14;
+	V321 -- V16;
+	V321 -- V15;
+	V562 -- V349;
+	V562 -- V234;
+	V562 -- V233;
+	V562 -- V561;
+	V562 -- V350;
+	V561 -- V349;
+	V561 -- V234;
+	V561 -- V233;
+	V561 -- V350;
+	V560 -- V559;
+	V560 -- V268;
+	V560 -- V267;
+	V560 -- V266;
+	V560 -- V265;
+	V349 -- V238;
+	V349 -- V237;
+	V349 -- V234;
+	V349 -- V233;
+	V81 -- V79;
+	V81 -- V289;
+	V81 -- V80;
+	V80 -- V53;
+	V80 -- V79;
+	V80 -- V651;
+	V80 -- V790;
+	V83 -- V748;
+	V83 -- V747;
+	V83 -- V614;
+	V83 -- V613;
+	V83 -- V766;
+	V83 -- V765;
+	V591 -- V329;
+	V591 -- V349;
+	V591 -- V578;
+	V591 -- V577;
+	V591 -- V234;
+	V591 -- V233;
+	V591 -- V562;
+	V591 -- V330;
+	V591 -- V352;
+	V591 -- V561;
+	V591 -- V351;
+	V591 -- V350;
+	V82 -- V290;
+	V82 -- V79;
+	V82 -- V81;
+	V82 -- V80;
+	V590 -- V589;
+	V85 -- V83;
+	V85 -- V748;
+	V85 -- V84;
+	V85 -- V747;
+	V85 -- V614;
+	V85 -- V613;
+	V85 -- V766;
+	V85 -- V765;
+	V84 -- V83;
+	V84 -- V748;
+	V84 -- V747;
+	V84 -- V614;
+	V84 -- V613;
+	V84 -- V765;
+	V84 -- V785;
+	V86 -- V83;
+	V86 -- V85;
+	V86 -- V748;
+	V86 -- V84;
+	V86 -- V747;
+	V86 -- V614;
+	V86 -- V613;
+	V86 -- V766;
+	V86 -- V765;
+	V86 -- V785;
+	V236 -- V235;
+	V236 -- V234;
+	V236 -- V233;
+	V599 -- V558;
+	V599 -- V557;
+	V599 -- V14;
+	V599 -- V324;
+	V599 -- V13;
+	V599 -- V323;
+	V599 -- V16;
+	V599 -- V322;
+	V599 -- V15;
+	V599 -- V321;
+	V235 -- V234;
+	V235 -- V233;
+	V598 -- V519;
+	V598 -- V558;
+	V598 -- V557;
+	V598 -- V520;
+	V598 -- V597;
+	V598 -- V594;
+	V598 -- V593;
+	V234 -- V233;
+	V476 -- V436;
+	V476 -- V435;
+	V476 -- V475;
+	V597 -- V519;
+	V597 -- V558;
+	V597 -- V557;
+	V597 -- V520;
+	V597 -- V594;
+	V597 -- V593;
+	V475 -- V436;
+	V475 -- V435;
+	V596 -- V590;
+	V596 -- V589;
+	V596 -- V595;
+	V595 -- V590;
+	V595 -- V589;
+	V352 -- V329;
+	V352 -- V236;
+	V352 -- V235;
+	V352 -- V330;
+	V352 -- V351;
+	V594 -- V558;
+	V594 -- V557;
+	V594 -- V323;
+	V594 -- V321;
+	V594 -- V593;
+	V351 -- V329;
+	V351 -- V236;
+	V351 -- V235;
+	V351 -- V330;
+	V593 -- V558;
+	V593 -- V557;
+	V350 -- V349;
+	V350 -- V238;
+	V350 -- V237;
+	V350 -- V234;
+	V350 -- V233;
+	V592 -- V329;
+	V592 -- V349;
+	V592 -- V578;
+	V592 -- V591;
+	V592 -- V577;
+	V592 -- V234;
+	V592 -- V233;
+	V592 -- V562;
+	V592 -- V330;
+	V592 -- V352;
+	V592 -- V561;
+	V592 -- V351;
+	V592 -- V350;
+	V578 -- V577;
+	V578 -- V234;
+	V578 -- V233;
+	V578 -- V562;
+	V578 -- V561;
+	V578 -- V350;
+	V580 -- V579;
+	V588 -- V566;
+	V588 -- V565;
+	V588 -- V587;
+	V588 -- V586;
+	V588 -- V585;
+	V587 -- V566;
+	V587 -- V565;
+	V587 -- V586;
+	V587 -- V585;
+	V344 -- V283;
+	V344 -- V282;
+	V344 -- V146;
+	V344 -- V278;
+	V344 -- V145;
+	V344 -- V277;
+	V344 -- V343;
+	V344 -- V144;
+	V344 -- V143;
+	V344 -- V341;
+	V344 -- V284;
+	V586 -- V566;
+	V586 -- V268;
+	V586 -- V565;
+	V586 -- V266;
+	V586 -- V585;
+	V343 -- V283;
+	V343 -- V281;
+	V343 -- V146;
+	V343 -- V278;
+	V343 -- V145;
+	V343 -- V277;
+	V343 -- V144;
+	V343 -- V342;
+	V343 -- V143;
+	V343 -- V284;
+	V585 -- V566;
+	V585 -- V565;
+	V342 -- V283;
+	V342 -- V282;
+	V342 -- V146;
+	V342 -- V278;
+	V342 -- V145;
+	V342 -- V277;
+	V342 -- V144;
+	V342 -- V143;
+	V342 -- V341;
+	V342 -- V284;
+	V584 -- V556;
+	V584 -- V272;
+	V584 -- V271;
+	V584 -- V270;
+	V584 -- V269;
+	V584 -- V555;
+	V584 -- V278;
+	V584 -- V277;
+	V584 -- V276;
+	V584 -- V275;
+	V584 -- V583;
+	V584 -- V274;
+	V584 -- V273;
+	V584 -- V284;
+	V341 -- V283;
+	V341 -- V281;
+	V341 -- V146;
+	V341 -- V278;
+	V341 -- V145;
+	V341 -- V277;
+	V341 -- V144;
+	V341 -- V143;
+	V341 -- V284;
+	V583 -- V556;
+	V583 -- V272;
+	V583 -- V271;
+	V583 -- V270;
+	V583 -- V269;
+	V583 -- V555;
+	V583 -- V278;
+	V583 -- V277;
+	V583 -- V276;
+	V583 -- V275;
+	V583 -- V274;
+	V583 -- V273;
+}
+
+Starting the algorithm...
+var `V482' = 44
+var `V475' = 484
+var `V476' = 722
+var `V481' = 282
+var `V668' = 44
+var `V129' = 254
+var `V128' = 352
+var `V206' = 540
+var `V667' = 282
+var `V205' = 778
+var `V615' = 380
+var `V130' = 16
+var `V616' = 142
+var `V127' = 114
+var `V261' = 666
+var `V435' = 442
+var `V436' = 680
+var `V879' = 484
+var `V652' = 114
+var `V54' = 296
+var `V590' = 554
+var `V589' = 792
+var `V617' = 72
+var `V618' = 310
+var `V662' = 498
+var `V661' = 736
+var `V262' = 428
+var `V304' = 296
+var `V306' = 100
+var `V303' = 380
+var `V305' = 16
+var `V880' = 722
+var `V651' = 352
+var `V53' = 58
+var `V81' = 414
+var `V79' = 58
+var `V595' = 380
+var `V596' = 142
+var `V646' = 352
+var `V603' = 142
+var `V604' = 380
+var `V265' = 792
+var `V267' = 156
+var `V764' = 296
+var `V763' = 58
+var `V264' = 380
+var `V327' = 254
+var `V325' = 254
+var `V326' = 16
+var `V263' = 142
+var `V328' = 16
+var `V645' = 114
+var `V606' = 128
+var `V605' = 366
+var `V235' = 142
+var `V236' = 380
+var `V625' = 428
+var `V626' = 666
+var `V580' = 324
+var `V237' = 30
+var `V518' = 366
+var `V238' = 268
+var `V517' = 128
+var `V583' = 456
+var `V584' = 694
+var `V282' = 512
+var `V281' = 750
+var `V343' = 540
+var `V344' = 778
+var `V341' = 128
+var `V342' = 366
+var `V283' = 380
+var `V284' = 142
+var `V724' = 156
+var `V146' = 156
+var `V144' = 156
+var `V273' = 666
+var `V275' = 554
+var `V717' = 666
+var `V722' = 652
+var `V719' = 254
+var `V718' = 86
+var `V276' = 554
+var `V274' = 428
+var `V720' = 352
+var `V713' = 268
+var `V277' = 792
+var `V714' = 114
+var `V278' = 100
+var `V270' = 16
+var `V272' = 484
+var `V269' = 16
+var `V271' = 722
+var `V608' = 666
+var `V607' = 428
+var `V556' = 736
+var `V555' = 128
+var `V143' = 30
+var `V723' = 16
+var `V145' = 394
+var `V721' = 414
+var `V796' = 30
+var `V797' = 366
+var `V579' = 86
+var `V82' = 652
+var `V292' = 512
+var `V291' = 750
+var `V289' = 666
+var `V80' = 296
+var `V787' = 268
+var `V266' = 554
+var `V268' = 394
+var `V519' = 352
+var `V520' = 114
+var `V663' = 708
+var `V585' = 156
+var `V588' = 324
+var `V664' = 470
+var `V602' = 498
+var `V601' = 736
+var `V635' = 324
+var `V560' = 310
+var `V559' = 72
+var `V744' = 778
+var `V566' = 680
+var `V743' = 540
+var `V351' = 268
+var `V329' = 128
+var `V352' = 30
+var `V578' = 792
+var `V330' = 366
+var `V577' = 554
+var `V350' = 142
+var `V622' = 778
+var `V621' = 540
+var `V234' = 338
+var `V561' = 352
+var `V233' = 100
+var `V562' = 114
+var `V349' = 380
+var `V801' = 30
+var `V592' = 470
+var `V766' = 456
+var `V84' = 114
+var `V83' = 72
+var `V85' = 380
+var `V86' = 338
+var `V748' = 268
+var `V789' = 30
+var `V798' = 128
+var `V630' = 694
+var `V629' = 456
+var `V788' = 540
+var `V598' = 442
+var `V613' = 282
+var `V795' = 268
+var `V794' = 296
+var `V791' = 142
+var `V632' = 666
+var `V792' = 380
+var `V290' = 428
+var `V793' = 58
+var `V799' = 666
+var `V800' = 428
+var `V631' = 428
+var `V790' = 30
+var `V587' = 86
+var `V745' = 268
+var `V746' = 470
+var `V633' = 722
+var `V634' = 484
+var `V636' = 86
+var `V765' = 694
+var `V586' = 254
+var `V786' = 142
+var `V593' = 708
+var `V14' = 338
+var `V747' = 30
+var `V565' = 30
+var `V785' = 380
+var `V597' = 680
+var `V322' = 366
+var `V13' = 100
+var `V802' = 268
+var `V16' = 414
+var `V599' = 114
+var `V594' = 470
+var `V600' = 352
+var `V323' = 526
+var `V15' = 652
+var `V324' = 764
+var `V321' = 128
+var `V591' = 708
+var `V614' = 44
+var `V558' = 456
+var `V557' = 694
+var `V666' = 554
+var `V665' = 792
+var `V768' = 310
+var `V767' = 72
+Total cost of reported solution: 23
+Algorithm finished in 51,207 ms (simulated time)
+Number of messages sent (by type): 
+	[ALL, DSA, VALUE]:	8,756
+	[ALL, DSA, VALUE]:	7,562
+	[ALL, DSA, VALUE]:	4,378
+	[ALL, DSA, VALUE]:	4,378
+	[ALL, DSA, VALUE]:	4,577
+	[ALL, DSA, VALUE]:	4,378
+	[ALL, DSA, VALUE]:	4,179
+	[ALL, DSA, VALUE]:	3,980
+	[ALL, DSA, VALUE]:	3,184
+	[ALL, DSA, VALUE]:	2,985
+	[ALL, DSA, VALUE]:	2,786
+	[ALL, DSA, VALUE]:	2,786
+	[ALL, DSA, VALUE]:	3,383
+	[ALL, DSA, VALUE]:	3,383
+	[ALL, DSA, VALUE]:	3,383
+	[ALL, DSA, VALUE]:	2,587
+	[ALL, DSA, VALUE]:	3,184
+	[ALL, DSA, VALUE]:	2,587
+	[ALL, DSA, VALUE]:	2,587
+	[ALL, DSA, VALUE]:	2,985
+	[ALL, DSA, VALUE]:	2,587
+	[ALL, DSA, VALUE]:	2,985
+	[ALL, DSA, VALUE]:	2,985
+	[ALL, DSA, VALUE]:	2,388
+	[ALL, DSA, VALUE]:	2,786
+	[ALL, DSA, VALUE]:	2,189
+	[ALL, DSA, VALUE]:	1,990
+	[ALL, DSA, VALUE]:	1,990
+	[ALL, DSA, VALUE]:	1,990
+	[ALL, DSA, VALUE]:	1,990
+	[ALL, DSA, VALUE]:	1,990
+	[ALL, DSA, VALUE]:	1,990
+	[ALL, DSA, VALUE]:	1,990
+	[ALL, DSA, VALUE]:	1,592
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,592
+	[ALL, DSA, VALUE]:	1,393
+	[ALL, DSA, VALUE]:	1,393
+	[ALL, DSA, VALUE]:	1,194
+	[ALL, DSA, VALUE]:	1,393
+	[ALL, DSA, VALUE]:	1,194
+	[ALL, DSA, VALUE]:	1,194
+	[ALL, DSA, VALUE]:	1,194
+	[ALL, DSA, VALUE]:	1,194
+	[ALL, DSA, VALUE]:	3,980
+	[ALL, DSA, VALUE]:	2,786
+	[ALL, DSA, VALUE]:	2,388
+	[ALL, DSA, VALUE]:	1,990
+	[ALL, DSA, VALUE]:	1,990
+	[ALL, DSA, VALUE]:	1,194
+	[ALL, DSA, VALUE]:	1,194
+	[ALL, DSA, VALUE]:	2,587
+	[ALL, DSA, VALUE]:	1,990
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,592
+	[ALL, DSA, VALUE]:	3,781
+	[ALL, DSA, VALUE]:	2,985
+	[ALL, DSA, VALUE]:	2,985
+	[ALL, DSA, VALUE]:	2,985
+	[ALL, DSA, VALUE]:	2,985
+	[ALL, DSA, VALUE]:	2,985
+	[ALL, DSA, VALUE]:	2,985
+	[ALL, DSA, VALUE]:	2,985
+	[ALL, DSA, VALUE]:	2,985
+	[ALL, DSA, VALUE]:	2,985
+	[ALL, DSA, VALUE]:	2,189
+	[ALL, DSA, VALUE]:	1,990
+	[ALL, DSA, VALUE]:	1,990
+	[ALL, DSA, VALUE]:	1,393
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	2,587
+	[ALL, DSA, VALUE]:	2,985
+	[ALL, DSA, VALUE]:	2,388
+	[ALL, DSA, VALUE]:	2,587
+	[ALL, DSA, VALUE]:	2,587
+	[ALL, DSA, VALUE]:	1,990
+	[ALL, DSA, VALUE]:	1,990
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	995
+	[ALL, DSA, VALUE]:	1,393
+	[ALL, DSA, VALUE]:	1,393
+	[ALL, DSA, VALUE]:	796
+	[ALL, DSA, VALUE]:	597
+	[ALL, DSA, VALUE]:	597
+	[ALL, DSA, VALUE]:	1,990
+	[ALL, DSA, VALUE]:	1,990
+	[ALL, DSA, VALUE]:	2,587
+	[ALL, DSA, VALUE]:	1,393
+	[ALL, DSA, VALUE]:	995
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	796
+	[ALL, DSA, VALUE]:	1,194
+	[ALL, DSA, VALUE]:	995
+	[ALL, DSA, VALUE]:	995
+	[ALL, DSA, VALUE]:	5,572
+	[ALL, DSA, VALUE]:	5,174
+	[ALL, DSA, VALUE]:	5,174
+	[ALL, DSA, VALUE]:	5,174
+	[ALL, DSA, VALUE]:	4,577
+	[ALL, DSA, VALUE]:	4,577
+	[ALL, DSA, VALUE]:	3,383
+	[ALL, DSA, VALUE]:	2,985
+	[ALL, DSA, VALUE]:	4,378
+	[ALL, DSA, VALUE]:	4,378
+	[ALL, DSA, VALUE]:	4,179
+	[ALL, DSA, VALUE]:	4,179
+	[ALL, DSA, VALUE]:	6,567
+	[ALL, DSA, VALUE]:	6,567
+	[ALL, DSA, VALUE]:	6,368
+	[ALL, DSA, VALUE]:	6,368
+	[ALL, DSA, VALUE]:	5,970
+	[ALL, DSA, VALUE]:	5,572
+	[ALL, DSA, VALUE]:	5,572
+	[ALL, DSA, VALUE]:	5,572
+	[ALL, DSA, VALUE]:	5,572
+	[ALL, DSA, VALUE]:	5,373
+	[ALL, DSA, VALUE]:	5,174
+	[ALL, DSA, VALUE]:	5,174
+	[ALL, DSA, VALUE]:	5,174
+	[ALL, DSA, VALUE]:	4,975
+	[ALL, DSA, VALUE]:	4,975
+	[ALL, DSA, VALUE]:	4,975
+	[ALL, DSA, VALUE]:	3,781
+	[ALL, DSA, VALUE]:	3,582
+	[ALL, DSA, VALUE]:	3,383
+	[ALL, DSA, VALUE]:	3,383
+	[ALL, DSA, VALUE]:	3,383
+	[ALL, DSA, VALUE]:	3,383
+	[ALL, DSA, VALUE]:	3,184
+	[ALL, DSA, VALUE]:	3,184
+	[ALL, DSA, VALUE]:	4,378
+	[ALL, DSA, VALUE]:	4,179
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	995
+	[ALL, DSA, VALUE]:	995
+	[ALL, DSA, VALUE]:	995
+	[ALL, DSA, VALUE]:	995
+	[ALL, DSA, VALUE]:	995
+	[ALL, DSA, VALUE]:	597
+	[ALL, DSA, VALUE]:	597
+	[ALL, DSA, VALUE]:	1,592
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,592
+	[ALL, DSA, VALUE]:	1,393
+	[ALL, DSA, VALUE]:	1,393
+	[ALL, DSA, VALUE]:	1,393
+	[ALL, DSA, VALUE]:	1,393
+	[ALL, DSA, VALUE]:	796
+	[ALL, DSA, VALUE]:	796
+	[ALL, DSA, VALUE]:	597
+	[ALL, DSA, VALUE]:	398
+	[ALL, DSA, VALUE]:	398
+	[ALL, DSA, VALUE]:	1,592
+	[ALL, DSA, VALUE]:	1,592
+	[ALL, DSA, VALUE]:	1,393
+	[ALL, DSA, VALUE]:	1,393
+	[ALL, DSA, VALUE]:	796
+	[ALL, DSA, VALUE]:	597
+	[ALL, DSA, VALUE]:	597
+	[ALL, DSA, VALUE]:	2,388
+	[ALL, DSA, VALUE]:	1,393
+	[ALL, DSA, VALUE]:	995
+	[ALL, DSA, VALUE]:	796
+	[ALL, DSA, VALUE]:	199
+	[ALL, DSA, VALUE]:	199
+	[ALL, DSA, VALUE]:	199
+	[ALL, DSA, VALUE]:	1,393
+	[ALL, DSA, VALUE]:	1,393
+	[ALL, DSA, VALUE]:	597
+	[ALL, DSA, VALUE]:	1,592
+	[ALL, DSA, VALUE]:	1,791
+	[ALL, DSA, VALUE]:	1,393
+	[ALL, DSA, VALUE]:	1,592
+	[ALL, DSA, VALUE]:	1,194
+	[ALL, DSA, VALUE]:	1,194
+	[ALL, DSA, VALUE]:	1,393
+	[ALL, DSA, VALUE]:	1,393
+	[ALL, DSA, VALUE]:	995
+	[ALL, DSA, VALUE]:	199
+	[ALL, DSA, VALUE]:	995
+	[ALL, DSA, VALUE]:	995
+	[ALL, DSA, VALUE]:	995
+	[ALL, DSA, VALUE]:	995
+	- Total:	491,530
+Number of messages sent (by agent): 
+	agent127:	1,592
+	agent128:	1,393
+	agent129:	995
+	agent13:	2,587
+	agent130:	1,393
+	agent14:	2,388
+	agent143:	5,174
+	agent144:	4,975
+	agent145:	5,174
+	agent146:	4,975
+	agent15:	2,786
+	agent16:	2,587
+	agent205:	1,194
+	agent206:	1,393
+	agent233:	2,985
+	agent234:	2,985
+	agent235:	995
+	agent236:	995
+	agent237:	1,791
+	agent238:	1,791
+	agent261:	597
+	agent262:	796
+	agent263:	1,791
+	agent264:	1,791
+	agent265:	1,791
+	agent266:	1,990
+	agent267:	1,791
+	agent268:	1,990
+	agent269:	4,378
+	agent270:	4,179
+	agent271:	4,378
+	agent272:	4,179
+	agent273:	5,174
+	agent274:	5,572
+	agent275:	5,174
+	agent276:	5,572
+	agent277:	6,368
+	agent278:	6,567
+	agent281:	3,184
+	agent282:	3,184
+	agent283:	3,582
+	agent284:	3,781
+	agent289:	995
+	agent290:	1,194
+	agent291:	1,791
+	agent292:	1,791
+	agent303:	1,592
+	agent304:	1,393
+	agent305:	1,592
+	agent306:	1,393
+	agent321:	3,184
+	agent322:	2,587
+	agent323:	2,786
+	agent324:	2,985
+	agent325:	1,791
+	agent326:	1,791
+	agent327:	1,791
+	agent328:	1,791
+	agent329:	1,393
+	agent330:	1,990
+	agent341:	3,383
+	agent342:	3,383
+	agent343:	3,383
+	agent344:	3,383
+	agent349:	2,985
+	agent350:	2,985
+	agent351:	1,791
+	agent352:	1,791
+	agent435:	1,393
+	agent436:	1,393
+	agent475:	995
+	agent476:	995
+	agent481:	995
+	agent482:	995
+	agent517:	1,791
+	agent518:	1,791
+	agent519:	597
+	agent520:	597
+	agent53:	597
+	agent54:	199
+	agent555:	4,577
+	agent556:	4,577
+	agent557:	4,577
+	agent558:	4,378
+	agent559:	2,587
+	agent560:	2,587
+	agent561:	2,985
+	agent562:	2,985
+	agent565:	2,985
+	agent566:	2,985
+	agent577:	2,189
+	agent578:	1,990
+	agent579:	1,194
+	agent580:	995
+	agent583:	4,179
+	agent584:	4,378
+	agent585:	1,393
+	agent586:	1,990
+	agent587:	1,592
+	agent588:	1,393
+	agent589:	995
+	agent590:	796
+	agent591:	3,980
+	agent592:	3,781
+	agent593:	2,786
+	agent594:	3,383
+	agent595:	1,393
+	agent596:	1,393
+	agent597:	2,985
+	agent598:	2,786
+	agent599:	3,383
+	agent600:	3,383
+	agent601:	1,990
+	agent602:	1,791
+	agent603:	1,393
+	agent604:	1,592
+	agent605:	597
+	agent606:	597
+	agent607:	3,383
+	agent608:	2,985
+	agent613:	3,980
+	agent614:	4,179
+	agent615:	1,592
+	agent616:	1,791
+	agent617:	1,393
+	agent618:	2,388
+	agent621:	2,985
+	agent622:	2,985
+	agent625:	995
+	agent626:	995
+	agent629:	1,990
+	agent630:	1,990
+	agent631:	1,791
+	agent632:	1,194
+	agent633:	1,990
+	agent634:	1,990
+	agent635:	1,990
+	agent636:	1,990
+	agent645:	1,592
+	agent646:	1,393
+	agent651:	398
+	agent652:	199
+	agent661:	597
+	agent662:	597
+	agent663:	796
+	agent664:	995
+	agent665:	4,378
+	agent666:	4,378
+	agent667:	1,194
+	agent668:	199
+	agent713:	6,368
+	agent714:	6,567
+	agent717:	5,174
+	agent718:	5,572
+	agent719:	5,572
+	agent720:	5,970
+	agent721:	5,572
+	agent722:	5,373
+	agent723:	5,174
+	agent724:	4,975
+	agent743:	2,587
+	agent744:	2,388
+	agent745:	1,990
+	agent746:	1,990
+	agent747:	2,985
+	agent748:	2,587
+	agent763:	1,791
+	agent764:	1,791
+	agent765:	1,990
+	agent766:	1,592
+	agent767:	8,756
+	agent768:	7,562
+	agent785:	2,587
+	agent786:	2,189
+	agent787:	2,587
+	agent788:	2,388
+	agent789:	1,194
+	agent79:	796
+	agent790:	1,791
+	agent791:	1,194
+	agent792:	1,393
+	agent793:	1,393
+	agent794:	1,194
+	agent795:	1,194
+	agent796:	995
+	agent797:	995
+	agent798:	1,194
+	agent799:	1,393
+	agent80:	1,393
+	agent800:	1,592
+	agent801:	2,985
+	agent802:	3,184
+	agent81:	796
+	agent82:	796
+	agent83:	1,791
+	agent84:	1,791
+	agent85:	1,791
+	agent86:	1,990
+	agent879:	199
+	agent880:	398
+Number of messages received (by agent): 
+	agent127:	1,592
+	agent128:	1,393
+	agent129:	995
+	agent13:	2,587
+	agent130:	1,393
+	agent14:	2,388
+	agent143:	5,174
+	agent144:	4,975
+	agent145:	5,174
+	agent146:	4,975
+	agent15:	2,786
+	agent16:	2,587
+	agent205:	1,194
+	agent206:	1,393
+	agent233:	2,985
+	agent234:	2,985
+	agent235:	995
+	agent236:	995
+	agent237:	1,791
+	agent238:	1,791
+	agent261:	597
+	agent262:	796
+	agent263:	1,791
+	agent264:	1,791
+	agent265:	1,791
+	agent266:	1,990
+	agent267:	1,791
+	agent268:	1,990
+	agent269:	4,378
+	agent270:	4,179
+	agent271:	4,378
+	agent272:	4,179
+	agent273:	5,174
+	agent274:	5,572
+	agent275:	5,174
+	agent276:	5,572
+	agent277:	6,368
+	agent278:	6,567
+	agent281:	3,184
+	agent282:	3,184
+	agent283:	3,582
+	agent284:	3,781
+	agent289:	995
+	agent290:	1,194
+	agent291:	1,791
+	agent292:	1,791
+	agent303:	1,592
+	agent304:	1,393
+	agent305:	1,592
+	agent306:	1,393
+	agent321:	3,184
+	agent322:	2,587
+	agent323:	2,786
+	agent324:	2,985
+	agent325:	1,791
+	agent326:	1,791
+	agent327:	1,791
+	agent328:	1,791
+	agent329:	1,393
+	agent330:	1,990
+	agent341:	3,383
+	agent342:	3,383
+	agent343:	3,383
+	agent344:	3,383
+	agent349:	2,985
+	agent350:	2,985
+	agent351:	1,791
+	agent352:	1,791
+	agent435:	1,393
+	agent436:	1,393
+	agent475:	995
+	agent476:	995
+	agent481:	995
+	agent482:	995
+	agent517:	1,791
+	agent518:	1,791
+	agent519:	597
+	agent520:	597
+	agent53:	597
+	agent54:	199
+	agent555:	4,577
+	agent556:	4,577
+	agent557:	4,577
+	agent558:	4,378
+	agent559:	2,587
+	agent560:	2,587
+	agent561:	2,985
+	agent562:	2,985
+	agent565:	2,985
+	agent566:	2,985
+	agent577:	2,189
+	agent578:	1,990
+	agent579:	1,194
+	agent580:	995
+	agent583:	4,179
+	agent584:	4,378
+	agent585:	1,393
+	agent586:	1,990
+	agent587:	1,592
+	agent588:	1,393
+	agent589:	995
+	agent590:	796
+	agent591:	3,980
+	agent592:	3,781
+	agent593:	2,786
+	agent594:	3,383
+	agent595:	1,393
+	agent596:	1,393
+	agent597:	2,985
+	agent598:	2,786
+	agent599:	3,383
+	agent600:	3,383
+	agent601:	1,990
+	agent602:	1,791
+	agent603:	1,393
+	agent604:	1,592
+	agent605:	597
+	agent606:	597
+	agent607:	3,383
+	agent608:	2,985
+	agent613:	3,980
+	agent614:	4,179
+	agent615:	1,592
+	agent616:	1,791
+	agent617:	1,393
+	agent618:	2,388
+	agent621:	2,985
+	agent622:	2,985
+	agent625:	995
+	agent626:	995
+	agent629:	1,990
+	agent630:	1,990
+	agent631:	1,791
+	agent632:	1,194
+	agent633:	1,990
+	agent634:	1,990
+	agent635:	1,990
+	agent636:	1,990
+	agent645:	1,592
+	agent646:	1,393
+	agent651:	398
+	agent652:	199
+	agent661:	597
+	agent662:	597
+	agent663:	796
+	agent664:	995
+	agent665:	4,378
+	agent666:	4,378
+	agent667:	1,194
+	agent668:	199
+	agent713:	6,368
+	agent714:	6,567
+	agent717:	5,174
+	agent718:	5,572
+	agent719:	5,572
+	agent720:	5,970
+	agent721:	5,572
+	agent722:	5,373
+	agent723:	5,174
+	agent724:	4,975
+	agent743:	2,587
+	agent744:	2,388
+	agent745:	1,990
+	agent746:	1,990
+	agent747:	2,985
+	agent748:	2,587
+	agent763:	1,791
+	agent764:	1,791
+	agent765:	1,990
+	agent766:	1,592
+	agent767:	8,756
+	agent768:	7,562
+	agent785:	2,587
+	agent786:	2,189
+	agent787:	2,587
+	agent788:	2,388
+	agent789:	1,194
+	agent79:	796
+	agent790:	1,791
+	agent791:	1,194
+	agent792:	1,393
+	agent793:	1,393
+	agent794:	1,194
+	agent795:	1,194
+	agent796:	995
+	agent797:	995
+	agent798:	1,194
+	agent799:	1,393
+	agent80:	1,393
+	agent800:	1,592
+	agent801:	2,985
+	agent802:	3,184
+	agent81:	796
+	agent82:	796
+	agent83:	1,791
+	agent84:	1,791
+	agent85:	1,791
+	agent86:	1,990
+	agent879:	199
+	agent880:	398
+Amount of information sent (by type, in bytes): 
+	[ALL, DSA, VALUE]:	185,588
+	[ALL, DSA, VALUE]:	159,292
+	[ALL, DSA, VALUE]:	92,440
+	[ALL, DSA, VALUE]:	92,220
+	[ALL, DSA, VALUE]:	96,412
+	[ALL, DSA, VALUE]:	92,220
+	[ALL, DSA, VALUE]:	88,238
+	[ALL, DSA, VALUE]:	83,840
+	[ALL, DSA, VALUE]:	67,389
+	[ALL, DSA, VALUE]:	62,876
+	[ALL, DSA, VALUE]:	58,798
+	[ALL, DSA, VALUE]:	58,826
+	[ALL, DSA, VALUE]:	71,430
+	[ALL, DSA, VALUE]:	71,264
+	[ALL, DSA, VALUE]:	71,430
+	[ALL, DSA, VALUE]:	54,481
+	[ALL, DSA, VALUE]:	67,360
+	[ALL, DSA, VALUE]:	54,481
+	[ALL, DSA, VALUE]:	54,857
+	[ALL, DSA, VALUE]:	63,030
+	[ALL, DSA, VALUE]:	54,494
+	[ALL, DSA, VALUE]:	63,180
+	[ALL, DSA, VALUE]:	63,176
+	[ALL, DSA, VALUE]:	50,398
+	[ALL, DSA, VALUE]:	58,828
+	[ALL, DSA, VALUE]:	46,222
+	[ALL, DSA, VALUE]:	41,920
+	[ALL, DSA, VALUE]:	42,016
+	[ALL, DSA, VALUE]:	42,020
+	[ALL, DSA, VALUE]:	42,020
+	[ALL, DSA, VALUE]:	42,020
+	[ALL, DSA, VALUE]:	41,920
+	[ALL, DSA, VALUE]:	42,020
+	[ALL, DSA, VALUE]:	33,616
+	[ALL, DSA, VALUE]:	37,817
+	[ALL, DSA, VALUE]:	37,818
+	[ALL, DSA, VALUE]:	33,536
+	[ALL, DSA, VALUE]:	29,414
+	[ALL, DSA, VALUE]:	29,344
+	[ALL, DSA, VALUE]:	25,151
+	[ALL, DSA, VALUE]:	29,344
+	[ALL, DSA, VALUE]:	25,152
+	[ALL, DSA, VALUE]:	25,212
+	[ALL, DSA, VALUE]:	25,212
+	[ALL, DSA, VALUE]:	25,212
+	[ALL, DSA, VALUE]:	84,076
+	[ALL, DSA, VALUE]:	58,828
+	[ALL, DSA, VALUE]:	50,304
+	[ALL, DSA, VALUE]:	41,920
+	[ALL, DSA, VALUE]:	42,020
+	[ALL, DSA, VALUE]:	25,212
+	[ALL, DSA, VALUE]:	25,212
+	[ALL, DSA, VALUE]:	54,622
+	[ALL, DSA, VALUE]:	41,997
+	[ALL, DSA, VALUE]:	37,797
+	[ALL, DSA, VALUE]:	37,716
+	[ALL, DSA, VALUE]:	37,878
+	[ALL, DSA, VALUE]:	33,533
+	[ALL, DSA, VALUE]:	80,028
+	[ALL, DSA, VALUE]:	63,030
+	[ALL, DSA, VALUE]:	63,030
+	[ALL, DSA, VALUE]:	63,180
+	[ALL, DSA, VALUE]:	63,030
+	[ALL, DSA, VALUE]:	63,300
+	[ALL, DSA, VALUE]:	63,030
+	[ALL, DSA, VALUE]:	63,030
+	[ALL, DSA, VALUE]:	63,180
+	[ALL, DSA, VALUE]:	62,880
+	[ALL, DSA, VALUE]:	46,112
+	[ALL, DSA, VALUE]:	41,920
+	[ALL, DSA, VALUE]:	42,020
+	[ALL, DSA, VALUE]:	29,470
+	[ALL, DSA, VALUE]:	37,728
+	[ALL, DSA, VALUE]:	37,728
+	[ALL, DSA, VALUE]:	54,496
+	[ALL, DSA, VALUE]:	62,880
+	[ALL, DSA, VALUE]:	50,424
+	[ALL, DSA, VALUE]:	54,756
+	[ALL, DSA, VALUE]:	54,652
+	[ALL, DSA, VALUE]:	41,920
+	[ALL, DSA, VALUE]:	42,020
+	[ALL, DSA, VALUE]:	37,818
+	[ALL, DSA, VALUE]:	21,010
+	[ALL, DSA, VALUE]:	29,344
+	[ALL, DSA, VALUE]:	29,344
+	[ALL, DSA, VALUE]:	16,768
+	[ALL, DSA, VALUE]:	12,576
+	[ALL, DSA, VALUE]:	12,606
+	[ALL, DSA, VALUE]:	41,920
+	[ALL, DSA, VALUE]:	42,040
+	[ALL, DSA, VALUE]:	54,496
+	[ALL, DSA, VALUE]:	29,333
+	[ALL, DSA, VALUE]:	21,009
+	[ALL, DSA, VALUE]:	37,728
+	[ALL, DSA, VALUE]:	37,818
+	[ALL, DSA, VALUE]:	16,797
+	[ALL, DSA, VALUE]:	25,152
+	[ALL, DSA, VALUE]:	21,010
+	[ALL, DSA, VALUE]:	20,960
+	[ALL, DSA, VALUE]:	117,656
+	[ALL, DSA, VALUE]:	109,512
+	[ALL, DSA, VALUE]:	109,252
+	[ALL, DSA, VALUE]:	109,252
+	[ALL, DSA, VALUE]:	96,876
+	[ALL, DSA, VALUE]:	96,646
+	[ALL, DSA, VALUE]:	71,264
+	[ALL, DSA, VALUE]:	63,030
+	[ALL, DSA, VALUE]:	92,224
+	[ALL, DSA, VALUE]:	92,444
+	[ALL, DSA, VALUE]:	88,242
+	[ALL, DSA, VALUE]:	88,242
+	[ALL, DSA, VALUE]:	138,336
+	[ALL, DSA, VALUE]:	138,336
+	[ALL, DSA, VALUE]:	134,464
+	[ALL, DSA, VALUE]:	134,528
+	[ALL, DSA, VALUE]:	126,660
+	[ALL, DSA, VALUE]:	117,376
+	[ALL, DSA, VALUE]:	117,376
+	[ALL, DSA, VALUE]:	117,376
+	[ALL, DSA, VALUE]:	117,936
+	[ALL, DSA, VALUE]:	113,454
+	[ALL, DSA, VALUE]:	109,512
+	[ALL, DSA, VALUE]:	109,824
+	[ALL, DSA, VALUE]:	109,252
+	[ALL, DSA, VALUE]:	105,050
+	[ALL, DSA, VALUE]:	105,050
+	[ALL, DSA, VALUE]:	105,050
+	[ALL, DSA, VALUE]:	79,838
+	[ALL, DSA, VALUE]:	75,672
+	[ALL, DSA, VALUE]:	71,434
+	[ALL, DSA, VALUE]:	71,434
+	[ALL, DSA, VALUE]:	71,434
+	[ALL, DSA, VALUE]:	71,264
+	[ALL, DSA, VALUE]:	67,232
+	[ALL, DSA, VALUE]:	67,072
+	[ALL, DSA, VALUE]:	92,444
+	[ALL, DSA, VALUE]:	88,620
+	[ALL, DSA, VALUE]:	37,818
+	[ALL, DSA, VALUE]:	37,818
+	[ALL, DSA, VALUE]:	37,818
+	[ALL, DSA, VALUE]:	37,818
+	[ALL, DSA, VALUE]:	21,010
+	[ALL, DSA, VALUE]:	20,960
+	[ALL, DSA, VALUE]:	21,010
+	[ALL, DSA, VALUE]:	20,960
+	[ALL, DSA, VALUE]:	21,010
+	[ALL, DSA, VALUE]:	12,576
+	[ALL, DSA, VALUE]:	12,606
+	[ALL, DSA, VALUE]:	33,536
+	[ALL, DSA, VALUE]:	37,818
+	[ALL, DSA, VALUE]:	37,818
+	[ALL, DSA, VALUE]:	37,818
+	[ALL, DSA, VALUE]:	37,818
+	[ALL, DSA, VALUE]:	37,890
+	[ALL, DSA, VALUE]:	37,980
+	[ALL, DSA, VALUE]:	37,728
+	[ALL, DSA, VALUE]:	37,818
+	[ALL, DSA, VALUE]:	37,818
+	[ALL, DSA, VALUE]:	37,818
+	[ALL, DSA, VALUE]:	33,632
+	[ALL, DSA, VALUE]:	29,414
+	[ALL, DSA, VALUE]:	29,414
+	[ALL, DSA, VALUE]:	29,414
+	[ALL, DSA, VALUE]:	29,414
+	[ALL, DSA, VALUE]:	16,796
+	[ALL, DSA, VALUE]:	16,761
+	[ALL, DSA, VALUE]:	12,597
+	[ALL, DSA, VALUE]:	8,383
+	[ALL, DSA, VALUE]:	8,403
+	[ALL, DSA, VALUE]:	33,616
+	[ALL, DSA, VALUE]:	33,616
+	[ALL, DSA, VALUE]:	29,344
+	[ALL, DSA, VALUE]:	29,344
+	[ALL, DSA, VALUE]:	16,808
+	[ALL, DSA, VALUE]:	12,606
+	[ALL, DSA, VALUE]:	12,576
+	[ALL, DSA, VALUE]:	50,304
+	[ALL, DSA, VALUE]:	29,344
+	[ALL, DSA, VALUE]:	21,010
+	[ALL, DSA, VALUE]:	16,768
+	[ALL, DSA, VALUE]:	4,190
+	[ALL, DSA, VALUE]:	4,202
+	[ALL, DSA, VALUE]:	4,202
+	[ALL, DSA, VALUE]:	29,344
+	[ALL, DSA, VALUE]:	29,414
+	[ALL, DSA, VALUE]:	12,606
+	[ALL, DSA, VALUE]:	33,536
+	[ALL, DSA, VALUE]:	37,818
+	[ALL, DSA, VALUE]:	29,414
+	[ALL, DSA, VALUE]:	33,616
+	[ALL, DSA, VALUE]:	25,212
+	[ALL, DSA, VALUE]:	25,212
+	[ALL, DSA, VALUE]:	29,414
+	[ALL, DSA, VALUE]:	29,344
+	[ALL, DSA, VALUE]:	21,010
+	[ALL, DSA, VALUE]:	4,192
+	[ALL, DSA, VALUE]:	21,010
+	[ALL, DSA, VALUE]:	21,020
+	[ALL, DSA, VALUE]:	21,010
+	[ALL, DSA, VALUE]:	21,020
+	- Total:	10,376,500
+Amount of information sent (by agent, in bytes): 
+	agent127:	33,536
+	agent128:	29,414
+	agent129:	21,010
+	agent13:	54,481
+	agent130:	29,414
+	agent14:	50,398
+	agent143:	109,252
+	agent144:	105,050
+	agent145:	109,512
+	agent146:	105,050
+	agent15:	58,798
+	agent16:	54,481
+	agent205:	25,212
+	agent206:	29,344
+	agent233:	63,030
+	agent234:	63,030
+	agent235:	21,010
+	agent236:	20,960
+	agent237:	37,818
+	agent238:	37,818
+	agent261:	12,606
+	agent262:	16,808
+	agent263:	37,818
+	agent264:	37,980
+	agent265:	37,818
+	agent266:	42,040
+	agent267:	37,818
+	agent268:	41,920
+	agent269:	92,444
+	agent270:	88,242
+	agent271:	92,224
+	agent272:	88,242
+	agent273:	109,252
+	agent274:	117,376
+	agent275:	109,824
+	agent276:	117,376
+	agent277:	134,464
+	agent278:	138,336
+	agent281:	67,232
+	agent282:	67,072
+	agent283:	75,672
+	agent284:	79,838
+	agent289:	21,009
+	agent290:	25,151
+	agent291:	37,728
+	agent292:	37,818
+	agent303:	33,616
+	agent304:	29,344
+	agent305:	33,616
+	agent306:	29,344
+	agent321:	67,389
+	agent322:	54,857
+	agent323:	58,826
+	agent324:	62,876
+	agent325:	37,818
+	agent326:	37,818
+	agent327:	37,890
+	agent328:	37,818
+	agent329:	29,470
+	agent330:	41,920
+	agent341:	71,434
+	agent342:	71,434
+	agent343:	71,264
+	agent344:	71,434
+	agent349:	63,030
+	agent350:	62,880
+	agent351:	37,728
+	agent352:	37,728
+	agent435:	29,414
+	agent436:	29,344
+	agent475:	21,020
+	agent476:	21,020
+	agent481:	21,010
+	agent482:	21,010
+	agent517:	37,818
+	agent518:	37,818
+	agent519:	12,606
+	agent520:	12,576
+	agent53:	12,597
+	agent54:	4,190
+	agent555:	96,876
+	agent556:	96,646
+	agent557:	96,412
+	agent558:	92,220
+	agent559:	54,756
+	agent560:	54,652
+	agent561:	63,300
+	agent562:	63,180
+	agent565:	63,180
+	agent566:	62,880
+	agent577:	46,112
+	agent578:	42,020
+	agent579:	25,152
+	agent580:	21,010
+	agent583:	88,620
+	agent584:	92,444
+	agent585:	29,344
+	agent586:	41,920
+	agent587:	33,616
+	agent588:	29,344
+	agent589:	21,010
+	agent590:	16,768
+	agent591:	83,840
+	agent592:	80,028
+	agent593:	58,828
+	agent594:	71,264
+	agent595:	29,414
+	agent596:	29,414
+	agent597:	63,030
+	agent598:	58,828
+	agent599:	71,430
+	agent600:	71,430
+	agent601:	41,920
+	agent602:	37,818
+	agent603:	29,414
+	agent604:	33,632
+	agent605:	12,606
+	agent606:	12,576
+	agent607:	71,264
+	agent608:	63,030
+	agent613:	84,076
+	agent614:	88,238
+	agent615:	33,616
+	agent616:	37,818
+	agent617:	29,344
+	agent618:	50,304
+	agent621:	63,030
+	agent622:	63,180
+	agent625:	21,010
+	agent626:	20,960
+	agent629:	41,920
+	agent630:	42,020
+	agent631:	37,818
+	agent632:	25,152
+	agent633:	42,020
+	agent634:	42,020
+	agent635:	42,020
+	agent636:	42,020
+	agent645:	33,536
+	agent646:	29,414
+	agent651:	8,383
+	agent652:	4,202
+	agent661:	12,606
+	agent662:	12,576
+	agent663:	16,768
+	agent664:	21,010
+	agent665:	92,440
+	agent666:	92,220
+	agent667:	25,212
+	agent668:	4,192
+	agent713:	134,528
+	agent714:	138,336
+	agent717:	109,512
+	agent718:	117,376
+	agent719:	117,936
+	agent720:	126,660
+	agent721:	117,656
+	agent722:	113,454
+	agent723:	109,252
+	agent724:	105,050
+	agent743:	54,496
+	agent744:	50,424
+	agent745:	42,020
+	agent746:	41,920
+	agent747:	63,176
+	agent748:	54,622
+	agent763:	37,728
+	agent764:	37,818
+	agent765:	42,016
+	agent766:	33,533
+	agent767:	185,588
+	agent768:	159,292
+	agent785:	54,494
+	agent786:	46,222
+	agent787:	54,496
+	agent788:	50,304
+	agent789:	25,212
+	agent79:	16,796
+	agent790:	37,817
+	agent791:	25,212
+	agent792:	29,344
+	agent793:	29,344
+	agent794:	25,212
+	agent795:	25,212
+	agent796:	20,960
+	agent797:	21,010
+	agent798:	25,212
+	agent799:	29,414
+	agent80:	29,333
+	agent800:	33,536
+	agent801:	63,030
+	agent802:	67,360
+	agent81:	16,761
+	agent82:	16,797
+	agent83:	37,716
+	agent84:	37,878
+	agent85:	37,797
+	agent86:	41,997
+	agent879:	4,202
+	agent880:	8,403
+Amount of information received (by agent, in bytes): 
+	agent127:	33,596
+	agent128:	29,394
+	agent129:	20,990
+	agent13:	54,584
+	agent130:	29,394
+	agent14:	50,375
+	agent143:	109,238
+	agent144:	105,056
+	agent145:	109,238
+	agent146:	105,056
+	agent15:	58,795
+	agent16:	54,594
+	agent205:	25,182
+	agent206:	29,404
+	agent233:	63,046
+	agent234:	63,046
+	agent235:	20,980
+	agent236:	20,990
+	agent237:	37,788
+	agent238:	37,788
+	agent261:	12,596
+	agent262:	16,800
+	agent263:	37,824
+	agent264:	37,806
+	agent265:	37,814
+	agent266:	42,004
+	agent267:	37,814
+	agent268:	42,016
+	agent269:	92,454
+	agent270:	88,274
+	agent271:	92,454
+	agent272:	88,274
+	agent273:	109,252
+	agent274:	117,708
+	agent275:	109,252
+	agent276:	117,708
+	agent277:	134,496
+	agent278:	138,700
+	agent281:	67,204
+	agent282:	67,226
+	agent283:	75,608
+	agent284:	79,822
+	agent289:	20,979
+	agent290:	25,206
+	agent291:	37,788
+	agent292:	37,778
+	agent303:	33,586
+	agent304:	29,404
+	agent305:	33,586
+	agent306:	29,404
+	agent321:	67,191
+	agent322:	54,578
+	agent323:	58,781
+	agent324:	63,008
+	agent325:	37,824
+	agent326:	37,824
+	agent327:	37,816
+	agent328:	37,824
+	agent329:	29,384
+	agent330:	41,988
+	agent341:	71,428
+	agent342:	71,408
+	agent343:	71,428
+	agent344:	71,408
+	agent349:	63,056
+	agent350:	63,066
+	agent351:	37,796
+	agent352:	37,796
+	agent435:	29,408
+	agent436:	29,418
+	agent475:	21,002
+	agent476:	21,002
+	agent481:	21,004
+	agent482:	21,004
+	agent517:	37,788
+	agent518:	37,788
+	agent519:	12,596
+	agent520:	12,606
+	agent53:	12,579
+	agent54:	4,199
+	agent555:	96,638
+	agent556:	96,648
+	agent557:	96,606
+	agent558:	92,414
+	agent559:	54,612
+	agent560:	54,620
+	agent561:	63,028
+	agent562:	63,036
+	agent565:	62,988
+	agent566:	62,982
+	agent577:	46,258
+	agent578:	42,038
+	agent579:	25,202
+	agent580:	21,000
+	agent583:	88,246
+	agent584:	92,466
+	agent585:	29,384
+	agent586:	41,998
+	agent587:	33,592
+	agent588:	29,384
+	agent589:	20,980
+	agent590:	16,798
+	agent591:	84,070
+	agent592:	79,832
+	agent593:	58,786
+	agent594:	71,402
+	agent595:	29,374
+	agent596:	29,374
+	agent597:	62,978
+	agent598:	58,760
+	agent599:	71,392
+	agent600:	71,392
+	agent601:	42,022
+	agent602:	37,820
+	agent603:	29,420
+	agent604:	33,620
+	agent605:	12,624
+	agent606:	12,634
+	agent607:	71,454
+	agent608:	63,008
+	agent613:	83,972
+	agent614:	88,192
+	agent615:	33,576
+	agent616:	37,778
+	agent617:	29,394
+	agent618:	50,404
+	agent621:	63,036
+	agent622:	63,046
+	agent625:	21,000
+	agent626:	21,010
+	agent629:	41,980
+	agent630:	41,970
+	agent631:	37,804
+	agent632:	25,208
+	agent633:	42,014
+	agent634:	42,014
+	agent635:	42,012
+	agent636:	42,038
+	agent645:	33,588
+	agent646:	29,386
+	agent651:	8,393
+	agent652:	4,192
+	agent661:	12,586
+	agent662:	12,596
+	agent663:	16,808
+	agent664:	21,000
+	agent665:	92,404
+	agent666:	92,404
+	agent667:	25,182
+	agent668:	4,202
+	agent713:	134,496
+	agent714:	138,700
+	agent717:	109,252
+	agent718:	117,708
+	agent719:	117,678
+	agent720:	126,062
+	agent721:	117,652
+	agent722:	113,460
+	agent723:	109,238
+	agent724:	105,056
+	agent743:	54,642
+	agent744:	50,440
+	agent745:	41,996
+	agent746:	42,006
+	agent747:	63,000
+	agent748:	54,600
+	agent763:	37,834
+	agent764:	37,824
+	agent765:	42,030
+	agent766:	33,613
+	agent767:	184,768
+	agent768:	159,584
+	agent785:	54,609
+	agent786:	46,200
+	agent787:	54,596
+	agent788:	50,414
+	agent789:	25,172
+	agent79:	16,778
+	agent790:	37,783
+	agent791:	25,208
+	agent792:	29,410
+	agent793:	29,400
+	agent794:	25,198
+	agent795:	25,208
+	agent796:	21,000
+	agent797:	20,990
+	agent798:	25,182
+	agent799:	29,418
+	agent80:	29,380
+	agent800:	33,620
+	agent801:	63,046
+	agent802:	67,246
+	agent81:	16,789
+	agent82:	16,770
+	agent83:	37,814
+	agent84:	37,796
+	agent85:	37,805
+	agent86:	41,996
+	agent879:	4,202
+	agent880:	8,393
+Size of the largest message sent (by type, in bytes): 
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	231
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	231
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	231
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	231
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	231
+	[ALL, DSA, VALUE]:	231
+	[ALL, DSA, VALUE]:	231
+	[ALL, DSA, VALUE]:	231
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	231
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	231
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	230
+	[ALL, DSA, VALUE]:	231
+	[ALL, DSA, VALUE]:	230
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	230
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	[ALL, DSA, VALUE]:	232
+	- Overall maximum:	232
+Writing the solution to the file: result_dsa_2

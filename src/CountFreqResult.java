@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class CountFreqResult {
     public static void main(String[] args) {
         try {
-            File fXmlFile = new File("/home/alyhdr/Desktop/multi-agent/result_sbb_0");
+            File fXmlFile = new File("/home/alyhdr/Desktop/multi-agent/result_sbb_2");
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
             Document doc = dBuilder.parse(fXmlFile);
